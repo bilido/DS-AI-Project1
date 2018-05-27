@@ -1,0 +1,288 @@
+https://www.salon.com/2018/05/26/a-pioneering-heart-surgeons-secret-history-of-research-violations_partner/
+[]
+2018-05-26 00:00:00
+A pioneering heart surgeon’s secret history of research violations
+
+There’s a story Bud Frazier tells often. It was around 1966, and Frazier, now one of the world’s most celebrated heart surgeons, was a medical student at Baylor College of Medicine.
+
+An Italian teenager had come to Houston for an aortic valve replacement, but at some point during or after the surgery, the teen’s heart stopped. Doctors told Frazier to reach in and start pumping the failed organ by hand.
+
+As he did so, the teen lifted a hand to Frazier’s face, and in that moment, just before the patient died, he says he realized his life’s calling.
+
+“As long as I was massaging that kid’s heart, he would wake up,” Frazier, now 78, said last year. “I thought then, and I’ve often returned to this: If my hand can keep this kid alive, why couldn’t we make a device to do the same?”
+
+In the five decades since, Dr. O.H. “Bud” Frazier has obsessively pursued that goal, contributing to many breakthroughs in the long and unfinished effort to develop a permanent mechanical replacement for the human heart. Today, devices he tested at Baylor St. Luke’s Medical Center and its research partner, the Texas Heart Institute, are credited with extending the lives of thousands of people worldwide each year.
+
+But out of public view, Frazier has been accused of violating federal research rules and skirting ethical guidelines, putting his quest to make medical history ahead of the needs of some patients, an investigation by ProPublica and the Houston Chronicle has found. Reporters reviewed internal hospital reports, federal court filings, financial disclosures and government documents. The records and interviews with former St. Luke’s physicians show:
+
+Frazier and his team implanted experimental heart pumps in patients who did not meet medical criteria to be included in clinical trials, according to a hospital investigation a decade ago. The findings, which have never been disclosed publicly, prompted St. Luke’s to report serious research violations to the federal government and repay millions of dollars to Medicare.
+
+A former top St. Luke’s cardiologist said he believes that Frazier favored experimental heart pumps over more proven treatments and that Frazier was reluctant to acknowledge when the devices led to serious complications. Two other doctors made similar observations. In one instance, one of them said Frazier discouraged publication of research that found a high rate of strokes in the first group of patients implanted with a pump he championed.
+
+Frazier has often failed to publicly disclose consulting fees and research grants — and in one case, stock options he received and later transferred to his son — from companies that made the pumps he tested. Most medical journals require such disclosure so that other scientists and the public can judge whether personal interests may have influenced research findings.
+
+And a former St. Luke’s nurse alleged that Frazier allowed a researcher who was not licensed to practice medicine in Texas to treat heart failure patients in his program. Her 1994 lawsuit, which was backed by patient records, testimony and secret recordings of hospital employees, revealed that Frazier’s signature stamp was sometimes used to authorize the researcher’s improper medical orders.
+
+Over time, several St. Luke’s and Texas Heart executives were made aware of many of these allegations. But for years, they took little or no action to rein in a doctor whose work continues to earn the hospital international acclaim, according to records and interviews.
+
+Frazier continued to operate on patients well into his 70s, and during those latter years, his Medicare outcomes ranked among the worst in the country. From 2010-15, about half of the traditional Medicare patients who received an implantable heart assist device from Frazier died within a year, nearly double the national mortality rate for such patients, according to a ProPublica analysis of federal data.
+
+In a phone interview in April and subsequent written responses to questions, Frazier denied any wrongdoing and said his patients were sicker and higher risk than those treated at other hospitals.
+
+He disputed the accuracy of a report commissioned by St. Luke’s that described “serious and repeated” research violations in his program. He said he never discouraged the publication of negative research findings about heart pumps. He said he could have cashed in on his work with medical device makers, but he never did. And Frazier’s lawyer maintained that the unlicensed physician who worked under him more than two decades ago did not treat patients.
+
+“It’s sort of discouraging,” Frazier said, “to be impugned after working so hard to keep these patients alive.”
+
+Officials at St. Luke’s and Baylor College of Medicine, where Frazier remains on the faculty, hailed him as a great surgeon and a pioneer. Frazier stopped operating full time in 2015, at the age of 75, but remains in a prominent role at Texas Heart, seeing patients and working toward his ultimate goal of a permanent artificial heart.
+
+Supporters defend his actions, arguing that he followed the example of Michael DeBakey and Denton Cooley, the pioneering cardiac surgeons under whom he trained. Both tried untested techniques when the field of heart surgery was in its infancy; Cooley famously obtained an artificial heart from DeBakey’s lab without his approval and implanted it in a patient, becoming the first in the world to do so.
+
+Like his mentors, Frazier was willing to try promising but unproven medical devices to help desperate patients, his allies say. If he broke rules, they say it was to give dying people a shot at survival, a mission that consumed his life. Frazier was so committed to the work, he was known to roam the hospital late into the night checking on patients and often slept on a leather sofa in his office.
+
+Dr. Billy Cohn, a longtime Texas Heart surgeon who has worked closely with Frazier since 2004, defended Frazier’s approach to clinical research: “He had a different view of the world. If he had had the modern view, this field wouldn’t exist, and tens of thousands of patients wouldn’t be alive.”
+
+Dr. Frank Smart, Texas Heart’s top transplant cardiologist between 2003 and 2006, sees it differently. Smart said he admired Frazier’s commitment to developing lifesaving heart pumps, but he believed it led him to surgically implant the devices into some patients who were not yet sick enough to justify what was, at the time, an experimental treatment.
+
+Frazier’s drive likely moved the field forward, Smart said, but he and others worried that it sometimes came at the expense of individual patients.
+
+“In the old days of medicine … that’s the way these guys did things,” said Smart, now the chief of cardiology at Louisiana State University School of Medicine. “It was, ‘Well, I have an idea, and I’m the one that knows best, and by golly, I’m going to do it.’ And did that advance the field? Maybe. Is it the right thing to do? Absolutely not.”
+
+By the early 1990s, after decades of failed attempts to create an artificial heart, researchers in Houston and around the world had shifted their efforts to the development of internal pumps that would do the work of the heart’s largest chamber, easing the organ’s pumping burden without replacing it entirely. The devices were known as left ventricular assist devices, and Frazier was among their most vocal advocates.
+
+Early milestones drew national media attention, including in 1992, when a 34-year-old patient walked out of St. Luke’s a year after receiving a battery-powered LVAD, the first in the world to do so.
+
+It was the dawn of a new era in heart care, and Frazier was at the center of it.
+
+But even then, his program was accused of crossing serious ethical lines: An unlicensed physician had been illegally treating heart failure patients, according to a 1994 federal lawsuit filed by former St. Luke’s nurse Joyce Riley. The hospital and Frazier “participated in a scheme” to unnecessarily admit patients in order to move them higher on the national heart transplant waiting list, the lawsuit alleged.
+
+Although Frazier and others considered Branislav Radovancevic, or “Dr. Brano,” a leader in the field of transplant research and aftercare, the Serbian-trained physician had failed at least twice to pass licensure exams, making it illegal for him to practice medicine in Texas.
+
+Yet following the conclusion of his medical fellowship at Texas Heart Institute in 1987, Radovancevic routinely issued orders for patients in Frazier’s program, prescribed drugs, took resident medical students on rounds, helped harvest organs for transplant and provided post-surgical patient care. The activity is described in patient medical records, transcriptions of secret recordings of St. Luke’s employees and pleadings filed as part of Riley’s lawsuit.
+
+Riley, who died in 2017, reported sharing her concerns about these practices with supervisors. When that did not lead to changes, she sued in U.S. District Court in Houston under a provision of the False Claims Act that allows whistleblowers to try to recover damages on behalf of the government. The hospital, she alleged, had fraudulently billed Medicare for unnecessary medical treatments.
+
+The litigation dragged on for more than a decade, with little publicity. Lawyers for Riley presented medical records of five patients — example cases intended to prove the larger conspiracy — who spent weeks in the intensive care unit at St. Luke’s, despite being well enough to walk around the hospital. One received a second heart transplant from Frazier just days after physicians concluded his health troubles were not heart related and he could likely go home, an amended complaint alleged.
+
+At the time, admission to intensive care and orders for certain medications automatically moved patients higher on the transplant wait list.
+
+“Dr. Frazier knew of, directed, and personally participated in the fraudulent conduct and false claims described herein,” the lawsuit alleged.
+
+Lawyers representing St. Luke’s, Texas Heart and Frazier vigorously denied the allegations in court filings. Threeprominentphysicians reviewed medical records and wrote reports on behalf of the hospital, saying the care provided to the five patients was appropriate, that Riley and her lawyers did not seem to understand the complexity of such medical cases and that Radovancevic appeared to have served only in an advisory role.
+
+Nevertheless, after the lawsuit was made public in 1996, the hospital instructed Radovancevic to stop seeing patients, and he complied, Frazier testified in an October 2007 deposition.
+
+During the deposition, one of Riley’s lawyers introduced medical records in which nurses took verbal direction from “Dr. Brano” at the bedsides of patients and then stamped Frazier’s signature onto the orders — including some that were recorded when Frazier’s calendar showed he was in France and Russia. Frazier dismissed the orders as record-keeping errors and blamed others for the mistakes, according to a partial transcript of the deposition filed in court.
+
+The lawyer, Jim Perdue Jr., asked Frazier why a nurse would have stamped his signature on medical orders that Radovancevic apparently gave at the bedside of a patient.
+
+“I mean, I don’t know why,” Frazier said. “You have to ask the nurse why she would do that.”
+
+Radovancevic remained an active partner in Frazier’s research until his death in 2007 at the age of 55. Frazier wrote a tribute at that time, and in response to questions for this article, he wrote that “‘Brano’ was and, even after his death, remains one of the most highly regarded individuals in the history of heart transplant” with modern immunosuppressant drugs.
+
+Two years later, in 2009, St. Luke’s, Texas Heart, Frazier and other defendants agreed to settle the case, attracting no media attention. The terms — including the total payment and whether the defendants acknowledged any wrongdoing — remain secret.
+
+A spokeswoman for the U.S. Justice Department said the federal government’s share was $500,000, but that does not include the amount paid to Riley — between 15 and 30 percent of the total settlement — as a reward for bringing the case forward, or the significant legal fees repaid to her lawyers.
+
+A St. Luke’s spokeswoman noted that the hospital changed ownership in 2013, and its current leaders wouldn’t comment about events before then.
+
+As the lawsuit was drawing to a close, hospital executives were working to address other issues in Frazier’s program.
+
+Dr. Frank Smart joined Texas Heart Institute as medical director of the transplant and LVAD program in 2003 and quickly grew troubled by what he saw. During his tenure, he said, he witnessed things “that I just couldn’t imagine.”
+
+The overarching frustration that drove him to complain to a top St. Luke’s executive before leaving in 2006: Smart believed the program, under Frazier’s guidance, was putting LVAD research ahead of what was best for patients.
+
+Smart has never spoken publicly about his concerns. He agreed to do so now, he said, because he believes patients deserved better.
+
+His arrival at Texas Heart came at a critical time in the evolution of LVADs, which had shown promise but remained ineffective as a long-term treatment, in part because of inevitable malfunctions. At about 100,000 beats per day, no mechanical pump simulating a human heart rhythm could run indefinitely without breaking down.
+
+When Smart got there, the program was beginning to test a new generation of pumps designed to propel blood continuously, without a pulse, minimizing the number of moving parts and making the devices far more durable. Frazier had long championed the idea and maintained that the new LVADs could do more than just keep patients alive long enough to receive a new heart. He believed they could, over time, help restore strength to diseased hearts, possibly avoiding the need for transplants.
+
+The method has since been shown effective in a small percentage of patients, but Smart believed Frazier’s desire to prove his theory caused him to recommend the devices to patients who were not yet sick enough to justify them.
+
+Smart recalled a troubling pattern: A patient would come to St. Luke’s with symptoms of heart failure. Smart or another cardiologist would make recommendations for treatment, such as prescribing drugs used to improve heart function, a common first step in attempting to control the disease and delay the need for a transplant. But soon after, before that initial therapy had time to work, the patient would be told he or she had days or weeks to live and then “whisked off for an LVAD,” Smart said.
+
+Some patients thrived with the device; others did not.
+
+In 2005, more than half of the 34 patients who received heart assist devices at St. Luke’s died without leaving the hospital, slightly higher than the national average, according to a Chronicle analysis of Texas data on patients discharged from the hospital that year. The survival rate steadily improved in the years that followed, but at the time, Smart believed many patients would have benefited from more conventional treatments.
+
+“There were patients who walked into the hospital for an elective measurement of the pressures in their heart,” Smart said. “Now, they had heart failure and they needed to be looked at, but laying down on the cath table was the last time their feet ever touched the floor.”
+
+In other cases, once a patient received an LVAD, Smart said Frazier often turned down high-quality donor hearts for them. That led Smart to believe that Frazier and others on his team were more interested in demonstrating how well the devices performed over longer periods.
+
+“Unfortunately,” Smart said, “that meant that some people didn’t get transplantation when that was probably a better option for them.”
+
+As the medical director of the program, Smart said, he felt powerless. He recalled growing so frustrated that, on a few occasions, he yelled at Frazier. Sometimes, Smart and other cardiologists resorted to “hiding patients” — moving them to other parts of the hospital to prevent Frazier from recommending experimental LVADs, buying the patients time to recover with less invasive treatments or receive a transplant instead. Two other former St. Luke’s staffers confirmed the highly unusual practice.
+
+“I can think of this one young girl we moved four or five times,” Smart said.
+
+Late in his tenure, Smart said he took his concerns about patient care to the hospital’s leadership, but he said nothing came of it.
+
+In a written response to questions, Frazier praised Smart as an “excellent director” and said if Smart had concerns about the program, “he never expressed them to me.” He said he and Smart both “were trying to do the best we could for the patients,” and any disagreements were settled during weekly meetings.
+
+Frazier denied implanting LVADs in patients who did not require them, writing that all patients were evaluated extensively to assess the risks and benefits of the procedure “and were presented to a multi-disciplinary review board and had to be approved before they could be electively implanted.”
+
+He also said patients who needed transplants received them when suitable donor hearts became available. “If the patients could [be] treated medically the cardiologist would never refer them to our service,” he wrote.
+
+In early 2006, not long after Smart said he voiced his concerns, he received a job offer in New Jersey. Although he had come to Texas Heart planning to spend many years at the program, he decided to take it.
+
+He took pride in small changes he made to improve patient care at St. Luke’s — “I made more people go out vertical instead of horizontal,” he said. But in the end, Smart concluded there was nothing he could do to stop what he considered improper research in the LVAD program.
+
+He didn’t know, until told by a reporter, that a couple of years after he left, St. Luke’s executives raised similar concerns.
+
+Jan. 20, 2010, was a big day for Frazier and Texas Heart Institute: The Food and Drug Administration approved, for the first time, a continuous-flow LVAD for use as a permanent treatment for advanced heart failure. The HeartMate II had proved more durable than its predecessors, and far fewer patients died in the hospital after receiving one. That opened the possibility for people to survive several years or longer with the device alone.
+
+Frazier was a lead researcher in the pump’s key clinical trial.
+
+“This is a huge accomplishment, ushering in a new era of hope for thousands of people,” Frazier was quoted as saying in a Texas Heart news release.
+
+Not mentioned in the announcement: In 2008, the hospital had learned of “serious and repeated” problems associated with its participation in that trial.
+
+Those findings were detailed in a special report to members of St. Luke’s board of directors and in correspondence between the hospital and federal health officials, according to documents obtained by ProPublica and the Chronicle.
+
+Based on multiple reviews summarized in the report to hospital board members, St. Luke’s executives concluded that Frazier and his team had implanted the experimental HeartMate II and another LVAD, the Jarvik 2000, in 30 patients who were enrolled in government health plans and for whom the medical need for the devices and compliance with trial parameters “could not be documented by the patient’s medical record.” The patients had been enrolled in the trials “without justification,” the summary said.
+
+In one of the reviews commissioned by the hospital, a prominent Cleveland Clinic cardiologist, Dr. James Young, concluded that St. Luke’s heart failure program “pushes the limits,” according to the summary document. “Dr. Young found the documentation to be poor and noted that Dr. Frazier was not up-front.”
+
+Executives at the hospital — known at the time as St. Luke’s Episcopal prior to its 2013 acquisition by Catholic Health Initiatives — were troubled by what they were learning. They contemplated which scenario would be worse for the hospital’s bottom line and reputation: cutting ties with Texas Heart, the famed research organization founded 46 years earlier by Cooley, or continuing to be associated with the institute should the public ever learn about its research violations.
+
+“Should the affiliation be dissolved, the impact to St. Luke’s market position is unclear,” executives wrote, according to the summary report. “It is likely that such news would generate national attention and negatively impact our standing in the US News & World Report rankings.”
+
+Top officials at St. Luke’s and Texas Heart reported the research violations to the federal Office for Human Research Protections in July 2008, and they pledged a host of reforms, according to a letter obtained by ProPublica and the Chronicle through the Freedom of Information Act.
+
+St. Luke’s and Texas Heart said they would audit every ongoing study for which Frazier was the lead researcher, to find and report any additional research deviations. And, according to the report to St. Luke’s board, the hospital planned to give back between $3.4 million and $5.4 million in payments that Medicare had made on behalf of patients who received unjustified surgical treatments.
+
+At one point, St. Luke’s executives questioned whether Texas Heart and its leaders, including then-president Dr. James Willerson, were taking the allegations seriously. Texas Heart “evidenced no concern” that the hospital would need to repay millions of dollars to Medicare, according to the summary.
+
+“Since Dr. Willerson’s position was ‘Stop trying to run off Bud,’” the report said, “it was believed that he was not conveying the seriousness of the issues to THI’s board.”
+
+Reached by phone in April, Willerson initially said he did not remember any allegations of research violations against Frazier. Weeks later, after a reporter informed Willerson that his signature appeared on a letter disclosing the violations to federal regulators, he said, “I’ve signed a lot of things.”
+
+“If you got a signed document with my signature on it, then obviously I did it,” said Willerson, now Texas Heart’s president emeritus. “But I really don’t have any specific recollection of that.”
+
+During a phone interview in April, Frazier said no one ever informed him that he had been accused of violating research rules, and it was “totally false” that patients received LVADs without medical justification.
+
+In subsequent written answers to detailed questions, David Berg, a lawyer representing Frazier, said the hospital based its findings on a “deeply flawed” two-day review by a health-care consulting firm known as the Anson Group. Berg described its findings of research violations as “defamatory,” and he said all of the actions the hospital took as a result were “questionable.”
+
+Berg said the Anson Group, which did not interview Frazier, inappropriately faulted him and his team for implanting LVADs in mortally ill patients who qualified for humanitarian exemptions to the research protocols. “There is no mention [in the Anson report] of the exemptions, the fact that the FDA conducted unannounced audits of the program, and that the sponsor and the FDA were fully informed about these cases,” Berg wrote.
+
+He described two cases in which young patients received LVADs and are still alive a decade later. The Anson report, completed in early 2008, identified them as “prime examples of noncompliance,” Berg wrote, adding: “That is not noncompliance. That is miraculous.”
+
+St. Luke’s said it doesn’t have a copy of the Anson Group report, and Navigant, a consulting firm that acquired the Anson Group, said it doesn’t either. Berg also did not provide the report when reporters asked for it.
+
+As for Young, the Cleveland cardiologist who found problems in the program, Frazier said he “was always jealous of me.” Berg noted that Young has subsequently praised Frazier’s contributions to the field. Young declined to comment.
+
+When asked about Frazier’s contentions, David Pate, St. Luke’s CEO through 2009, said he stood by the hospital’s decision to report research violations to the federal government. In emailed answers to questions, Pate said he took the research violations seriously, though he said the problems were technical and he did not believe patients were harmed. The hospital took appropriate corrective actions, he said, including repaying Medicare.
+
+None of this was disclosed when the results of the HeartMate II trial were published in the prestigious New England Journal of Medicine in 2009, with Frazier listed as an author. A spokeswoman for the journal said editors were not aware of the issues until reporters asked in April and are now seeking more information.
+
+Abbott, which now owns the company that makes HeartMate II, said the “study was conducted in accordance with the highest research standards, all patients were enrolled and followed per study protocol, and all data was fully audited and vetted prior to publication and submission to the FDA.”
+
+In June 2009, an FDA inspector reported finding some deficiencies in Frazier’s handling of the HeartMate II trial but determined they did not rise to the level of violating the U.S. Food Drug and Cosmetic Act.
+
+As a result of the episode, Pate said he and other executives concluded that Frazier needed to be replaced as head of the transplant and LVAD program. He praised him as a visionary surgeon but said he failed to adapt to modern research requirements.
+
+“The culture needed to change with the evolving times,” Pate, now CEO of a hospital in Idaho, wrote to reporters. “It was time for a new leader, who could build on the great foundation Dr. Frazier laid.”
+
+But for several years, that did not happen.
+
+About the same time that St. Luke’s reported the research violations, some cardiologists at Texas Heart Institute were concerned about another aspect of the HeartMate II study. They had observed a troubling side effect in some patients who received the device, and they believed the finding deserved attention.
+
+About a quarter of the first 71 patients implanted with the LVAD at St. Luke’s had suffered strokes.
+
+Two physicians familiar with the research told reporters that they believed those findings should have been published in a medical journal, but they were not. One of the doctors said Frazier argued against it because doing so would “kill the field” of mechanical heart pumps.
+
+Cohn, the surgeon who worked closely with Frazier after joining the program in 2004, recalled the disagreement. He said doctors had already figured out a way to more accurately measure patients’ blood pressure and, as a result, better manage the pump settings to reduce the risk of brain bleeding.
+
+Frazier didn’t want to needlessly “freak people out” with research showing a high rate of serious complications, Cohn said.
+
+“That would just pour water on the smoking ember of this new important field,” Cohn said, adding that, in hindsight, the team “probably should have” published the stroke findings alongside their solution.
+
+Dr. Biswajit Kar, the former St. Luke’s cardiologist who led the effort documenting the high rate of strokes, declined to comment.
+
+In a written response, Frazier said he did not recall any effort to turn the stroke research into a paper and “never opposed [Kar] publishing anything.”
+
+Frazier said he was the first to diagnose hemorrhagic strokes in patients who had received HeartMate II devices, years earlier in 2006, and he recalls organizing a meeting in Chicago with leading cardiologists from other hospitals and the device’s maker to discuss the issue. “I recommended to the company that they require that blood pressure be controlled and that all new implanting centers be required to do the same.”
+
+Nevertheless, the initial stroke findings were never published.
+
+Kar presented a summary of the report at a 2009 cardiology conference, with Frazier listed among the authors of the presentation. But other than a short abstract included in the conference program — which is not available online — there is no public record of the research.
+
+By Frazier’s own accounting, he has had a hand in developing nearly every cardiac pump in use today. But unlike many of his peers, he said, he never made money from his work on behalf of device makers.
+
+“My efforts have never been for personal financial gain,” Frazier wrote in response to written questions, adding that he “freely shared the mechanics of my heart flow pump with all comers, including two companies that later sold for billions of dollars.”
+
+Berg, Frazier’s lawyer, recounted how the head of one major device maker told Frazier, “Bud, I’ll give you … the credit, but I’ll keep the cash.”
+
+Over the years, however, some of the companies have reimbursed him for travel, and paid him consulting and lecture fees; others supported his research with grants. One device maker rewarded him with stock options, corporate filings show.
+
+He has often failed to disclose these potential conflicts.
+
+The issue has come up before. The 2008 report to St. Luke’s board noted Frazier’s “failure to accurately complete the conflict of interest form.” The hospital had apparently attempted to address the issue, according to the report, but “Dr. Frazier still doesn’t understand.”
+
+ProPublica and the Chronicle reviewed the past 100 papers on which Frazier was listed as an author, dating to 2010. Frazier disclosed conflicts of interest in less than 10 percent, and those disclosures often were inconsistent and incomplete.
+
+For example, Frazier served for years as chairman of the medical advisory board of HeartWare International, which was developing a continuous-flow pump with Frazier’s help.
+
+A 2008 Securities and Exchange Commission filing shows that HeartWare awarded Frazier options to purchase the equivalent of 7,142 shares in its newly formed U.S. company at a pre-set price. Frazier said he held the options until March 2009, when he transferred them to his son, Todd, a musician. Todd Frazier exercised the options between 2010 and 2011, collecting proceeds totaling $130,813, according to financial documents provided by Berg.
+
+HeartWare’s stock more than doubled in value between early 2009 and the end of 2011 as physicians tested the device in a pair of key clinical trials. The elder Frazier played a leading role in the research, implanting the pumps in numerous St. Luke’s patients in those years and speaking glowingly of them in HeartWare’s corporate press releases. But when those studies were published in 2012 and 2013, Frazier disclosed no conflicts, even as some of his fellow authors did.
+
+“There were no conflicts to report in 2012 and 2013,” Frazier wrote to reporters, pointing out that neither he nor his son had any financial interests in the company by then. “It never occurred to me that Todd’s having owned and sold the options (by 2011) was a conflict.”
+
+Most major medical journals require researchers to disclose financial conflicts, including stock options, dating back three years from the time a paper is submitted for publication.
+
+In the years that followed, from mid-2013 through 2016 — the only period for which federal data is available — device makers paid Frazier more than $44,000 for travel, meals and work on their behalf. He was listed as the primary investigator on research grants that brought in another $56,000 to St. Luke’s and Texas Heart in 2015 and 2016, according to payment data compiled by the Centers for Medicare and Medicaid Services.
+
+But more often than not, Frazier did not disclose those payments in related research papers.
+
+After reporters asked the New England Journal of Medicine about Frazier’s omissions in twospecific studies and a letter, editors at the journal contacted Frazier for a response. Journal spokeswoman Jennifer Zeis later said Frazier agreed to submit revised disclosure forms, which will be posted online.
+
+“We expect the disclosures reported by authors to be complete and accurate,” she wrote in an email.
+
+Frazier said he doesn’t know which companies paid for his travel or consulting fees.
+
+“I have personally never sent a bill,” he wrote, “and don’t know what is charged for anything I do.”
+
+In 2010, two years after the hospital became aware of questionable research practices in Frazier’s program, Frazier turned 70 and, he said, began to transition into a new role, continuing to direct research at Texas Heart Institute while allowing younger physicians to take the lead on most transplants and pump implantations.
+
+But even as Frazier dedicated more time to his goal of developing an artificial heart, he continued operating on patients. During those years, his LVAD outcomes lagged far behind those of his peers, Medicare data shows.
+
+From 2010-15, Frazier implanted long-lasting left ventricular assist devices in 63 Medicare patients, according to a ProPublica review of federal data. Some 31 of those patients — nearly half — did not survive a year, one of the highest mortality rates in the nation.
+
+That was nearly double the 25 percent one-year mortality rate for Medicare patients who received LVADs from other St. Luke’s surgeons during the same period; the national rate for Medicare was 28 percent. (See how we conducted our analysis.)
+
+Frazier took issue with ProPublica’s analysis, saying it was “grossly unfair” to focus only on Medicare patients rather than the larger pool of patients the hospital treats, though he did not provide data showing his overall outcomes. “I implant devices in people, not ‘Medicare patients,’” Frazier wrote. “I have never known what insurance carrier any patient has.”
+
+Researchers commonly compare outcomes using Medicare data because it represents tens of millions of patients and because data for privately insured patients is not publicly available.
+
+Frazier also said he was rarely the lead surgeon during his final five years operating, but when asked about this contention, St. Luke’s said it stood behind the accuracy of the numbers it submitted to Medicare.
+
+Frazier said the decision for him to stop operating full time in 2015 was his and had nothing to do with surgical outcomes. At the age of 75, he said, he was ready to slow down. It was a quiet exit from the operating room for a surgeon who had reportedly performed more heart transplants and implanted more LVADs than anyone in the world; there was no public announcement.
+
+Three years later, Frazier is still called upon at times to assist with complicated operations, and he continues to be featured in St. Luke’s marketing materials. His staff bio on Texas Heart’s website calls him a “living legend.”
+
+Frazier’s supporters say he has devoted his life to helping patients. Many in Houston and across the country, they say, would not be alive if not for Frazier’s willingness to take the most difficult cases.
+
+Doug Shonkwiler counts himself among them. He was so grateful, he gave his son the middle name Frazier.
+
+In 2005, Shonkwiler, then a 37-year-old aerospace engineer in Fort Worth, drove himself to St. Luke’s seeking help for persistent heart troubles. After some initial tests, he remembers a Texas Heart cardiologist telling him, “You only have a few hours to live.”
+
+Shaken by that prognosis, Shonkwiler agreed to let Frazier implant a HeartMate II in him, and he is glad he did. A year later, Frazier removed the device after concluding it had worked as he’d long predicted, relieving the strain on Shonkwiler’s diseased heart and allowing it to recover. Shonkwiler remained in good health for another decade before returning to St. Luke’s in 2016 to receive a transplant.
+
+If not for Frazier, Shonkwiler, now 50, believes he would be dead: “Dr. Frazier has been really good to us,” he said. “I can’t imagine what our life would be like without him.”
+
+In the April phone interview, Frazier said he was disappointed to learn from a reporter that colleagues and administrators had questioned his methods over the years. He said Cooley, the famed surgeon who was his mentor, once told him there is a price to pay for rising to the top of your field.
+
+“People were always attacking him for one thing or another,” Frazier said of Cooley. “He said, ‘Any time you’re at the top of your profession, people are going to take a shot at you all the time.’ I guess that may have been the case.”
+
+In recent years, Frazier has collected numerous honors for his work developing implantable heart pumps, including in April, when he traveled to Nice, France, to receive a lifetime achievement award from the International Society for Heart and Lung Transplantation.
+
+In a video interview played during the ceremony, Frazier acknowledged that his breakthroughs came at a cost: When the field of heart pumps was in its infancy, his first 26 LVAD patients died.
+
+Those losses were painful, he said, but “absolutely necessary.”
+
+“Courage is grace under pressure,” Frazier said in the video, quoting Ernest Hemingway. “I think that’s the one thing you have to have. You have to be able to do things that may or may not result in a favorable outcome, calmly and as accurately as you can — that may in fact result in the death of a patient.”
+
+After the video ended, Frazier was invited onto the stage. There, he posed for photos while the world’s leading heart and lung transplant surgeons stood and applauded.
+
+ProPublica is a Pulitzer Prize-winning investigative newsroom. Sign up for their newsletter.

@@ -1,0 +1,80 @@
+http://www.townhall.com/watchdog/tennessee/2017/03/15/tennessee-cooperatives-broadband-n10473
+['Johnny Kampis', 'Lauretta Brown', 'Beth Baumann']
+2017-03-15 00:00:00
+-
+ 
+Whether or not a bill to let electric cooperatives begin offering broadband services passes the Tennessee General Assembly this session, the legislation has already had a chilling effect.
+
+Aeneas Internet & Telephone recently completed a fiber project in Henderson, where 7,000 residents now have access to gigabit-capable internet. The company will soon have such high-speed internet up and running in Brownsville, which has a population of 10,000.
+
+Still, the company’s founder and CEO, Jonathan Harlan, said any future expansions will have to be carefully weighed.
+
+“We have other cities in which we want to build in west Tennessee, but now I have to consider whether utility companies are going to be my competitor,” he told Watchdog.org.
+
+A bill that would let Tennessee’s 23 electric cooperatives offer broadband services to customers has now been amended to add video services as a possibility, and it’s moving quickly through the Legislature. The legislation, H.B. 529, will be heard in the House Business and Utilities Committee on Wednesday, where it’s expected to be passed and sent to the full House for a vote following a 13-0 passage in the House Business and Utilities Subcommittee. Companion bill S.B. 1215 passed the Senate Commerce and Labor Committee on Tuesday by an 8-0 vote.
+
+The bills were created to help expand the reach of broadband into rural areas, but some private providers are unhappy about the legislation, noting that nonprofit co-ops don’t face the same costs and tax structures.
+
+“It’s crazy to me the electric companies want to get into the entertainment business,” Harlan said. “That’s pretty far afield from offering low-cost power.”
+
+Gov. Bill Haslam added the video component to his Tennessee Broadband Accessibility Act as it moved through the House Business and Utilities Subcommittee. Assistant Majority Leader David Hawk, R-Greeneville, who is carrying the legislation for the governor, noted that adding a video option would increase the chances of broadband being more widely adopted.
+
+He said the change “made a good bill even better.”
+
+David Callis, general manager of the Tennessee Electric Cooperative Association, said in a statement the bill would help facilitate broadband growth in rural Tennessee.
+
+“This legislation will not only help areas with the greatest need for high-speed internet, but it will also create jobs and improve access to education and health care,” he said.
+
+‘Uniquely situated’ cooperatives
+
+Haslam offered his act as an alternative to a push to allow municipal broadband networks to expand, and while this bill lets cooperatives offer broadband or video it wouldn’t allow them to grow beyond current service areas.
+
+RELATED: Tennessee governor pitches plan for grants, tax credits for broadband providers
+
+The Republican governor’s proposal said co-ops are “uniquely situated to assist in bridging the broadband accessibility gap with experience serving areas with lower population densities and providing universal service throughout their territories.”
+
+Cooperatives would not be able to use their electric system assets to subsidize broadband services; instead, they would have to create separate standalone divisions.
+
+Municipal broadband networks and private providers could also partner with cooperatives under the plan, selling bandwidth at the wholesale level to cooperatives, who would when offer broadband at the retail level to their customers.
+
+The act also offers $30 million in grants and $15 millions in tax credits on the purchase of network equipment to help telecom providers build and expand broadband in rural Tennessee.
+
+Harlan said there are dozens of smaller providers like his business working to expand broadband across Tennessee, but because they don’t have the lobbying presence of a Comcast or an AT&T they’re “invisible” to the legislature. Aeneas is based in Jackson, and has a strong footprint in areas within an hour radius around the city.
+
+He’s heard that other providers have been cautious about growing in rural Tennessee in the past few years as legislative talk has centered around allowing municipal broadband to expand and they feared competing against the government. Now, those providers may have to compete against co-ops instead, which have received millions in grants from governments over the years to build and maintain electric monopolies and also pay less in property taxes.
+
+“This displaces capital allocation and private enterprise that grows to serve the market demand,” Harlan said.
+
+He’s concerned that the bill doesn’t explicitly state co-ops must provide universal broadband service, allowing them to potentially cherry pick customers, potentially targeting business and industry and avoiding harder-to-reach areas.
+
+“They’ll leave the farmer — unless he’s on the co-op board — unserved,” Harlan said.
+
+Crossing state lines
+
+William Haines, owner and CEO of America Internet & Communications in Cleveland in eastern Tennessee, told Watchdog he has the same concerns about cherry picking.
+
+“If they really want to help the underserved they should put teeth in [the bill] so they have to serve everybody,” he said.
+
+Haines’ business offers wireless broadband services across five Tennessee counties, beaming signals from 40 towers situated across east Tennessee. Customers get download speeds between 10-40 megabits per second, depending on their distance from the towers. He was looking to expand into another area, but is now taking a wait-and-see approach.
+
+“There’s one community I wanted to go into, but I’m scared because I don’t know what’s going to happen,” Haines told Watchdog.
+
+His business was based out of Chattanooga until the taxpayer-subsidized Electric Power Board “ran us out,” he said.
+
+Wireless services like those offered by America Internet & Communications could be a solution to the rural broadband problem with their ability to beam signals through the air rather than through expensive-to-lay fiber, but Haines said given the legislative attitude in his home state, he’s looking to expand into the Peach State where he’s already added one tower.
+
+“If Tennessee keeps doing what they’re doing I’m going to cross state lines to Georgia,” he said.
+
+Not all private providers have spoken against Haslam’s proposal. AT&T spokesman Joe Burgan called the bill “an innovative approach to rural broadband expansion” in a statement he sent to Watchdog, and said the company “support[s] the measure as amended.”
+
+“The governor’s proposal builds on the work and investment of private providers like AT&T to help bridge the gap to those remaining unserved areas,” he said.
+
+That company got slammed by Rep. Dan Howell, R-Georgetown, who released a statement criticizing AT&T for helping to kill the 2016 bill that would have allowed municipal broadband expansion.
+
+“I believe it’s unfair that AT&T of Tennessee received $156 million in federal subsidies in September 2015 to provide broadband to the rural areas of Tennessee, while using their deep pockets and 14 lobbyists to kill HB 1303 and, as a result, any competition to their and the other big telecoms’ monopoly,” Howell said.
+
+Burgan told Watchdog the company will continue its “aggressive fiber deployment” in the Volunteer State.
+
+“AT&T’s effort to connect more than 81,000 unserved rural locations with fixed wireless broadband is well underway, an initiative that will substantially reduce the number of households with limited broadband access,” he said.
+
+Johnny Kampis reports on national issues for Watchdog.org. Contact him at jkampis@watchdog.org and on Twitter.

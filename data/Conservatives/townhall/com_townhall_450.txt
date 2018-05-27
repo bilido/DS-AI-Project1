@@ -1,0 +1,32 @@
+http://www.townhall.com/columnists/devonherrick/2018/05/22/painful-decision-for-congress-track-rx-painkillers-or-revoke-access-n2483025
+['Devon Herrick', 'Lauretta Brown', 'Beth Baumann']
+2018-05-22 00:00:00
+Painful Decision for Congress: Track Rx Painkillers or Revoke Access
+ 
+The opinions expressed by columnists are their own and do not represent the views of Townhall.com.
+
+A previous Townhallcolumn dealt with a commonsense way to slow opioid abuse. I spoke in favor of H.R. 3528, All Prescriptions Conveyed Securely Act. This bill would require prescriptions for controlled substances under Medicare Part D to be transmitted electronically, making it easier to monitor and track patients with opioid prescriptions. I first wrote about e-prescribing controlled substances two years ago, calling it a commonsense solution that was being ignored.
+
+Many Townhall readers responded negatively; complaining that I was trying to limit access to pain relievers for people in pain. One reader even wished severe pain upon me, with nothing but aspirin to treat it. Rather than spend several days responding to nearly 100 comments, I thought I’d address their concerns in a new column.
+
+Opioid abuse is a serious public health problem. A few years ago the CDC calculated that the number of opioid prescriptions dispensed was more than 250 million—enough for every adult in the United States to have their own bottle of pills annually. Since I’ve never received one someone else must have received my bottles. Indeed, a significant number of patients are consuming far more prescription opioids than their doctors realize. Without better opioid prescription monitoring, patients who are not yet addicted run the risk of becoming addicts.
+
+One proposal mentioned in my previous article generated the most criticism: many readers did not support limiting the number of pills in opioid prescriptions. A common concern expressed by readers was that lawmakers should not make it harder for patients with legitimate pain to get the relief they need.
+
+Many readers also argued that I was conflating deaths from illicit street opioids with deaths from legal opioid prescriptions. Yet, research has found many street opioid abusers began their journey to addiction innocently enough as patients with chronic pain. Some had pain that was expected to be temporary, such as pain from from injuries or post-surgical pain. However, some of these patients experienced the pleasant side-effects of their pain medications and did not want to taper off once their pain subsided. Better pain management, including tracking of opioid prescriptions, may have prevented them from slipping into addiction and abuse they could no longer control.
+
+Other readers worried that cutting off the supply of prescription opioids to patients abusing them would just drive people to the illicit market. That is a reasonable assumption. One study found 80% of new heroin users began with prescription opioids. Addicts turned to heroin when it became harder to obtain opioids from pills mills or find enough physicians willing to prescribe them. Better tracking of opioid prescriptions may not stop abusers who have already graduated to street opioids like heroin and fentanyl but it will hopefully prevent new addictions.
+
+Some readers worried that e-prescribing would interfere with the doctor-patient relationship. That’s not the case. When physicians transmit prescriptions electronically their orders are communicated directly to pharmacies. Electronic prescribing makes it easier for physicians to identify their patients engaging in drug seeking behaviors. Patient information tracked includes such things as multiple concurrent prescriptions and filling prescriptions for more opioids than any one doctor would authorize. A physician trying to do what’s best for his or her patients would want to know this about their patients.
+
+Another concern was the potential for computer errors and prescribing software that is not compatible from one pharmacy to the next. Prescribing software for controlled substances must conform to DEA regulations for security and compatibility. It is required to meet requirements designed to prevent unauthorized access by anyone other than the prescribing doctor.
+
+A few readers didn’t believe addicts deserve taxpayer-funded help with addiction. A couple even suggested opioid overdose victims are just deviants who want to get high and overdose deaths are a self-correcting problem. Consider this: the huge increase in opioid deaths corresponded with a huge increase in opioid prescriptions over the past two decades. Prescription opioid abuse has clearly resulted in a public health crisis that warrants better tracking of opioid prescriptions and better management patients in pain.
+
+Finally several readers argued attempts by government to solve complex problems like addiction usually results in unintended consequences. They have a point. Nearly 20 years ago a public health initiative encouraged greater use of opioids for pain management. Coupled with poor monitoring the results were catastrophic.
+
+Many opioid abusers began as law-abiding patients with chronic pain, pain from injuries and post-surgical pain. Electronic prescribing of controlled substances would do little to stop abusers who have already graduated to opioids like heroin and fentanyl. Yet, better tracking of opioid prescriptions will help prevent new pain management patients from becoming new opioid abusers.
+
+New York State has required prescriptions for controlled substance to be transmitted electronically for the past several years. New York’s experience illustrates that electronic prescriptions reduce opioid use and abuse. Two independent studies estimate the savings to Medicare Part D at from $1.3 billion to $2 billion a year. A health IT advocacy group estimates H.R. 3528 would save $13 billion in federal spending over 10 years. Analysis by a medication management firm estimates the savings at more than $2 billion annually. This is reduced federal spending but the reduction in human costs is immeasurable.
+
+Devon M. Herrick, PhD, is a health economist and former hospital financial manager. He has written about health policy for over 20 years.

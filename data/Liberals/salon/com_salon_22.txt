@@ -1,0 +1,76 @@
+https://www.salon.com/2018/05/26/wall-street-regulations-need-a-facelift-not-a-minor-dodd-frank-makeover_partner/
+[]
+2018-05-26 00:00:00
+Wall Street regulations need a facelift, not a minor Dodd-Frank makeover
+
+Republicans finally managed to roll back some of the Wall Street regulations passed by Congress in the wake of the 2008 financial crisis after years of trying.
+
+While it wasn’t a full repeal as some had hoped, it’s the first legislative overhaul since the Dodd-Frank Act became law in 2010.
+
+This debate has primarily been framed as a fight over regulation. Democrats generally want more to protect taxpayers and investors from the next crisis; Republicans want less because they argue it stifles economic growth.
+
+So who’s right?
+
+Based on our combined 35 years of experience with securities markets and the research we’ve done for our book, “When the Levees Break: Re-visioning Regulation of the Securities Markets,” we think both sides are wrong. The issue isn’t about more or less regulation but about the need for a streamlined system that supports 21st-century investing.
+
+If we had our way, the whole system of financial regulation would be burned to the ground and replaced with something entirely different.
+
+Of bonds and banks
+
+When we think of financial markets, we tend to jumble securities markets like stocks, bonds and commodities with conventional bank lending such as checking accounts and lines of credit.
+
+Dodd-Frank, for example, was ostensibly focused on regulation of securities markets, but the rules that got the most attention were those that affect the “too big to fail” banks. That those banks straddled both worlds – securities trading and traditional banking – is what made the 2008 financial crisis life-threatening.
+
+But only securities trading, and in particular derivatives, was at the root of the crisis. So for our purposes, when we talk about financial regulation, our focus is on the securities markets.
+
+How did we get here?
+
+The financial markets meltdown in the fall of 2008 devastated the U.S. economy, but it wasn’t nearly as bad as the stock market rout that preceded the Great Depression in October 1929.
+
+After the 1929 crash, lawmakers reacted by passing laws aimed at ensuring investor protection. Two groundbreaking pieces of legislation, passed in 1933 and 1934, required companies to submit quarterly and annual reports and established the Securities and Exchange Commission. These laws form the cornerstone of modern securities markets regulation.
+
+But they were only the beginning. As markets expanded and changed, Congress continued to craft new laws that added more agencies to oversee Wall Street activities. As a result, we have more than two dozen agencies, self-regulatory organizations and exchanges – such as the Commodity Futures Trading Commission, the Treasury, the Department of Labor and the Justice Department – not to mention state securities agencies, all with overlapping regulatory jurisdictions.
+
+Moreover, the laws have been reactionary – rather than visionary – resulting in competing concerns and duplicative audit and enforcement procedures. Not surprisingly, there is largely no coordination or communication between them.
+
+Meanwhile, the SEC – as primary regulator – is bogged down with too many directives, many of which are under- or unfunded. For decades, whenever Congress passed a bill to “regulate” big changes in the markets – from market crashes to “advancements” such as mutual funds and investment advisers – the SEC has been required to add oversight of these new practices to their existing responsibilities. Dodd-Frank, for example, expanded the SEC’s role and called for additional internal audits of existing practices but – like past market-related legislation – failed to include funding for those activities.
+
+Amid all the regulation, investor protection seems to have gotten lost.
+
+Enter Dodd-Frank
+
+The severity of the 2008 crash and its economic impact – including investment company failures and unprecedented government bailouts – goaded Congress into action.
+
+In 2010 Democratic lawmakers passed the Dodd-Frank Act, the most extensive revision of securities regulation since the 1930s, with the hope that more regulation would prevent another crisis.
+
+Republicans have argued for its repeal ever since, claiming the law and the regulations designed to implement it – some of which have yet to be implemented – inhibit prosperity.
+
+Both parties are missing the point. The current system of financial regulation is built on how stocks were traded in the 1930s – when computers and algorithmic trading had yet to be a glimmer in a quant’s eye. To paraphrase an Oldsmobile commercial, it’s not your father’s stock market anymore.
+
+My, how markets have changed
+
+Financial markets have undergone a fundamental transformation over the past 80 years.
+
+First of all, there are the investors themselves. The mom and pop investor who the SEC was created to protect has by and large been replaced by institutional investors, including quantitative analysts, or “quants,” that use complex algorithmic formulas to predict the best trading strategies. In fact, algorithmic trading makes up the majority of volume in today’s markets.
+
+Then there’s the issue of disclosure. Since the dawn of federal securities regulation, lawmakers and regulators have relied on disclosure to protect investors. Public companies are required to disclose volumes of information, from financial information to dealings with Iran and even their code of ethics. As a result, a company can spend over a million dollars each year complying with disclosure regulations that few people actually read. Yet every time there’s a new disaster, Congress piles on the disclosure requirements, as happened with Dodd-Frank.
+
+But for all the hundreds of pages of disclosure, at no time in the past 80 years has there been a mandate to review the actual securities products issued by public companies and investment banks. There are no “safety” standards for stocks, like there are for cars or toasters. The products that brought down the house in 2008 – mortgage-backed securities and products derived from them – continue to be offered to the public, including new ones backed by credit card debt and student loans.
+
+Finally, the SEC and other regulators are unequipped to keep up with the breathtaking changes in technology, let alone anticipate potential advances and challenges. To understand why, one must only consider the breadth of organizations that have fallen victim to hackers, from Target and Yahoo to the Veterans Administration, and the Federal Reserve itself.
+
+Unfortunately, however, Congress does not fund the SEC in a way that would allow it to pay for the skills or systems it needs to keep up with technological and other market advances. Following Dodd-Frank, for example, the SEC’s budget was actually reduced, even as its responsibilities multiplied.
+
+In sum, what we have is a regulatory system that fails in its mission to protect investors. The structure used to oversee current investment practices, corporate disclosures, product development and technological advances is based on the market failures of 1929. It’s a bit like trying to surf the internet using a typewriter.
+
+Preparing for the next crash
+
+The next “big” crash will likely be bigger than the last one. So how do we prepare for it?
+
+What we’ve done so far won’t protect us in the future. Dodd-Frank is largely an extension of the existing patchwork structure. While the new legislation won’t make things worse – as it’s targeting small and mid-sized banks – Republican hopes to repeal the rest of it and return banks to the pre-crisis period of self-regulation would. After the next crash, institutions will not be too big to fail, they’ll be too big to save.
+
+The answer, in our view, is to move away from a fight about how much regulation toward a complete rethinking of how we regulate investing. Only then will the U.S. begin to prepare for the next big one.
+
+This is an updated version of an article published on May 2, 2017.
+
+Jena Martin, Professor of Law, West Virginia University and Karen Kunz, Associate Professor of Public Administration, West Virginia University

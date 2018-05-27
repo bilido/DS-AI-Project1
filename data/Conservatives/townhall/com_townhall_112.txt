@@ -1,0 +1,66 @@
+http://www.townhall.com/watchdog/nebraska/2017/03/31/nebraska-small-cells-bill-n10531
+['Kathy Hoekstra', 'Lauretta Brown', 'Beth Baumann']
+2017-03-31 00:00:00
+-
+ 
+The next wave of wireless technology has arrived, and with it a tug-of-war between state and local governments trying to figure out how to balance cost, profit and improved service.
+
+The technology is small cells. Unlike giant, stand-alone cell towers that dot the countryside with long-range cell deployment, small cells are just that — smaller. They can be installed on existing utility poles and inside buildings in densely populated cities, and have a range of 10 meters to several hundred meters. The cells speed up current wireless service and set up the infrastructure for 5G technology when it rolls out as expected in 2020.
+
+Cities cashing in
+
+Because the poles are typically in the public right-of-way, cities across the country are cashing in on permit and attachment fees, by charging rent to companies such as Verizon, AT&T, T-Mobile and Sprint, who are anxious to lay the infrastructure to accommodate a huge hike in data demand.
+
+In Nebraska, the city of Lincoln inked a 20-year lease agreement with Verizon in December to install more than 100 small cells on light poles.
+
+“For us, the single most important thing is getting better cell coverage in Lincoln. Period,” David Young, Lincoln’s fiber network and right-of-way manager, said in a February podcast interview. “Going from an average of 12 to 15 megabits a second on a good day to 150 to 180 megabits on a small cell day, as a mobile customer myself, I’m pretty excited about that.”
+
+RELATED: ‘Smart cities’ could be next big wireless upgrade – if cities would cooperate
+
+The deal calls for Verizon to pay a $1,500 permit fee, and $1,995 per pole, per year. The per-pole rent jumps 2.3 percent each year, meaning Verizon will pay more than $3,000 in the final year of the agreement.
+
+According to the Lincoln Electric System’s website, the pole attachment fee is $16 per pole, far less than the $1,995 in the agreement, and applies to “other utilities and certain entities which may occupy public right of way and who attach communication appliances on SYSTEM poles.”
+
+But Young tells Watchdog.org that Verizon suggested the rate after the company received a survey of different community pole lease rates and pricing methodologies.
+
+“The best and most accurate way I found to calculate municipal small cell attachments rates is to take existing information for macro cell site attachment pricing and divide by a factor of 8-12,” Young said. “The macro pricing methodology gives your community a basis for establishing a range for small cell attachment pricing the industry will understand.”
+
+Young says since then, a second company, Mobility, has signed an agreement to install 50 cells. The city also is in talks with a third provider.
+
+“Yes, the Lincoln model is working,” he said.
+
+State lawmakers, however, are considering a bill that would wipe out the city’s newfound cash influx.
+
+LB 389, or the Small Wireless Facilities Act, would cap application and permit fees at $250 and eliminate other lease, fee or tax payments, However, local governments would keep control over permitting.
+
+A spokesman for state Sen. Curt Friesen, the bill’s sponsor, says LB 389 is currently in committee where amendments are being hammered out by all parties involved, including “governmental subdivisions, your cable companies, other tech companies.”
+
+Young says the bill is flawed and represents a step back in promoting broadband in Nebraska.
+
+“LB 389, if passed without modification, would effectively gut the city’s current program and send us back to the drawing board with respect to negotiations and agreements,” he said. “Ultimately, the city would end up with two sets of poles with small cell equipment — those governed by current agreements and those governed by future agreements.”
+
+The city is joined by the Nebraska Rural Electric Association and the League of Nebraska Municipalities in its opposition.
+
+The legislation has strong support, however, by groups such as CTIA, the primary trade association for the wireless industry. The group predicts 5G deployment will add more than 250,000 small cells across the country and about three million jobs. It also forecasts that nearly $500 billion will be added to the nation’s GDP over the next seven years.
+
+Nebraska’s chunk of that would be significant, according to a letter from CTIA supporting Nebraska’s bill. In the letter, CTIA state legislative affairs director Bethanne Cooley said removing barriers to small cell deployment could mean more than 4,000 jobs and $675 million in Omaha alone.
+
+RELATED: Will Florida preempt local governments to complete next-gen wireless connectivity?
+
+While Nebraska and more than a dozen other states take up legislation to bring small cell deployment under broad-based regulatory umbrellas, the Federal Communications Commission is considering doing the same.
+
+The agency recently wrapped up a comment period on streamlining small cell deployment to gauge the need to update its rules. Right now, federal law generally allows states to govern public rights of way, but recognizes local authority in the permitting process and the challenges in accommodating an exploding new infrastructure technology.
+
+Feds weigh in
+
+The FCC sought feedback on lag time between permit application and approval, as well as how local governments calculate provider fees and lease payments.
+
+“Are recurring charges set based on localities’ ongoing costs of managing use of rights of way? To what extent are localities imposing charges based on other considerations, such as percentages of gross revenues or other indicia of the value of the use of the right-of-way?” the FCC posed in its request.
+
+Seth Cooper is a senior fellow with the Free State Foundation, a nonprofit think tank specializing in government regulations. He says local governments need to resist the profit urge in favor of better wireless service for the greater good.
+
+“Some local governments may be tempted to grow their budgets by demanding wireless infrastructure providers pay large fees and high rates to put small cell infrastructure on utility poles or traffic lights,” Cooper told Watchdog in a statement. “But excessive charges for small cell placements on public rights-of-way end up delaying 4G and 5G wireless network upgrades.”
+
+Cooper added: “States and local governments that want their citizens to enjoy the economic and other benefits of faster 4G and future 5G services should set fee and rate standards to recover administrative costs only.”
+
+Kathy Hoekstra is a national regulatory reporter for Watchdog.org. Contact her atkhoekstra@watchdog.org and @khoekstra.

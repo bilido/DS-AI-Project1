@@ -1,0 +1,34 @@
+http://finance.townhall.com/columnists/jimhoffer/2018/05/21/one-app-to-rule-them-all-how-blockchain-will-turn-your-20-phone-apps-into-one-n2482795
+['Jim Hoffer', 'Lauretta Brown', 'Beth Baumann', 'Timothy Meads']
+2018-05-21 00:00:00
+One App To Rule Them All: How Blockchain Will Turn Your 20 Phone Apps Into One
+ 
+Users Have More Apps
+
+With the rapid growth of the sharing economy in recent years, the number of mobile applications providing these services is growing by the day. In the future, there is a high likelihood that the average mobile user in the developed world will have at least 20 sharing economy apps on their devices.
+
+Today, a typical Smartphone user in developed countries accesses nearly 10 applications daily, according to a study by App Annie. As the number of essential mobile applications continues to increase, users are experiencing more challenges when it comes to managing their apps.
+
+Imagine having mobile applications for almost everything installed on your device. With the many industries being disrupted by this technology, it would not be unusual to need over 20 applications to navigate through everyday activities. All those apps would also take up phone space, data and battery often sending notifications that you care little about.
+
+Studies show that with the rising amount of mobile apps, users are now experiencing what is known as app fatigue. According to ZDNet, app fatigue occurs when a user has too many apps on their phone and they have to scroll through screens of apps to find the one that they want.
+
+When this problem sets in, users tend to develop app phobia, a condition that involves uninstalling apps that they can survive without, avoiding new apps all-together. But now with the blockchain, the challenge of having to download multiple apps to access a variety of shared economy services is about to come to an end.
+
+Blockchain Solutions
+
+Blockchain projects such as the ShareRing are working on offering a single platform where people can easily and securely share almost anything without depending on centralized institutions. Even better, users are able to access a large number of services using the same platform and payment method and without relying on intermediaries or having to download an app for each service.
+
+The ShareRing ecosystem also seeks to engage partners such as Uber, Airbnb and other sharing app providers to build their unique ‘mini apps’ within the platform’s app. Simply put, the ShareRing app will act as an app for all sharing apps but will unify them by providing the same accessibility and payment methods. This means that users will have only one sharing economy app on their phones and this app will connect them with all the available sharing services within and across borders.
+
+Personal Data Safety
+
+Apart from bringing unification in the sharing economy sector, the blockchain is also ensuring users’ personal data safety. In fact, one of the reasons people are avoiding conventional mobile apps nowadays is their notoriety in misusing users’ data and exposing them to hackers. In the sharing economy sector specifically, Uber and Airbnb have in the past been in the limelight for the same reasons.
+
+For instance, in 2016, Uber was hacked and personal data of over 57 million US residents stolen. The company did not report the hack as required by the Federal Trade Commission and it was not until in 2017 that the incident was exposed. With the sharing economy ecosystem being run on the blockchain network, the challenges of a data breach will be over. The distributed nature of the technology and its reliance on cryptography makes it nearly impenetrable to attacks.
+
+Another great advantage of the shared economy on the blockchain is that people will not have to go through long processes to access services across borders. With blockchain projects such as ShareRing, users will use the same app, method, and currency to order services and make payments.
+
+Also, having the smart economy on the blockchain will ensure that users are protected from being wrongly charged. In the recent past, Uber has come under scrutiny after it was realized that rogue drivers in Nigeria were using a GPS-altering app to confuse the Uber app and therefore overcharge riders. With a blockchain powered platform, this would be impossible given that the technology can be set to verify data accuracy. Blockchain projects such as FOAM are already working towards making GPS more accurate and safe.
+
+As the shared economy continues to grow, there is no doubt that more and more solutions powered by the blockchain technology will continue to come up, solving big issues and small pain points along the way.

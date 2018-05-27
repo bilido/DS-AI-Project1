@@ -1,0 +1,24 @@
+http://finance.townhall.com/columnists/jerrybowyer/2018/05/14/800-thousand-for-a-burned-out-hulk-of-house-but-how-can-you-know-if-its-a-bubble-n2479832
+['Jerry Bowyer', 'Lauretta Brown', 'Beth Baumann', 'Timothy Meads']
+2018-05-14 00:00:00
+$800k For A Burned Out Hulk Of House, But How Can You Know If It's A Bubble?
+ 
+An irreparably fire-damaged house in Santa Clara was recently listed at $799,000, and within days received ten offers. (Source)
+
+Another home in the county, one near the Apple campus, recently sold for over $2,800/square foot.
+
+Santa Clara home prices are now at $1.4 million on average, having risen 24% in the past year and 18% in the past six months alone. Is this sustainable? Probably not.
+
+Let's think of it this way: People pay for residential housing out of their earnings, and they earn out of their economic productivity. Therefore, there is an inherent relationship between property value sustainability and economic productivity. If the aggregate value of real property greatly exceeds the aggregate value of the economic productivity that occurs on that property, then the people who live there will suffer falling standards of living. They can't keep paying higher and higher real estate prices (either owning or renting) without earning higher and higher incomes, otherwise their non-real estate spending margin will be diminished.
+
+Let's look at two measures of value creation in comparison with one another. First, we see in the data below cap-weighted real estate holdings. Real Estate Investment Trusts (REITs) typically allocate capital according to a system of cap weighting. This means that the higher the average price, the higher the aggregate value, and therefore the higher the allocation in a cap weighted index. Most of the industry follows this method. Therefore, a cap-weighted approach can be used as a proxy for high real estate valuations. In the data below, we see a cap-weighted index’s residential allocations in particular.
+
+Also, we see in the data below an index which is based on proportion of high-productivity workers. This index was created to be used in geographic weighting for the PPTYX real estate investment index, on which I worked.
+
+The contrast between these two indices is the contrast between the proportion of aggregate real estate values and the proportion of aggregate high-end human productivity. In the cases in which the cap-weighted index exceeds the PPTYX, this indicates a problem with price sustainability. As you see, by this measure, San Francisco has a serious problem with price sustainability. In fact, the other major metro areas of California also appear to possess sustainability issues.
+
+Analyses such as the above serve to get past the anecdotal level of analysis. Yes, stories about $2,800/square foot houses and $800k wrecks make us all cluck with disapproval at the obvious insanity of such prices. But we might have clucked five years ago and continued to cluck as prices continued to climb. Rich places have rich valuations. The trick is to get some idea when, and to what extent, the valuations have lost their grounding in economic reality. In this case, it looks like anecdote and analysis are telling the same story.
+
+There's one more very important point for you to be aware of: Talking about financial bubbles, whether in equity valuation or in real estate (or in REITs, where the two overlap), can be emotionally satisfying. It gives one a sense of superiority. But don't be so quick to judge. Look at the beam in thine own portfolio before staring at the mortgage in another's. In other words, before shaking your head at the obvious high housing prices make sure that you're not investing in that bubble yourself.
+
+For a deeper dive on approaches to real estate investing without the pro-bubble biases of cap weighting, click here.

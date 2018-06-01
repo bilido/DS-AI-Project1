@@ -1,0 +1,28 @@
+http://www.townhall.com/columnists/marinamedvin/2018/05/25/twitter-trolls-v-trump-trolls-win-first-round-but-its-complicated-n2484221
+['Marina Medvin', 'Matt Vespa', 'Erika Haas']
+2018-05-25 00:00:00
+Twitter Trolls v. Trump: Trolls Win First Round, But It’s Complicated
+ 
+US District Court Judge Naomi Reice Buchwald, a Clinton appointee, ruled that when Trump blocks Twitter trolls from his personal @realDonaldTrump account, he violates the First Amendment.
+
+Donald Trump uses Twitter to communicate with the public via two separate Twitter accounts: the official Presidential @POTUS account, which he inherited as President in January 2017, and the @realDonaldTrump account, which he has used as his personal account since March 2009. Trump communicates with the public using both accounts.
+
+Trump is accused of unconstitutionally blocking unfavorable users, dubbed Twitter trolls, from his personal @realDonaldTrump account. The Twitter trolls sued Trump, arguing that when they were blocked, they could not participate in discussions with others in the comments sections on Trump’s tweets, and were therefore deprived of their First Amendment rights.
+
+The fact that @realDonaldTrump is a personal account did not prevent Buchwald from opining that the sporadic use of the account for government purposes converted the tweets into government speech and the account into a public forum.
+
+“We hold that portions of the @realDonaldTrump account -- the ‘interactive space’ where Twitter users may directly engage with the content of the President’s tweets -- are properly analyzed under the ‘public forum’ doctrines set forth by the Supreme Court, that such space is a designated public forum, and that the blocking of the plaintiffs based on their political speech constitutes viewpoint discrimination that violates the First Amendment. In so holding, we reject the defendants’ contentions that the First Amendment does not apply in this case and that the President’s personal First Amendment interests supersede those of plaintiffs.”
+
+The comprehensive 75-page decision considered public forum doctrine, government control, freedom of speech, viewpoint discrimination, and so forth. After thorough review and analysis, my takeaway was that it’s complicated. I could not say that I agreed with Buchwald’s analysis. But I also could not say that I disagreed. I needed to consult with a First Amendment expert.
+
+Clark Neily is a respected Constitutional Law expert who has argued First Amendment issues in both federal and state courts. We discussed the Buchwald decision. Neily’s first impression was the same as mine: it’s complicated. Neily explained that the issues can be plausibly argued either way, but that ultimately Buchenwald was probably correct.
+
+The President created a “virtual forum,” Neily explained, by tweeting public policy issues from the @realDonaldTrump account. Trump then blocked certain accounts from commenting on those tweets. The President’s legal team acknowledged that those accounts were blocked as a result of viewpoint discrimination. This is a “HUGE concession to make in a First Amendment case,” Neily declared.
+
+I asked Neily whether having a dedicated public forum account, @POTUS, bears any weight on the private @realDonaldTrump account, which is not dedicated solely to Presidential speech. He answered that it does not, noting that Trump frequently uses his private account “to prompt and participate in public-policy discussions,” agreeing with Buchwald’s analysis.
+
+Neily defends that Trump is not obliged to speak to everyone and that not all speech by a President is subject to public participation. But he foresees an uphill battle for Trump’s legal team. Neily believes that the greatest hurdle for the President to overcome is the fact that Trump had a less-restrictive means of ignoring people he disliked: he could have muted them. Muting the trolls would have allowed the trolls to speak about Trump’s tweets, without Trump having to have seen them.
+
+It’s complicated. I remain unpersuaded that a personal Twitter account, even when used by a President for some government-related statements, is converted into a government account and into a public forum, especially when official Presidential communications are released on the @POTUS government-owned account. I believe that significant arguments remain in this realm. But I agree that it’s a muddled issue in this case. I also do not accept that the trolls were aggrieved as extensively as they claim; they could have easily created new Twitter accounts and participated in @realDonaldTrump discussions via new accounts. Buchwald did not address this.
+
+For those who disagree or are unsatisfied with Buchwald’s ruling, do not fret. Buchwald sits at the lowest Federal court level and is subject to appellate correction. We know that Trump hates Twitter trolls, so there is a good chance that he will contest this ruling. The next Trump v. Troll battle will be at the Court of Appeals, if Trump chooses to appeal.

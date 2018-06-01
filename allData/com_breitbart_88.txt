@@ -1,0 +1,24 @@
+http://www.breitbart.com/tech/2018/05/31/google-wikipedia-list-nazism-as-california-gops-top-ideology/
+['Breitbart News']
+2018-05-31 00:00:00
+Report: Google, Wikipedia List ‘Nazism’ as California GOP’s Top Ideology
+ 
+Google briefly listed “Nazism” as an official ideology of the California Republican Party, due to the search engine’s dependence on unreliable information from Wikipedia.
+
+Until earlier today, a Google search for the California Republican Party brought up a list of ideologies in the “knowledge panel” that sometimes appears on the right-hand side of search results. These ideologies included “Nazism, Conservatism, Market liberalism, fiscal conservatism, green conservatism.” The story was first reported by Vice.
+
+Sadly, this is just the latest incident in a disturbing trend to slander conservatives. These damaging actions must be held to account. #StopTheBias https://t.co/6ztyuc772s — Kevin McCarthy (@GOPLeader) May 31, 2018
+
+After press coverage and attention from House Majority Leader Rep. Kevin McCarthy (R-CA), the “ideology” infobox section has now disappeared. Searches for other California parties, like the California Green Party, still show an “ideology” infobox. Other state GOP parties also display the infobox.
+
+The information for these boxes appears to have been sourced from Wikipedia. The edit history of the California Republican party shows that someone edited the party’s Wikipedia page to include “Nazism” among its ideologies.
+
+Responding to Rep. McCarthy, Google confirmed that “Wikipedia vandalism” was the cause of the problem.
+
+We regret that vandalism on Wikipedia briefly appeared on our search results. This was not the the result of a manual change by Google. We have systems in place that catch vandalism before it impacts search results, but occasionally errors get through, and that happened here. — Google Communications (@Google_Comms) May 31, 2018
+
+This would have been fixed systematically once we processed the removal from Wikipedia, but when we noticed the vandalism we worked quickly to accelerate the removal of the erroneous information. — Google Communications (@Google_Comms) May 31, 2018
+
+As Breitbart News has documented before, Wikipedia pages are often biased smear-jobs, the result of partisan editing by anonymous, unaccountable contributors to the site. Nevertheless, big tech companies continue to give information from Wikipedia a privileged position on their platforms — not just next to Google searches but also YouTube videos and Facebook posts.
+
+Allum Bokhari is the senior technology correspondent at Breitbart News. You can follow him on Twitter, Gab.ai and add him on Facebook. Email tips and suggestions to allumbokhari@protonmail.com.

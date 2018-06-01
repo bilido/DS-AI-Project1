@@ -1,0 +1,34 @@
+https://www.realtor.com/news/real-estate-news/home-buyers-know-about-new-lending-reform-law/
+['Danielle Hale']
+2018-05-25 12:00:34+00:00
+Reforming Lending Reform: 3 Things Home Buyers Should Know About the New Law
+ 
+On Thursday, President Donald Trump signed legislation rolling back some of the lending restrictions enacted in response to the housing boom and bust. While the new law doesn’t entirely do away with those financial reforms, it does have some significant implications for home buyers.
+
+The Dodd-Frank Wall Street Reform and Consumer Protection Act imposed stricter rules around lending for both borrowers and lenders, in an attempt to shut down the careless mortgage lending that laid the groundwork for the housing crash. Critics, however, have said that these stricter rules have made it too difficult for anyone to get a loan, hobbling the real estate market.
+
+The new law aims to open up access to credit by loosening regulations on small- and medium-size banks. Since the new law doesn’t change the rules for the largest banks, it shouldn’t make the financial system much riskier than it is now. Here’s what home buyers should know:
+
+1. Alternative credit-scoring models could help those without traditional credit files
+
+The reform law encourages Fannie Mae and Freddie Mac to explore alternative credit score models. Research shows that 26 million American adults don’t have credit history with one of the three nationwide credit-reporting companies and that black, Hispanic, and low-income consumers are more likely to be part of this “credit invisible” group. New models could use data left out of current models, such as rent payments, that might help lenders evaluate the creditworthiness of more would-be borrowers.
+
+2. Looser underwriting rules could make mortgages more plentiful
+
+Loans from lenders with less than $10 billion in assets would be exempt from some of the Dodd-Frank mortgage underwriting standards, as long as they hold onto the loans rather than selling them. While this should encourage lenders to lend, not all of them are willing to hold loans in portfolio. But as mortgage rates rise, banks may become more willing to take on some portfolio loans, opening up more options for borrowers.
+
+3. Reducing the number of lenders subject to HMDA reporting could encourage more lending
+
+Ever since the Home Mortgage Disclosure Act of 1975, financial institutions had to meet certain standards for location, asset size, and other metrics to determine whether they were required to report characteristics of loan applications and their outcomes. This reporting meant extra paperwork and costs for the lender.
+
+One of the tests was the number of home purchase loans or first-lien refinance loans that the institution originated. Depending on the type of institution, reporting requirements could be triggered by as few as one to 25 loans over the past year. The new rule raises this requirement to 500 loans in each of the two previous calendar years.
+
+This should reduce the reporting and costs for small-scale lenders, and hopefully make them more willing to make those mortgage loans—another win for home buyers.
+
+Of course, this may have an impact on the quantity of data gathered as a result of HMDA. This has been useful to researchers seeking to understand the housing finance market, and particularly the degree to which lenders are serving needs in their communities, especially among underserved populations. The new law requests that a study be conducted to assess the impact of this reform on the amount of data available.
+
+Credit freezes—and unfreezes—are now free
+
+One last change the law makes is a requirement that credit-reporting agencies enable consumers to freeze and unfreeze their credit without charge.
+
+With 143 million individuals affected by the Equifax data breach alone, limiting the damage data leaks can do to your credit is important for everyone, but particularly home shoppers who are going to rely on their credit score to help them qualify for a mortgage. After checking to make sure everything is correct, home shoppers can freeze their credit until they are ready to work with a lender. This will help ensure that when it comes time to apply for a mortgage, there shouldn’t be any major surprises.

@@ -1,0 +1,50 @@
+https://www.cnn.com/2018/05/22/opinions/presidents-can-be-indicted-opinion-quinn-weiner/index.html
+['Jack Quinn', 'Rob Weiner']
+2018-05-22 00:00:00
+Presidents can be indicted
+ 
+Jack Quinn was the White House counsel in the Clinton administration and is a partner at Manatt, Phelps & Phillips. Rob Weiner was the associate deputy attorney general in the Obama administration and senior counsel in the White House counsel's office in the Clinton administration. He is currently a partner at Arnold & Porter. The opinions expressed in this commentary are theirs.
+
+(CNN) On Wednesday, President Donald Trump's lawyer, Rudy Giuliani, said that Special Counsel Robert Mueller and his team have concluded that they can't indict a sitting president, simply because Justice Department guidelines prohibit such an action.
+
+Whether or not President Trump should be indicted, he can be indicted. Giuliani's statement, which he attributes to Mueller, is not, in fact, etched in constitutional granite.
+
+For starters, the Constitution does not say that a president is immune from indictment or prosecution. By contrast, the Constitution does provide limited immunity from prosecution for members of Congress: except in cases of treason, felony and breach of the peace, they are not subject to arrest when Congress is in session and they may not be "questioned in any other place" for anything they say in any speech or debate in the Congress.
+
+So, the Founders who authored our Constitution clearly knew how to provide legal immunity. They thus could easily have done so for Presidents. But they did not.
+
+The Justice Department position in question by which, according to Giuliani, Mueller feels bound is based on opinions by its Office of Legal Counsel -- one written in 1973 and the other in 2000 -- when Presidents Nixon and Clinton were both in the legal crosshairs. While well-considered, nothing about this decades-old policy restricts reconsideration, in whole or part, of the conclusion that a president cannot be subject to an indictment or trial.
+
+Notably, the staffs of Independent Counsels Leon Jaworski in 1974 and Kenneth Starr in 1998 opined that indictments could be brought against a President while still in office. Indeed, the Clinton administration's Justice Department, while concluding that "considerations of constitutional structure" suggest not indicting a sitting president, acknowledged that the Constitution does not squarely answer the question.
+
+What, then, are these structural barriers to indictment? The first is the idea that our separation of powers would be offended if one branch were able to take actions that might imperil the ability of another branch to carry out its constitutionally prescribed duties. That would arguably be the case, for example, if an official in the judicial branch (a judge, to be exact) could toss the head of the executive branch (the president) in a cell at a time when he is due to meet in Singapore with another head of state to negotiate possible denuclearization of the Korean Peninsula. Such a meeting generally would be a legitimate exercise of executive authority, not an abuse of power that a court should be able to block.
+
+But, an indictment of the president does not really raise a separation of powers concern because the powers in play here are not truly separate. While a grand jury is an arm of the judiciary, the Department of Justice and the attorneys within it, who control the actions of the grand jury, fall under the executive branch, the same branch as the President. The Justice Department's inhibitions against indicting a sitting president are very powerful, but extreme situations would surely be enough to overcome them.
+
+In any event, if an indictment were to occur, it would not inevitably, or even probably, prevent the President from exercising his legitimate duties. The interference would come from a trial and the imposition of punishment.
+
+Nothing about an indictment alone determines the timing and pace of a trial or the conditions of a sentence. Indeed, a president would have a compelling basis, perhaps a constitutionally unassailable right, to delay any trial until his term expires.
+
+Why though would one indict, but not immediately try, a president? Among other things, it might be important to indict in order to prevent a statute of limitations from running out and rendering a presidential crime unpunishable if trial is delayed to accommodate a president's duties.
+
+Some may think that an indictment would be a cloud over the administration, and thus be contrary to the national interest. If this were so, an indictment could be sealed and kept secret until the president's term concluded. Or the more likely scenarios would be either a presidential resignation or resorting to the 25th Amendment , which could enable the vice president to stand in for the president if an actual or impending trial prevented him from performing his duties. The Supreme Court undermined the "interference" argument in Clinton v. Jones. In that case, Paula Jones, a former Arkansas state employee, sued President Clinton alleging that he made sexual advances when he was governor and retaliated against her when she complained.
+
+The Supreme Court held forcefully that the president is subject to the same laws that apply to all other citizens; that there is no immunity for unofficial conduct; and that the separation of powers doctrine does not require delaying private actions until after the president leaves office.
+
+The Paula Jones case stands for the proposition that the federal courts will not allow the president's official duties to shield him against private litigants who legitimately seek to advance a claim. The interest protected by the Supreme Court was Paula Jones' right -- as a single citizen and a plaintiff -- to sue a sitting president in a civil case.
+
+When we enforce our criminal laws, the protected interest is not just that of a single plaintiff: it is, in the truest sense, the public's interest because, in the hierarchy of administering justice, the enforcement of our criminal laws protects us all. That collective interest in the administration of criminal justice is precisely why we say no one is above the law. Even presidents.
+
+The Office of Legal Counsel opinions argue, however, that an indictment would itself be far more debilitating than a civil suit, distracting the president and eclipsing his moral authority.
+
+But that is not an entrenched rule of law. It is a judgment based on context. In any event, it is not clear why an indictment would be more debilitating and distracting than a pledge by the prosecutor to indict the president as soon as his term ends, or a report by the special counsel accusing the president of committing felonies. On the contrary, an indictment provides a president the opportunity for vindication by a favorable jury verdict.
+
+While the Office of Legal Counsel is authorized to render legal advice, it is not so clear that the office establishes the policies of the Department of Justice. More importantly, the point of a special counsel is to be independent of the political offices of the Department of Justice. Notwithstanding its long tradition of professionalism, the Office of Legal Counsel is run by political appointees.
+
+The other structural problem that some find with the idea of indicting a sitting president is the Constitution's procedure for dealing with presidential crimes: impeachment.
+
+But impeachment is a process simply to remove an official from office and protect that office and the Republic as a whole.
+
+Criminal processes, by contrast, exist to deter and to punish individuals for their wrongdoing. Impeachment from office is simply not a substitute for punishment, and that is why the Constitution specifies that an official removed from office as the result of impeachment, "shall nevertheless be liable and subject to Indictment, Trial, Judgment and Punishment, according to Law."
+
+Again, our point here is not what the special counsel should do with regard to his investigation, but what he can do. So, contrary to what Mr. Giuliani may think, a special counsel can indict a president, as long as -- and only as long as -- the evidence and circumstances so dictate.

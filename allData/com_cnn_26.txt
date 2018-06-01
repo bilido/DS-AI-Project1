@@ -1,0 +1,24 @@
+http://money.cnn.com/2018/05/30/technology/consumer-reports-model-3-recommended/index.html
+['Peter Valdes-Dapena']
+2018-05-30 00:00:00
+Tesla's Model 3 finally nabs Consumer Reports recommendation
+ 
+The Tesla Model 3 recently failed to earn a recommendation from Consumer Reports due to poor braking performance but, in a quick turnaround, the car is now recommended after its software was improved in an overnight, over-the-air update.
+
+All Tesla cars have mobile data connections that allow them to download software updates "over the air" just as cell phones and tablet computers do. Usually, when car manufacturers need to update software, the vehicles have to be brought into service centers where technicians perform the updates.
+
+Before the update, the car had taken an average of 152 feet to come to a full stop from 60 miles an hour, about seven feet longer than a Ford F-150 pickup, according to tests performed at Consumer Reports' Connecticut track. After the update, the Model 3's stopping distance was reduced by 20 feet. The car now has a stopping distance that's roughly the same as other comparable sedans.
+
+"I've been at [Consumer Reports] for 19 years and tested more than 1,000 cars, and I've never seen a car that could improve its track performance with an over-the-air update," Jake Fisher, director of auto testing at Consumer Reports, said in a blog post.
+
+A Tesla (TSLA) spokesperson told the magazine the software was updated to improve the brakes' performance with different drivers and in varying environmental conditions.. Tesla CEO Elon Musk had publicly promised to fix the braking issue.
+
+Anti-lock braking systems use wheel-spin sensors and computers to gauge when the tires are about to skid during hard braking. The system then quickly pumps the brakes many times per second to prevent the tires from losing grip as the car rapidly slows and stops.
+
+The braking improvement raised the Model 3's overall test score enough to earn the magazine's recommendation despite a few other complaints. The magazine's test drivers also took issue with wind noise, uncomfortable rear seats and and the car's relatively stiff ride.
+
+Tesla CEO Elon Musk told Consumer Reports that changes have already been made in cars leaving the production line to address those issues, according to a Consumer Reports blog post.
+
+In addition to the braking updates, Tesla also made changes to the car's touch screen interface, addressing another of the magazine's complaints that the interface is too distracting.
+
+"At first glance, these changes seem to be an improvement," the magazine said in its blog post, "but we need to spend more time evaluating them."

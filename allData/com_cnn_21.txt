@@ -1,0 +1,36 @@
+http://money.cnn.com/2018/02/05/technology/business/5g-internet-of-skills/index.html
+['Katy Scott']
+2018-02-05 00:00:00
+5G could change everything from music to medicine
+ 
+5G is going to be a really big deal.
+
+The lightning quick "next generation" wireless technology is expected to power self-driving cars, virtual reality, smart cities and networked robots.
+
+But what else can it do?
+
+Ericsson (ERIC) has joined up with researchers from King's College London to dream up futuristic applications for 5G. They're looking at everything from music to medicine.
+
+The team is focused on using the technology to transfer physical skills across networks, creating something they call the "Internet of Skills."
+
+One example: A surgeon with virtual reality equipment and haptic gloves, which sense motion and pressure, could operate on a patient on the other side of the world via a robot.
+
+Remote surgery has been possible for a while, but 5G speeds should eliminate all delays and lag. That means the surgeon could get instant feedback via the gloves.
+
+"With 5G and the new networking architecture we're building, we're hoping to get this delay down to just the speed of light," said Mischa Dohler, a professor of wireless communications at King's College.
+
+Dohler, who moonlights as a composer and pianist, also plans to digitize his piano skills and teach people remotely to master the instrument.
+
+Related: What is 5G?
+
+Haptic gloves can be used to track and record the movement of Dohler's fingers, and the position of his hands. The data would be stored on the skills database, ready to be downloaded by an aspiring pianist.
+
+"They would download that in real time on to an exoskeleton, which would start to move their fingers until the muscle memory is trained," said Dohler.
+
+"They could actually practice their muscle memory anywhere they want," he added.
+
+Dohler also imagines a surgeon could upload their skills to a database to train students around the world.
+
+But he said it might take another decade for this "Internet of Skills" to be fully functional.
+
+"We need to get security rights and the best practice of this technology right, because the moment you start moving things on the other side of the planet, you can do a lot of harm," he said.

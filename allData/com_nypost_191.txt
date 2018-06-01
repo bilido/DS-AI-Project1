@@ -1,0 +1,20 @@
+https://nypost.com/2018/05/30/super-smart-ai-can-recognize-you-by-the-way-you-walk/
+['Chris Smith', 'May']
+2018-05-30 00:00:00
+Super-smart AI can recognize you by the way you walk
+ 
+Airport lines are the worst, no matter how early you arrive. You’ve got to check your bags, then go through the necessary security and ID checks and you’re usually waiting in line for most of them.
+
+The emergence of artificial intelligence may speed that whole process by eliminating at least one of those types of queues. Researchers have discovered one way to effortlessly and passively identify a person with increased accuracy. Unfortunately, the system can also be used for spying on people.
+
+Found by Gizmodo, the IEEE Transactions on Pattern Analysis and Machine Intelligence paper reveals that AI can be used to identify individuals by the way they walk.
+
+“Each human has approximately 24 different factors and movements when walking, resulting in every individual person having a unique, singular walking pattern,” lead author of the study Omar Costilla Reyes said in a statement.
+
+AI is so good at analyzing the data that it can spot people who’re faking their walking. The method is less invasive than other behavioral biometric verification systems and could be deployed inside airports and other areas to check the identity of people passing by instantly.
+
+The system was nearly 100 percent accurate in identifying individuals, with an error rate of just 0.7 percent.
+
+As mentioned, this makes it a great tool for spying, but it requires two essential elements to work. For starters, the system requires high-resolution cameras and unique flooring with sensors embedded into it to measure variables related to a user’s walking behavior. It also needs a database of information so that it can compare its findings against saved records. Therefore, mass-surveillance operations that could identify a large number of people by the way they walk seem highly unlikely for the time being.
+
+But such systems may very well be used to speed up airport checks for frequent flyers who would not mind having their walking habits recorded in a database the first time they go through it. Their walking fingerprint could then be shared with other airports who would deploy the same kind of technology.

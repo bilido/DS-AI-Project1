@@ -1,0 +1,94 @@
+http://finance.townhall.com/columnists/davidlbahnsen/2018/05/25/new-politics-meets-markets-feature-n2484393
+['David L.', 'Matt Vespa', 'Erika Haas', 'Chris Reeves']
+2018-05-25 00:00:00
+New: Politics Meets Markets Feature!
+ 
+As we head into a long holiday weekend, markets have been given a lot of chance to react this week to more news catalysts. Improvements in the trade talks with China. A fallback in the trade talks with China. A step forward with North Korea. A step backward (and now cancelled "Korea summit"). Political ire and conspiracy theory. Auto imports investigation? Fed dovishness permeates the May meeting minutes. Now some of these things we have long discussed how they really aren't catalysts to market movements because the markets just don't care). Others not only have been catalysts but were so this week (up big Monday, down big Thursday, etc.). But with all of this and more, we appear to be headed at press time into the end of the week into a just modestly down if not a flat week.
+
+So the directionless-ness theme may be continuing, and yet I would add, equity markets are up substantially in May (with three trading days in May to go next week).
+
+You also should note this week the introduction of a Politics Meets Markets section within the Dividend Cafe. Because we have such a large number of readers and clients who care about the political effects on markets, we believe extracting the economic and market-centric information each week that is right out of K Street will be useful to many.
+
+And with all that said, let's jump into the Dividend Cafe ...
+
+Economic Vocabulary and Investment Policy
+
+One great fallacy in media coverage and casual conversation about the present state of affairs is an inability or unwillingness to delineate between short-term rates and long-term rates. We talk about "interest rates going higher" as if they are the exact same thing when they are anything but. As all the talk about the "yield curve" makes very clear (and this week's commentary offers up important banter about the whole hubbub around "yield curve inversion"), there is not one "rate", but rather relationships between short rates, and intermediate rates, and long rates that matter. And we want you to understand this.
+
+Most of your economic activity centers around some form of short rate. Credit lines are usually hitched to things like the Federal Funds rate or the LIBOR 30-day rate. Credit cards usually are as well. Business bank borrowing too. The short-term rate in the market should be thought of as the proxy for practical borrowing costs. Corporations, Cities, States, Individuals, and even the Treasury Department, rarely lock up their financing cost to a long-dated maturity - those rare and glorious 15-year or 30-year homebuyers being the most common exception. So the short rate matters because it impacts borrowing costs for all economic actors who borrow (see list in prior sentence), but the long rates matter because they are a proxy for the actual anticipated economic growth rate. So if a 10-year treasury bond is at 2%, it is not an indication of what borrowers are paying; it is an indication that structural growth in the economy is anticipated to be awful. If the 10-year bond yield is at 8%, that is in anticipation of severe inflation. The worst place for investors is if borrowing costs (short rates) are flying higher (impacting corporate profits etc.), and yet the 10-year and 30-year rates are staying flat or going down (no growth anticipated).
+
+The pace of change between the different rates matters. The relationship between the two rates matter. But "what interest rates are doing" cannot be believed to have practical efficacy to it.
+
+Midstream energy (MLP's) back into focus
+
+A rally of over 15% in the last month or so has brought MLP's (oil and gas pipelines) back into positive territory on the year, stunning many who left the sector for dead. The thesis behind pipelines has always been, and always will be, volume. We need more oil and gas flowing through pipes. Rig counts are up 150% since mid-2016, and despite 45% of those rigs being in the Permian Basin, we are still way, way under-rigged, and under-piped, in the Permian Basin. The yields in this space compared to high yield bonds, not to mention investment grade bonds, are extraordinary. Spreads are a valuation metric, and spreads indicate this space is anything but rich!
+
+Click here to view the chart.
+
+How is this playing out across the whole energy sector?
+
+It has been quite a while since we have seen this. The relative performance of how the energy sector is doing vs. the whole market has not only trended violently better the last 6 weeks or so, but gone into the net positive for the first time in, a long time.
+
+Click here to view the chart.
+
+But is all this oil stuff good news or bad news?
+
+I wish I could give you an economically coherent answer, and I wish even more than other "pundits" would answer with some competent understanding of history. In the most basic sense, it stands to reason that oil is a commodity price, and represents an input cost for many companies, and overhead for a consumer. Therefore, it functions as a sort of "tax" and leaves less money in the pockets of people who spend money on oil-related items. We would traditionally think of this as a negative, right? But, and this cannot be said emphatically enough, all the rage throughout the oil malaise of 2014-2016 was that the low oil price meant Armageddon for the economy and stock market. It meant bond defaults, bank stress, and indicating weakening demand in the global economy. So certainly people cannot have it both ways. It cannot be a sign of bad things when it drops, and then a sign of bad things when it rises. The more cogent approach is this: It means different things at different times, whether high or low, depending on many other circumstances. Supply and demand circumstances; the geopolitical landscape; the forces pushing supply and demand; etc. all matter.
+
+When something happens that never happens
+
+Actually, what we are describing here does sometimes happen (including right now), but it is pretty darn rare. Over the last five weeks the U.S. dollar has appreciated quite a bit, and yet oil has risen substantially as well. We are used to oil and the dollar trading inversely to one another, for the obvious reason that the world oil price is denominated in U.S. dollars. If this relationship were to sustain itself - a rising dollar and rising oil prices at the same time - it would have a profound impact on emerging markets and commodity prices. There is very little reason to believe the dollar will, in fact, continue in this rise (which has been, by the way, an interruption from a 16-month dollar decline period). But because many emerging markets countries have financed their debt in U.S. dollars, especially in the corporate sector, a rising dollar raises the cost of servicing that debt. It also forces EM countries to hike their own domestic rates to fight off imported inflation, thus making their own local currency debt tougher to service.
+
+Does all of that macro/currency/dollar/inflation/rate stuff matter for an individual growing company with strong competitive advantages and great metrics and management? No, it really does not. Pricing power overcomes a lot of "stuff." But, in the short term, price movements in EM can be very driven by such things, and it behooves a disciplined emerging markets investor to be aware of this reality. We happen to not believe the dollar rally will continue like this, but if it is geared up for a longer rally than we have anticipated, short-term headwinds are likely. We don't care. But we are aware.
+
+But the yield curve is flattening ...
+
+One of my favorite things I deal with in my profession is when a whole lot of people in the media begin using a term that they do not understand, and it becomes contagious, allowing a whole lot of other people to begin using a term that they also do not understand. We are living this out in real time right now with the expression "flattening yield curve" ... Allow me to elaborate.
+
+A "flat" yield curve is when short-term interest rates and longer-term interest rates are the same, so a "flattening" yield curve is one where they are "headed that direction" (i.e. either short-term rates rising or long-term rates dropping or both). Even that, actually, is somewhat inaccurate, as it also could happen by short term and long term rates rising, but with short-term rates rising more than long-term rates do (which is what has happened in recent months. An "inverted" yield curve is when short rates are actually higher than long/longer rates, and that has very often predicted a recession.
+
+We do not have an inverted yield curve in the United States, but we certainly have a flatter one. There are all sorts of reasons for this ranging from the Fed's short-term rate movement to the lack of inflationary pressures on the long end. The talk that a flattening curve is necessarily bearish or predictive is a history-hating defiant one. Indeed, from 1994-1998 few would refer to that equity market as troubled, and yet we went for years with a reasonably flat curve. A comprehensive understanding of monetary policy, rate markets, money supply, and money flows are all necessary (in our opinion) to understand the lay of the land in capital markets. But understanding something wrongly is worse than not understanding it at all.
+
+But what if ...
+
+Could the yield curve invert? Absolutely. Will it? I am sure it will at some point. When? Could be late this year, but I suspect it will be 2019. Will a recession happen when it inverts? A recession rarely happens when it inverts, but rather after it inverts, often a year or two later (it can be less).
+
+Small cap's secret revenge
+
+Out 2018 call for the small-cap space to be the 2017 laggard that transformed into a 2018 leader has played out extremely well so far, with the small-cap index outperforming the big equity indices by almost a triple (roughly +6% vs +2% YTD). I would be remiss if I did not point you to this week's Advice and Insights podcast (embedded above, but at this link here too if you prefer) - as I spend nearly an hour interviewing our chosen small-cap equity manager, Ron Baron. It is well, well worth the listen.
+
+Politics Meets Markets - our new section - quick bullet points on the beltway, bull, and bear
+
+The announcement that the "trade war with China" is on hold caused one of the big rally days of the year last Monday. National Economic Council Director, Larry Kudlow, and Treasury Secretary, Steve Mnuchin, have helped drive a "framework" (not finished product) for a pending trade deal with China. No doubt, things feel better now on this front then they did two months ago (see chart below). How the particulars shake out (especially on intellectual property) will matter in the weeks ahead.
+
+Where does this deal potentially offer investors opportunity? We would not isolate the story of exporting liquefied natural gas to just this China/trade deal, as it has been a story we have long seen as a growth catalyst and opportunity. And yet, that story became more compelling with word that China's potential $200 billion purchase of U.S. goods will be heavily inclusive of LNG imports. U.S. agriculture is also said to be a winner in this proposed framework. But in terms of specifics, export terminals need to be built; pipelines need to bring gas to these terminals; our infrastructure is inadequate. We want to be invested in this story.
+
+Have markets shrugged off tariffs? Let's go back to the ancient history of 2-3 months ago. Three times the President made speeches about tariffs (or intent to implement tariffs) and three times the market was rocked. The move up since the hiring of Larry Kudlow can largely be thought of as the period where markets have no longer believed a real trade war was coming
+
+Click here to view the chart.
+
+I wrote elsewhere in the Dividend Café about the impact of higher oil prices on the economy and market. But let's make another observation that needs to be made - the fiscal stimulus impact (negatively) of higher oil prices on the consumer has been significantly altered by what? The tax reform, of course. How we absorb a roughly $50 billion impact in 2018 from oil prices when there is a $120 billion positive impact from tax reform is quite different than if no offsetting fiscal effect was at play …
+
+Does the inverted yield curve matter for politics? You bet it does. IF, and it is a big IF, as I go to great lengths to explain elsewhere in Dividend Café, inversion of the yield curve (short-term rates exceeding long-term rates) has historically indicated a recession each time it has happened since 1950. If the yield curve inverts in 2019 and goes into recession in 2020, that is an election year. If it inverts in 2019 or 2020, and we go to a recession in late 2020 or 2021, that will be after the election. The economy is strong, but through time, tightening monetary policy is meant to contract it. The political implications of how this all times itself will be profound when it comes to the 2020 Presidential election. I believe were it not for the tax reform bill passed in late 2017, the next recession likely would have happened in this first term; should it be pushed out a bit, well, who knows what may play out.
+
+It wouldn't be a complete recap of the week in politics and markets without a comment on the announcement late Wednesday night that President Trump was asking for a national security review under the Trade Expansion Act's Section 232 of imported automobiles. He is interested in tariffs on imported automobiles of up to 25%. Of course, it is patently absurd that this is a "national security" issue, and I expect the market will react to it the way it has had to learn to react to much of this jawboning - which is, to take it as jawboning. Could it be a "negotiating tactic" with Canada and Mexico as they re-work NAFTA (if so, it does sort of beg the question how long everyone can know something is merely a "negotiating tactic," before it no longer helps negotiate tactically)? Would it hurt the significant domestic industry we now have building cars from foreign makers here in the U.S.? The reality is that all of this talk is bad economics, and bad for markets, and yet, to the President's credit, none of it has yet proven to be anything but posturing. I say that to his credit.
+
+Chart of the Week
+
+Are interest rates "breaking out" to new secular highs? We stand firmly in the camp that says no, and have offered our fundamental defense of that position repeatedly in recent weeks. This is a very long-term history of this secularly declining bond yield; the idea that a secular reversal is in order strikes us as requiring some catalyst - a catalyst not being offered by advocates of that position.
+
+Click here to view the chart.
+
+Quote of the Week
+
+"Some writers have so confounded society with government as to leave little or no distinction between them; whereas they are not only different, but have totally different origins."
+
+-- Thomas Paine
+
+* * *
+
+I hope all the charts have made this week's Dividend Café more readable.
+
+I want to close out this week's Dividend Café with a comment unrelated to capital markets or the economy, but very pertinent to the Memorial Day holiday we will celebrate this holiday weekend. We do not take for granted those who have given their lives serving in the armed forces. We hold no such pretension that there would be capital markets to monetize if it were not for the freedom we enjoy, a freedom paid for by the blood and lives of the heroic souls who have fought for this country. I will also be enjoying the normal outdoor, BBQ festivities of a Memorial Day weekend (and taking in a Yankee/Angel game to boot). But as for me and my house, we shall also pause to remember what we memorialize on Memorial Day. Gratitude abounds. God Bless America.
+
+David L. Bahnsen writes at the Dividend Cafe.

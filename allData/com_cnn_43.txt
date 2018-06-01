@@ -1,0 +1,24 @@
+http://money.cnn.com/2018/05/31/technology/google-in-china-files-app/index.html
+['Sherisse Pham']
+2018-05-31 00:00:00
+Google now has two apps in China, but search remains off limits
+ 
+Google is bringing a second app to China as it looks to grow its presence in a huge market where most of its services are blocked.
+
+The company said in a blog post Thursday that it has launched its file management tool, Files Go, in four Chinese app stores. The app was released in the United States in December.
+
+Many of Google's (GOOGL) best-known services -- such as search, Gmail, YouTube and Maps -- are banned or widely inaccessible in China, the world's largest smartphone market. But Files Go is unlikely to upset the country's censors -- it suggests files to delete, organizes images, videos and documents, and lets users share files offline.
+
+Related: Google is opening an artificial intelligence center in China
+
+Google effectively left China in 2010, but the country's hundreds of millions of internet users make it too large a market to ignore. The company has been hunting for ways to expand there in recent years.
+
+It released its language translation app in China a year ago. The company said the number of users of Google Translate in China grew 400% in the first five months. It declined to give the current number of users.
+
+Related: Google's man-versus-machine showdown blocked in China
+
+Google faces challenges getting more services into the country, including stricter censorship regulations and increased scrutiny of foreign tech companies.
+
+The company's own app store, Google Play, remains blocked in China, which means that for Android phone users, Files Go and Google Translate are only available on third-party app stores, like the ones run by Chinese smartphone makers Huawei and Xiaomi.
+
+Google is also setting up an artificial intelligence research center in Beijing, the company's first in Asia. The move will help China pursue its aim to become a global leader in AI.

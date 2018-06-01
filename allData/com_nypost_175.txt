@@ -1,0 +1,20 @@
+https://nypost.com/2018/05/30/mits-robot-maids-will-do-your-chores-for-you/
+['May']
+2018-05-30 00:00:00
+MIT’s robot maids will do your chores for you
+ 
+Too tired to make your own cup of coffee in the morning? Soon, you could outsource it to the help: robots.
+
+New software out of MIT will teach robots to do your least favorite household chores — just like in “The Jetsons.”
+
+Computer scientists from MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) have unveiled “Virtual Home,” a system that demos the robotic “agents” performing such tasks as turning on the TV, using the toaster or placing a pot on the stove.
+
+Robots, it turns out, require more detailed instructions than humans would. For example, instead of “Get me a glass of water, please,” you’d ask a robot to stand up, walk toward the cabinet, pick up a glass, close the cabinet, turn on the faucet, hold the cup under the stream of water and walk the full cup over to the thirsty human in question.
+
+To that end, the research team collected verbal descriptions of a series of tasks, which were then translated into special simulation videos — which the robots, fascinatingly, were able to watch and learn from.
+
+“This line of work could facilitate true robotic personal assistants in the future,” Qiao Wang, a research assistant in arts, media and engineering at Arizona State University, says in a press release.
+
+Next, Wang’s team hopes to train the robots using regular videos instead of what scientists call “Sims-style simulations,” which would allow robots to learn tasks from YouTube videos.
+
+But for now, we still have to make our own beds.

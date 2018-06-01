@@ -1,0 +1,26 @@
+https://nypost.com/2018/05/30/frankenchickens-reveal-how-human-cells-organize-themselves/
+['Jamie Seidel', 'May']
+2018-05-30 00:00:00
+Frankenchickens reveal how human cells organize themselves
+ 
+Scientists are seeking “the organizer” — the embryonic process that sifts and shapes the development of new cells, ultimately shaping them into fully-formed humans.
+
+It’s been a difficult process.
+
+While such a control process was discovered in amphibians almost a century ago, the human equivalent has remained elusive.
+
+But, according to a research paper published in the science journal Nature, scientists have for the first time identified a human “organizer” by contrasting the behavior of human stem cells in the embryos of chickens and other animals.
+
+Dubbed “chimeras” — after the mythical half-human, half-animal monsters — these embryos end up containing two sets of DNA.
+
+The researchers say they introduced human stem cells into chicken embryos and observed the human cells beginning to assemble what was identified as the precursor to a spine. It described the chicken cells as obeying new instructions to turn into nervous-system tissue.
+
+“This fulfills the most stringent functional criteria for an organizer, and its discovery represents a milestone in human embryology,” the study reads.
+
+The fact the human “organizer” was able to operate within the chicken embryo suggests the process emerged early in the evolutionary process
+
+“Our ability to generate a human organizer closes the loop that was initiated by classical experimental embryologists working on amphibian systems nearly 100 years ago, and demonstrates that the concept of the organizer is evolutionarily conserved from frogs to humans,” the study reads. “Our chick experiments … may be generally applicable to test and explore other aspects of early human development.”
+
+Similar experiments have been happening in pigs and sheep embryos for the past two years. The purpose was to investigate the potential for growing human organs in these animals for later harvest and use in human transplants.
+
+But this experiment ultimately aims at understanding how errors in our cell replication system can produce birth defects.

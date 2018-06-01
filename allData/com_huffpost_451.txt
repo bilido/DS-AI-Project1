@@ -1,0 +1,98 @@
+https://www.huffingtonpost.in/2018/05/30/cobrapost-sting-softbank-and-alibaba-paytms-foreign-investors-mum-over-alleged-privacy-breach_a_23446626/
+['Betwa Sharma', 'Politics Editor', 'Huffpost India']
+2018-05-30 00:00:00
+Cobrapost Sting: Softbank and Alibaba, Paytm's Foreign Investors, Mum Over Alleged Privacy Breach
+ 
+NEW DELHI — Paytm is under fire for allegedly sharing user data with Indian law enforcement agencies, but the popular e-wallet company's global investors — Softbank and Ant Financial, the Chinese internet giant behind Alibaba — are keeping mum.
+
+The silence of two of the world's biggest technology investors, privacy experts say, point to how technology companies, promising to create a more democratic and transparent world, are actually completely unaccountable to their users.
+
+Softbank, for instance, has a Privacy Policy for Personal Data for its European operations, but declined to comment on its obligations to Indian users.
+
+"Right now, the user is not in control and the service provider is in complete control," said Apar Gupta, a Delhi High Court lawyer, specialising in privacy-related issues.
+
+Last week, a sting operation by the Noida-based investigative news portal, Cobrapost, revealed a video in which a man, who is purportedly Ajay Shekhar, senior vice president of the company, appears to say that he personally received a phone call from the Prime Minister's Office (PMO) after the protests in Kashmir, seeking data on Paytm users. Shekhar allegedly said that Paytm had a very close relationship with the Rashtriya Swayamsevak Sangh (RSS), the parent organization of the Bharatiya Janata Party (BJP).
+
+SUBSCRIBE AND FOLLOW Get top stories and blog posts emailed to me each day. Newsletters may offer personalized content or advertisements. Learn more Newsletter Please enter a valid email address Thank you for signing up! You should receive an email to confirm your subscription shortly. There was a problem processing your signup; please try again later Facebook
+
+Twitter
+
+Youtube
+
+If true, Paytm is in violation of its own privacy policy.
+
+HuffPost India has been unable to verify these claims independently, and Paytm has denied sharing any data with the BJP-ruled government.
+
+HuffPost wrote to Softbank and Alibaba — Paytm's biggest backers — and also to Uber, one of the most popular use-cases for Paytm. In India, Uber customers can use Paytm to pay for their rides, implying Paytm gathers a significant amount of Uber user data. Ant Financial and Alibaba collectively own close to 40% in One97 communications, Paytm's holding company, while Softbank, a Japanese internet and telecom conglomerate, owns about one-fifth of the $7 billion company.
+
+HuffPost asked the following questions:
+
+Are you aware of the sting investigation alleging that Paytm has shared user data with the Indian government in violation of its privacy policy?
+
+Are you concerned about the allegation that Paytm has shared user data with the Indian government?
+
+Have you reached out to Paytm regarding the allegations? What follow-up steps have you taken?
+
+Only Softbank replied: "Softbank does not comment on portfolio companies."
+
+HuffPost spoke with experts about the legal and ethical reasons that should drive investors to have a more proactive role in demanding accountability.
+
+Right now, the user is not in control and the service provider is in complete control.
+
+READ: We Are A Banana Republic, And The Aftermath Of Operation 136 Made The Mainstream Media Look Even Worse, Says Cobrapost Founder
+
+Legal reason
+
+Legal experts say that sharing of private data with the government or with any third party would contravene the right to privacy, a fundamental right under Article 21 of the Constitution of India.
+
+"The Supreme Court judgment is law," said Usha Ramanathan, a Supreme Court advocate, referring to the 2017 judgment, Justice KS Puttaswamy (Retd.) & Anr. v. Union of India & Ors.
+
+Ramanathan, who is challenging AADHAR as a breach of privacy, believes that there is no circumstance under which the government in India could demand private data from a service provider. For that to happen, Ramanathan explained, the government would first need to have a data protection law then stipulate any exceptions.
+
+All that exists right now is a data protection policy.
+
+In its statement, Paytm said, "Our policy allows ONLY legally compliant data requests from the law of the land to get access to data for necessary investigations."
+
+Even in a scenario where the government demands private data, say, for instance, by a court order, Gautam Bhatia, a Supreme Court advocate, noted that the question of legality or illegality did not arise unless Paytm reveals what were the precise circumstances of the exchange.
+
+"What were the safeguards that were taken?" he asked.
+
+There are some who argue that it may not be incumbent on investors to respond to an alleged privacy breach because the Supreme Court judgment is not enough to establish illegality, and India does not yet have a data protection law.
+
+But whether it is illegal or not, if the allegation against Paytm are true, it raises a huge ethical problem for investors.
+
+Ethical problem
+
+Ramanathan argues that foreign investments are about keeping companies on ethical lines. "You don't go to a country with less laws to violate the rights of people," she said.
+
+Earlier this year, a sovereign wealth fund sold its stake in Vedanta Resources Plc, a mining and metals company, over "environmental and human rights violations" by the firm.
+
+In 2010, the Church of England sold its shares of Vedanta Resources, citing its unhappiness at how the company treated the tribals of Orissa's Kalahandi district.
+
+One of the foreign investors in Paytm, Alibaba, is already tainted in China. Earlier this year, its affiliate, Ant Financial, was forced to apologize after its users complained that they were misled into giving their consent for its Alipay service to share data with third parties.
+
+You don't got to a country with less laws to violate the rights of people.
+
+READ: CobraPost Exposé: First Demonetisation Then Data Brokering; Should You Trust Paytm With Your Personal Data?
+
+Why the double standard?
+
+Uber has a mixed record when it comes to safeguarding private user data. On the one hand, the app-based cab service is known be fiercely protective about its data, for two reasons: competition and privacy. On the other hand, in 2016, it tried to conceal a hack that affected 57 million customers and drivers and payed $100,000 to the attackers to delete the data.
+
+Last year, in the face of mounting pressure to share its data with local governments for the sake of urban planning, Uber launched "Movement," a tool that allows city planners and the public to access to anonymous data on Uber trips.
+
+Privacy has been a concern for Uber, and, according to the terms and conditions of Movement, the data being shared is "anonymized and aggregated to ensure no personally identifiable information or user behavior can be surfaced through the Movement tool."
+
+Uber, however, did not reply to HuffPost's question: "One of the big reason that Indian consumers have signed up for Paytm is to pay for Uber rides. Are you concerned that Uber consumer data has been compromised by Paytm?"
+
+Way forward
+
+In India, a committee headed by Justice B.N. Srikrishna Committee, under the Ministry of Electronics & Information Technology, is looking to frame a data protection law.
+
+Gupta, the lawyer specializing in privacy-related issues, has argued that India should consider the European Union's General Data Protection Regulation (GDPR), which makes it incumbent on companies to - at the request of a user - disclose all the data it has on the person.
+
+A user in EU can also ask a company to delete her data, send copies of the data or correct an error in data. The maximum fine for a GDPR violation is 20 million euros or four percent of a company's annual global revenue from the year before, whichever is higher.
+
+"It builds a system of accountability," Gupta said, speaking of the need for a similar policy in India.
+
+Also on HuffPost India:

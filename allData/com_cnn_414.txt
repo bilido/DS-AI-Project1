@@ -1,0 +1,60 @@
+https://www.cnn.com/2018/05/30/health/schizophrenia-genes-pregnancy-placenta-study/index.html
+['Mark Lieber']
+2018-05-30 00:00:00
+Pregnancy complications might 'turn on' schizophrenia genes, study says
+ 
+(CNN) Schizophrenia is thought to be caused by a mixture of genetic and environmental factors. But new research suggests that complications during pregnancy could increase nearly five-fold the child's risk of developing schizophrenia later in life in high-risk individuals.
+
+These complications appear to "turn on" genes in the placenta that have been associated with schizophrenia, the researchers said.
+
+"The complications that mattered were very serious obstetric complications like pre-eclampsia, intrauterine growth restriction and premature rupture of membranes without induction of labor," said Dr. Daniel Weinberger , director and CEO of the Lieber Institute for Brain Development at Johns Hopkins School of Medicine and a leading author of the new study.
+
+"And these kinds of stresses happen in about 15% of pregnancies, so it's not an uncommon environmental risk factor," he added.
+
+The study, published Monday in the journal Nature Medicine , looked at the genetic profiles and pregnancy histories of nearly 4,000 adults from four countries: the United States, Italy, Germany and Japan. About half had been diagnosed with schizophrenia, a complex psychiatric disorder that affects mood, cognition, self-expression, thought processes and perceptions of reality.
+
+The researchers found a strong association between serious pregnancy complications and the development of schizophrenia later in the child's life. Specifically, adults with a high genetic risk whose mothers had complications during pregnancy were about five times more likely to develop schizophrenia than individuals with similar genetic risks but no pregnancy complications.
+
+"The first finding was that these risk factors interact with each other. The genetic risk for schizophrenia in the context of a complicated pregnancy has a much bigger impact -- a four- to five-fold greater impact -- on the liability that a person will develop schizophrenia than if they occur in the absence of a complicated pregnancy," Weinberger said.
+
+Schizophrenia is a serious psychiatric disorder that affects nearly 1% of the population worldwide. Symptoms include hallucinations, dysfunctional thinking, reduced expression or pleasure in everyday activities and memory problems, according to the National Institute of Mental Health
+
+The disorder is probably caused by a mixture of genetic and environmental risk factors, including the environment of the uterus during pregnancy. Genetic factors account for nearly 80% of the risk of developing schizophrenia, a 2009 study found.
+
+"Most complex human disorders, including schizophrenia, involve both genetic and environmental risk factors," Weinberger said. "And there is a very extensive catalog now of regions of the human genome that have been found to increase the risk of schizophrenia."
+
+As a second part of the study, the researchers also analyzed gene expression in placental tissue from patients whose mothers had or didn't have pregnancy complications. They found that a subset of the genes known to be associated with schizophrenia were more likely to be "turned on" in the placenta of patients who had complications during pregnancy.
+
+"These genes seem to monitor or represent the biological resilience or sensitivity of the placenta to environmental stress. The more the placenta showed signs of being under stress, the more this group of schizophrenia genes were turned on," Weinberger said.
+
+The placenta is a unique organ made up of fetal and maternal tissue that helps deliver nutrients and oxygen to the fetus during pregnancy and remove waste products. Its role in the development of a number of health conditions is probably underrecognized, according to Dr. David Valle , director of the McKusick-Nathans Institute of Genetic Medicine at Johns Hopkins, who was not involved in the new study.
+
+"The placenta is a vital organ for the well-being of the fetus," Valle said. "I think many investigators, myself included, have been trying to understand how perinatal stress could increase risk for schizophrenia. And this work hypothesizes that the intermediary in the equation is the placenta.
+
+"To some extent, this is one of those observations that you sort of slap yourself in the side of the head and say, 'Why didn't I think of that?' It's quite interesting," he added.
+
+The researchers also found that the genes associated with schizophrenia were more likely to be "turned on" in the placenta of male fetuses than female fetuses, which could help explain why men are more likely to develop schizophrenia than women, according to Valle.
+
+"We've known all along that men have a higher risk for developing schizophrenia, and they generally develop it earlier in life," Valle said. "This may be a way to explain that increased risk."
+
+The new study is not the first to link events during pregnancy with the development of schizophrenia. A 2010 study , for example, showed that women who were exposed to the influenza virus during the second trimester of pregnancy were three to seven times more likely to have children with schizophrenia.
+
+But the new study is the first to suggest that adverse events during pregnancy could change gene expression in the placenta -- and presumably the fetus, according to Valle.
+
+"People have known for a long time that perinatal problems increase risk for schizophrenia," Valle said. "But what's exciting about this work is that it provides a new and innovative way of trying to connect the genetic risk with the perinatal risk."
+
+The study could also help explain why a number of complex psychiatric illnesses -- including schizophrenia, attention deficit hyperactivity disorder and autism -- are more common in men, according to Weinberger.
+
+"We've known for a long time that all these developmental behavior disorders -- schizophrenia, autism, ADHD, dyslexia and Tourette syndrome -- are two to four times more common in males than females, and we've never had any good understanding of that," Weinberger said.
+
+"This suggests that some of the basis for this male incidence increase has to do with the relatively greater sensitivity of the male placenta to environmental stress during pregnancy," he added.
+
+The new research cannot say whether there are critical times during pregnancy when the placenta is more or less vulnerable to stress -- one of the study's main limitations, according to Valle.
+
+Follow CNN Health on Facebook and Twitter See the latest news and share your comments with CNN Health on Facebook and Twitter.
+
+But the findings could help guide research into the biological basis of schizophrenia as well as the identification of individuals who may be at increased risk of developing schizophrenia later in life, according to Weinberger.
+
+"This is just the tip of the iceberg," he said. "We need to do a lot more to understand the genetic programs that build placentas, that modify placentas and that respond to stress in the placenta. Obviously, some of the schizophrenia genes are part of that landscape."
+
+And if researchers can better identify people with an increased risk of schizophrenia early on, Valle said, "perhaps there's some intervention we can do to help reduce their chances of developing schizophrenia."

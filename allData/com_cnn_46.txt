@@ -1,0 +1,48 @@
+http://money.cnn.com/2018/05/30/technology/dandelion-air-google/index.html
+['Kaya Yurieff']
+2018-05-30 00:00:00
+Alphabet spinoff wants to turn your lawn into your air conditioner
+ 
+Google spinoff Dandelion unveiled a cheaper way to cool your home. It involves your lawn.
+
+Dandelion, born in the secretive and futuristic lab "X" of Google's parent company Alphabet, uses energy from the ground to cool and heat your home. It announced its first commercial product on Wednesday: a smart heating and air conditioning system called Dandelion Air.
+
+Although heating and cooling systems aren't innately sexy, Dandelion is banking on an eco-friendly method to make heating and AC costs lower for homeowners.
+
+Related: Apple is now completely powered by clean energy
+
+Rather than relying on furnaces and traditional AC systems, Dandelion Air is a geothermal system that uses the ground's energy via plastic pipes and a pump in the home. The systems move heat from the ground into the house in the winter, and heat from the house into the ground in the summer.
+
+Geothermal systems reduce carbon dioxide emissions and help save consumers money on energy bills.
+
+The concept has been around for decades, but because of its high price and inability to monitor performance over time, adoption has been relatively slow.
+
+"It's a very niche technology that hasn't taken off at all in this country," Dandelion CEO Kathy Hannun, a former Google employee, told CNNMoney.
+
+Hannun's team at Google's X division sought to make geothermal technology more accessible. X is known for its "moonshots," or big ideas intended to change the world, including self-driving car company Waymo and "Project Loon" Wi-Fi balloons.
+
+The team worked on the technology for about two years at Google before becoming its own company. Traditionally, geothermal systems are custom made for homes. But Dandelion wanted to automate the manufacturing process and make the system work with every home.
+
+"One thing we looked for at X was adding technology to an industry that hasn't benefited [from tech]," Hannun said. "I started working on it part-time. About two-thirds of the year in [we realized], 'There's something here. Let's focus on it.'"
+
+The startup claims Dandelion Air is four times more efficient than furnaces, and almost twice as efficient as traditional air conditioning systems. It also comes with a Nest learning thermostat and a monitoring system to track its performance.
+
+Related: How office buildings are reducing their carbon footprint
+
+Athough it's half the cost of other geothermal systems, it's far from cheap -- installation costs about $20,000, depending on home size. Considering the Dandelion Air homeowner is expected to save about 20% annually on the cost of heating and cooling their home, the startup hopes this is reason enough for homeowners to go geothermal for new or existing homes.
+
+"Homeowners are so used to not having a choice with how they heat [their home]," Hannun said. "But that's what we bring: a choice."
+
+The company already attracted early attention from investors, too -- it doesn't hurt to have started at Google. In April, Dandelion said it raised a fresh $4.5 million in funding.
+
+Despite upfront costs, Jefferson Tester -- a professor of sustainable energy systems at Cornell University -- says geothermal systems are quiet, more efficient and use less electricity.
+
+"Maintenance is also very low, which could be attractive for a homeowner," he said. "There's a huge variability in the cost of geothermal systems. A more standardized approach [like Dandelion's] could be quite attractive."
+
+The company ran a six-month pilot program in the Hudson Valley and Capital Districts in New York, and sold 70 systems in existing homes last year. With the official launch of Dandelion Air, the systems will be available in most of New York State starting Wednesday.
+
+But geothermal systems may not be a fit for everyone. In states with low electricity costs, a simple AC unit may be cheaper. It can also depend on the type of home someone lives in, according to Tester.
+
+"This isn't like buying a refrigerator. [Geothermal] has a lot of custom work that needs to be done in the house," said Tester. "All old homes aren't the same."
+
+Customers can check if their home qualifies on Dandelion's website.

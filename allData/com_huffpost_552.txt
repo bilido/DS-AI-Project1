@@ -1,0 +1,30 @@
+http://www.huffingtonpost.in/2018/05/31/google-play-pulls-down-patanjalis-kimbho-app-a-day-after-launch-as-experts-say-its-security-is-a-joke_a_23447469/
+['Gopal Sathe']
+2018-05-31 00:00:00
+Patanjali’s Khimbo App Withdrawn From Google Play As Experts Say Its Security Is A Joke
+ 
+Baba Ramdev is a proponent of yoga and Ayurveda, selling agricultural products and herbal medicines in a package that includes health and spirituality. And as of this week, he's also one of New India's technocrats, as his Patanjali has launched a WhatsApp competition called Kimbho. It was launched last night among jokes from the smart set, but the truth is that Patanjali is a powerhouse brand in India, whose revenues in 2016-17 were $1.6 billion.
+
+With support from Baba Ramdev's massive marketing organisation, Kimbho could be downloaded by the millions. And it's security could already be compromised. Tweets by French security researcher Elliot Alderson suggest that it's possible to break into other people's messages and collect all user information.
+
+Alderson has gained fame in India for his work in exposing the weaknesses in Aadhaar and various Indian apps and government sites. Although he's French, the bulk of his following comes from India, and that's perhaps why he's focusing his efforts on the country.
+
+Alderson tweeted that Kimbho can easily be broken into, allowing a malicious user to read other people's messages. After tweeting that Kimbho is a joke, and urging people not to install the app, Aldersons said:
+
+Ok, I will stop here. The #Kimbho #android #app is a security disaster. I can access the messages of all the users...🤦‍♂️ — Elliot Alderson (@fs0c131y) May 30, 2018
+
+Soon after, the app was removed from Google Play without an explanation.
+
+By itself, Alderson's allegations are quite worrying, but that might not be the only concern. The Kimbho app had access to a plethora of information about the users, with a wide ranging set of permissions required. Kimbho promises secure chat and free VoIP video calls. But, it wants access to your identity, all the contacts in your phonebook, your physical location, to be able to read your SMS messages, make phone calls, look at all photos and files on your phone, to be able to use your camera and microphone, and also get your Wi-Fi and device information. In short, everything there is to know about you.
+
+Of course, other apps access this kind of data as well. Being able to read SMSes, for example, would be used to enable testing for OTPs, while having access to your mic and camera are obviously required for video chatting - a feature of the app. In fact, WhatsApp also has access to all of these different things as well. However, WhatsApp has - thus far - proven to be secure.
+
+There's also the question of how credible the company is and how much trust it deserves. WhatsApp comes from Facebook, a famously data hungry company with reach around the world and that's something to be kept in mind certainly. But up to this point, the two companies have kept their businesses apart, and there are no ads in Facebook, and your data is also - so far - safe. Brian Acton and Jan Koum, the two founders of WhatsApp, both left Facebook among reports of fights over customer data privacy, so this might change in the future, but for now at least, it's likely safe.
+
+"If a company like Facebook which gets so much scrutiny does this, imagine what the small apps you've never heard of are doing?"
+
+On the other hand, although Patanjali promotes an image of wholesome Indianness, an RTI inquiry revealed that its products fail quality tests. Nearly 40% of Patanjali products were found to be of substandard quality and the armed forces Canteen Stores Department (CSD) had to suspend sales of amla juice from Patanjali. It was also fined Rs 11 lakh for its misleading advertisements in 2016.
+
+There's also the perception of close ties to the government, and support for a polarising Hindutva agenda. Thanks to the Cobrapost sting, we've already seen how an app can be weaponised, and if Kimbho catches on, then it'll be in the same position -- and this is a good time to remind you of the kind of data that this app has access to. Once the app is on millions of phones, it can track where those millions of Indians are at any point in time, and potentially sharing this with anyone it wants.
+
+Abhay Edlabadkar, CEO of security company Redmorph says users need to pay more attention to permissions and gives us the examples of a torch app that asks for internet access. "People lack awareness of what apps are doing, but even trusted companies are scooping up your data," he says. "If a company like Facebook which gets so much scrutiny does this, imagine what the small apps you've never heard of are doing?"

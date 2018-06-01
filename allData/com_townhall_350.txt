@@ -1,0 +1,38 @@
+http://www.townhall.com/watchdog/tennessee/2017/01/30/haslam-broadband-plan-n10329
+['Johnny Kampis', 'Matt Vespa', 'Erika Haas']
+2017-01-30 00:00:00
+-
+ 
+Tennessee Gov. Bill Haslam’s broadband plan would emphasize grants and incentives for private providers, as well as allow electric cooperatives to build networks, over allowing taxpayer-supported municipal networks to expand.
+
+The Tennessee Broadband Accessibility Act, proposed legislation in the 2017 session, would offer $45 million in tax credits over three years to help telecom providers expand more broadband into rural areas. That includes $30 million in grants and $15 million in credits for the purchase of equipment needed to build and expand networks.
+
+Haslam’s plan also includes a deregulation element of allowing the state’s private, nonprofit electric cooperatives to begin offering broadband services. A fact sheet on his proposal notes that cooperatives are “uniquely situated to assist in bridging the broadband accessibility gap with experience serving areas with lower population densities and providing universal service throughout their territories.”
+
+The governor’s proposal wouldn’t allow cooperatives to use their electric system assets to subsidize broadband services.
+
+“While there is no one solution that can guarantee broadband accessibility to every single Tennessean, this legislation provides a reasonable, responsible path to improve access in a meaningful way through investment, deregulation and education,” Haslam stated in a press release.
+
+Haslam’s plan follows a tumultuous year for broadband in Tennessee. The U.S. Court of Appeals for the Sixth Circuit agreed with the attorneys general of North Carolina and Tennessee that the Federal Communications Commission couldn’t supersede state laws blocking municipal broadband networks from expanding outside city borders. Legislation that would have changed state law to allow utilities like Chattanooga’s Electric Power Board to grow their broadband reach died in the Legislature as lawmakers waited for the appeals court ruling.
+
+Lawmakers who have pushed expanded government broadband, such as state Sen. Janice Bowling, R-Tullahoma, vowed to try again in 2017. Haslam’s broadband plan puts forth an alternative option.
+
+RELATED: Inconceivable! State senator touts ‘free market’ government internet
+
+The Department of Economic and Community Development commissioned a study early last year to assess the state of broadband in Tennessee, asking residents to complete a survey. The department found that about one-third of rural residents don’t have access to download speeds of at least 25 megabits per second, the FCC’s current broadband standard.
+
+The report estimated it would cost between $1.17 billion and $1.72 billion to provide all Tennessee homes with broadband, though the study also discovered that most residents choose to subscribe to slower speeds to save money.
+
+RELATED: Tennessee finds most residents can access broadband, but don’t use it
+
+The Tennessee Broadband Accessibility Act would also allow municipal broadband networks to partner with cooperatives as an alternative way to grow the high-speed internet reach of taxpayer-supported networks without allowing them to expand.
+
+Amanda Martin, special projects manager for the DECD, told The Tennessean that cities could sell broadband at the wholesale level to cooperatives, who could then offer broadband at the retail level to their customers.
+
+“It basically allows for expansion without the additional risk to the taxpayer,” she said.
+
+Haslam’s plan also includes grant funding for local libraries to help residents improve digital literacy skills, although the proposed amount of funding for this educational component of his plan hasn’t been announced.
+
+The Tennessee Advisory Commission on Intergovernmental Relations also released a report on deploying broadband across the state, following a two-year study requested by Senate Majority Leader Mark Norris, who chairs that panel.
+
+Lawmakers will likely use the report as a broadband legislative roadmap, and Norris will carry Haslam’s bill in the Senate. Haslam will likely touch on his broadband plan in his State of the State address on Monday night.

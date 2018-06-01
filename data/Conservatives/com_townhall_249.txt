@@ -1,0 +1,54 @@
+http://finance.townhall.com/columnists/jerrybowyer/2018/05/23/netflix-deal-with-obamas--good-for-shareholders-or-just-good-for-ceo-n2483668
+['Jerry Bowyer', 'Matt Vespa', 'Erika Haas', 'Chris Reeves']
+2018-05-23 00:00:00
+Good For Shareholders Or Just Good For CEO?
+ 
+Netflix recently tweeted out an announcement that it would be entering into a major deal with Barack and Michelle Obama.
+
+President Barack Obama and Michelle Obama have entered into a multi-year agreement to produce films and series for Netflix, potentially including scripted series, unscripted series, docu-series, documentaries, and features.
+
+Marketwatch says that it is unclear how they will be paid.
+
+The CEO of Netflix is known to have strong left-of-center sympathies. He firmly endorsed Hillary Clinton, and just as firmly unendorsed Donald Trump:
+
+“Donald Trump would destroy much of what is great about America. Hillary Clinton is the strong leader we need, and it’s important that Trump lose by a landslide to reject what he stands for.”
+
+Going beyond just expressing his own political views, he 'offered to resign' from the board of Facebook when fellow board member Peter Thiel endorsed Donald Trump, which Hastings called “catastrophically bad judgement.”
+
+Since no one was asking Hastings to resign, the offer seemed a bit more like a threat -- or at the very least, a hardball tactic in an attempt to get Thiel off the board. After all, it’s presumably okay to have members of the board of a public company differ over politics. In fact, it’s desirable. In the normal course of business, the fact that Thiel had endorsed someone who went on to win the election would be seen as a win for the company since it could mean that there would be an open door for him to educate the new president about issues of interest to a large company like Facebook, which is likely to face greater regulatory scrutiny in the future.
+
+Bottom line: Hastings’ resignation 'offer', when no other member who shares a board with Thiel is reported to have made a similar offer, establishes Hastings as even more politically motivated than the typical Silicon Valley CEO.
+
+Which makes this offer to the Obamas worthy of greater scrutiny. Neither of the Obamas have a strong background in movie or television production. Neither of them have experience in that arena to speak of. Yes, they are celebrities, but celebrity does not equal talent in terms of the type of judgment needed to produce video entertainment products.
+
+Shareholders might have reason to suspect that Hastings is pursuing his own ideological and social status goals at the expense of shareholders.
+
+One piece of information to support this idea is that Netflix has refused to release any financial information about the deal. We don't know what the Obamas will be paid. We don't know how much resources will be under their control as producers. If the numbers were good news for shareholders, then Netflix shouldn’t be anxious to share them.
+
+Probably the thing that shareholders should focus on the most, however, is not that particular deal, but the overall corporate culture of Netflix in regards to putting the interests of the owners ahead of those of the managers.
+
+The record in that regard is extraordinarily weak. Netflix is what is frequently described as a 'founder's firm -- that is, a firm in which the founder is also the current CEO and Chairman. Founder's firms often build a moat of protection around the founder to insulate him or her from shareholders. Netflix is particularly egregious in this regard.
+
+It fails on numerous criteria when it comes to good corporate governance. Ideally the shareholders hold the board accountable and the board holds the CEO accountable. But Netflix's CEO is also the Chairman of the board. The members of the board are weak in comparison with the CEO as evidenced by an entrenched board, and one which has tolerated related party transactions (such as Hastings' deal to lease his private jet to the company).
+
+The board rules are perfectly scripted to keep the board as the stars and the shareholders as bit players in the corporate drama. The board does not have a requirement for board directors to get a majority vote of shareholders to remain on the board after an election.
+
+Shareholders are in a very weak position, as well, when it comes to amending by-laws, selling to an outside buyer who may wish to make management changes, and various tools by which board members who are dissenters can assert authority.
+
+For this reason, MSCI ESG Manager classifies Netflix as 'Worst in class' in comparison with other American publicly traded companies.
+
+The indexes that I work on, Vident Core International Equity Index (VIEQX) and Flag-Forensic Accounting Long-Short Index (FLAGLSX), both list the company as a 'worst offender' when it comes to governance issues.
+
+In addition, the company is listed by MSCI ESG Manager as 'very aggressive' when it comes to accounting practices. This means that it is a higher risk for earnings distortions in financial reporting than companies which are not aggressive. It's not a matter of proof that they are engaging in reporting shenanigans, more that there is a lot of room for those practices.
+
+The system which I helped develop for FLAGLSX (which is a forensic accounting based index, forensic accounting being the science of looking for danger signs in financial reporting) shows Netflix well below the average US stock universe in every category we look at.
+
+This might all be okay if the stock were priced for uncertainty, but it's not. It's priced for almost certain future profit growth. WSJ.com pegs the stock at an astronomically high PE value of 223!
+
+The indexes that I work on have a broader set of valuation metrics, but Netflix fails the valuation test in every single one of them.
+
+The bottom line is that Netflix's bottom line should be viewed with skepticism. And so should this new transaction with the Obamas. The company has a history of putting CEO ahead of shareholders, and the CEO has a history of letting his political leanings lead his decisions. After all, if being on the board of Facebook was not good for business, he should not have been there in the first place. And if it was good for business, then he should not have offered to resign simply because he didn't like the politics of a fellow member.
+
+The biggest problem with Founder's Firms is that the founder tends to have trouble adjusting to a world in which it's not his or her company any longer. Every business decision is made with someone else's money at stake. At this point it seems like the burden of proof is on Mr. Hastings, and any other CEO of a company with similarly weak scores in governance and accounting reporting, to show that they understand they are the hired help. And before anyone asks, I wrote the same critique of the CEO of Under Armour after he endorsed Donald Trump. It's about what the CEO's corporate politics are, not about their political politics.
+
+For the reason I outline above, the indexes which I helped design, and the funds which use them, hold a zero position in Netflix and a negative position in the long only and long short indices. I personally have a zero position in Netflix.

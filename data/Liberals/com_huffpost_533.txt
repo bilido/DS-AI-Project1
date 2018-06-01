@@ -1,0 +1,82 @@
+http://www.huffingtonpost.in/2018/05/24/old-world-virus-new-tricks-inside-kerala-s-quest-to-contain-the-deadly-nipah-virus_a_23443118/?utm_hp_ref=in-homepage
+['Gayathri Vaidyanathan']
+2018-05-24 00:00:00
+Old-World Virus, New Tricks: Inside Kerala’s Quest To Contain The Deadly Nipah Virus
+ 
+BENGALURU –- Muhammed Salih, 26, was admitted to the hospital in Kozhikode, Kerala, on the early morning of May 17 with fever, high blood pressure and acute confusion. His blood pressure increased, he was unable to breathe on his own and doctors at the critical care unit at Baby Memorial Hospital (BMH) had to intubate him.
+
+Just 12 days earlier, Salih's 23-year-old brother had died with similar symptoms. Doctors suspected this was either a case of poisoning or a deadly, infectious virus that rapidly claims it hosts. They questioned Salih's family and learned that his aunt Mariyam also had high fever. She, too, was admitted to BMH, and by evening, both Salih and Mariyam had deteriorated. Within 24 hours, Salih suffered a fatal cardiac arrest due to inflammation of his heart; Mariyam died the next day.
+
+"Immediately, we got on alert that we are dealing with some abnormal viral encephalitis; it is not the normal one," said Anoop Kumar AS, the chief of the critical care unit at BMH.
+
+Within 48 hours, doctors, state health officials, scientists and the central government had diagnosed the virus as Nipah, a zoonosis or disease that originates in animals and jumps to humans with deadly effect. The state's emergency health system kicked in and the outbreak, for now, appears controlled.
+
+The rapid response suggests that India, which is a global hotspot for emerging pandemics, has stepped up surveillance and response to outbreaks, experts say. The last time a large scale Nipah outbreak occurred in India, in Siliguri, West Bengal, in 2001, it took five years to identify the virus.
+
+"The previous outbreak took a very long time [to diagnose], but from there, we have walked a long distance, and we are quite happy about that," said G. Arunkumar, head of the Manipal Center for Virus Research, one of India's new virus hunting labs that monitors emerging epidemics.
+
+There have been 14 confirmed cases with 11 fatalities. All the cases have been linked to Salih's family, which implies transmission has being curbed, said Arunkumar.
+
+"Everybody is linked, there is no unlinked case, that is very satisfying," he said.
+
+While media reports suggest the virus may have spread to Mangaluru, these are not confirmed cases of Nipah.
+
+Virus Nipah in the cerebrospinal fluid of an infected patient. File photo.
+
+**
+
+Nipah had already been reported in India twice before – in 2001 and 2007, in West Bengal. It had also been reported almost every year in Bangladesh and doctors suspected it may have now emerged in Kerala.
+
+The virus is a newly discovered member of the paramyxovirus group of old-world viruses that cause less fatal diseases such as mumps and measles. In the past three decades, scientists have identified novel paramyxoviruses that circulate in the animal kingdom and, once in a while, spill over into humans.
+
+Bats appear to be major reservoirs. In 1998 and 1999, 265 people in Malaysia, many of them pig farmers with sick animals, became ill with encephalitis. Some 105 of them died. When the virus was isolated, scientists realised it was novel and named it Nipah after the Malaysian village where the first samples were collected.
+
+Symptoms begin with fever, headache and confusion. Within a week, the patient enters a deep coma, with high blood pressure.
+
+Unlike the old-world paramyxoviruses, Nipah infects a broad range of mammals, from cattle to cats, dogs and humans, and has an extremely high fatality rate of 40 to 70 percent.
+
+The virus is highly virulent as it has evolved mechanisms over millions of years to evade the antiviral responses of its host. Symptoms begin with fever, headache and confusion. Within a week, the patient enters a deep coma, with high blood pressure. As the virus makes carbon-copies of itself by hijacking the host's machinery, the person's blood vessels get inflamed and there is widespread damage to the brain, lungs, heart and kidney. Viral proteins aggregate in the brain and block blood flow, and the virus infects neurons, leading to death.
+
+As for all viral infections, there is no cure for Nipah. And given the rarity of occurrence of the disease, pharmaceutical companies have not developed a Nipah vaccine.
+
+Scientists at Manipal screened Salih's samples for 35 common agents of encephalitis. They probed the genetic material of the virus and found it was Nipah.
+
+When Nipah re-emerged in Bangladesh in the 2000s, it was a different beast. It caused respiratory illness and sick people were capable of transmitting it to others. Washing hands and avoiding contact were the best safeguards. Similar features have been noted in the Kerala outbreak.
+
+BMH doctors sent Salih's fluid samples to the Manipal Center for Virus Research for analysis. Identifying a mystery virus can be like probing in the dark with just a couple of matches. In this case, doctors knew that multiple members of Salih's family were suffering from encephalitis, or infection of the brain. The co-occurrence within the family was unusual and pointed to one of two possibilities: toxin encephalopathy, caused by exposure to heavy metals, or Nipah.
+
+Scientists at Manipal screened Salih's samples for 35 common agents of encephalitis. They probed the genetic material of the virus and found it was Nipah. The findings were confirmed by independent analysis by the National Institute of Virology in Pune. The institute is now undertaking full genome sequencing and isolating the virus in its state-of-the-art Biosafety Level 4 lab.
+
+On May 18, Arunkumar of Manipal informed doctors and Kerala officials that they were dealing with a deadly virus with a high mortality rate. Human-to-human transmission is possible, so frontline health care workers should take care, he warned. The notice came too late for Lini Puthussery, a nurse who had taken care of Salih in his hometown of Perambra before his admission to BMH in Kozhikode on May 17. She succumbed to Nipah on May 21, according to media reports.
+
+"We have a disaster plan in the city, and the collector called it in," said Fabith Moideen, chief of emergency medicine of BMH.
+
+Relatives wearing masks attend the funeral a victim, who lost his battle against the brain-damaging Nipah virus.
+
+***
+
+Almost three-fourths of all diseases that afflict humans originate in animals, and a new zoonosis has been emerging or re-emerging every year. SARS, MERS-CoV, Ebola and H5N1 have all sparked fear and cost the global economy tens of billions of dollars.
+
+In the early 2000s, a trio of scientists in the U.S. recognized that animal and human health are intricately connected. They advocated for a "One Health" approach that integrates human health, animal health, agriculture and the environment to respond to and avoid outbreaks. Few nations have so far taken a pro-active approach to stopping animal-to-human transmission before they happen, according to various studies. Health systems, including India's, are focused instead on stopping pandemics, through quarantine, drugs and vaccines.
+
+The animal health department is collecting samples of rats, bats and other species to find the Nipah reservoir host. Samples are being analyzed by the National Institute of High Security Animal Diseases in Bhopal.
+
+Some aspects of the approach found takers in India in 2005 following an H5N1 avian flu outbreak. For the first time, animal, environment, wildlife and human health departments coordinated to monitor and develop avian influenza contingency plans. South Asia, and India in particular, is a hotspot for emerging and re-emerging zoonosis due to its tropical forests, high biodiversity, high poverty rate and a large number of people living in close proximity to animals.
+
+Since then, the Indian government has been setting up a network of virus detection labs. With help from the U.S. Centers for Disease Control and Prevention, it has set up more Biosafety Level- 3 and 4 labs where scientists can safely study the most dangerous viruses.
+
+***
+
+There are still significant unknowns about Kerala's Nipah outbreak. It is likely that Salih got the disease from his brother, Sabith, who died on May 5, but it is unclear how Sabith contracted the disease.
+
+In Bangladesh, people fell sick after consuming date palm sap contaminated by pteropid fruit bats, also known as flying foxes. In Malaysia, Singapore and the Philippines, humans caught it from infected pigs and horses, which in turn caught the disease from flying foxes.
+
+The brothers were cleaning a well that was home to bats, said Anoop Kumar of BMH, but flying foxes typically do not roost in wells.
+
+The animal health department is collecting samples of rats, bats and other species to find the Nipah reservoir host. Samples are being analyzed by the National Institute of High Security Animal Diseases in Bhopal.
+
+"This is a very good example of the One Health approach, where animal and human health and public health, the administration, state government, central government all coming together and containing this outbreak," said Arunkumar of Manipal.
+
+The other unknown is whether the outbreak has been fully contained. The virus has a 14-day incubation period, so it'll be a month before scientists can say the outbreak has been controlled.
+
+"We'll have to wait and see," said Anoop Kumar of BMH.

@@ -1,0 +1,12 @@
+http://www.huffingtonpost.in/2018/06/01/we-can-now-3d-print-parts-of-the-human-eye_a_23448342/?utm_hp_ref=in-homepage
+['Thomas Tamblyn', 'Editor De Tecnología', 'Huffpost Uk']
+2018-06-01 00:00:00
+We Can Now 3D Print Parts Of The Human Eye
+ 
+In a groundbreaking development, scientists at Newcastle University have successfully 3D printed the cornea from a human eye. This is the first time that we’ve been able to 3D print such a complex part of the body and it’s thought that in just a few years it could be ready for human transplantation. The cornea is a vital part of the eye but unfortunately there are some 10 million people around the world requiring surgery there is a chronic shortage or corneas available for transplant.
+
+University of Newcastle
+
+By creating a potentially limitless supply of artificial corneas this development could eventually help the millions of people who either require surgery or who suffer from total blindness as a result of burns, lacerations, abrasion or disease. So how do you 3D print one part of an eye? The process involves taking the stem cells from a healthy cornea and then mixing that with alginate and collagen to create a ‘bio-ink’ that can then be printed. The ink was then inserted into a simple low-cost 3D bio printer and told to print in concentric circles into the shape of a cornea. The whole process took just 10 minutes.
+
+Newcastle University

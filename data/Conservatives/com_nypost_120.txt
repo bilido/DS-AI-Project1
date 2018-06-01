@@ -1,0 +1,18 @@
+https://nypost.com/2018/05/28/church-using-amazons-alexa-to-spread-christianity/
+['James Rogers', 'Fox News', 'May']
+2018-05-28 00:00:00
+Church using Amazon’s Alexa to spread Christianity
+ 
+The Church of England is harnessing Amazon’s Alexa voice assistant to answer questions about faith and spread its Christian message.
+
+This week the Church launched its Alexa skill, which is essentially an app for the popular voice assistant. Via the Alexa skill, users can ask the Church of England for prayers, explanations of faith, as well as information about local church events and services.
+
+According to the Church of England, the skill aims to boost users’ knowledge of the Christian faith by answering questions such as: What is the Bible? Who is God? What is a Christian?
+
+Users activate the skill with the command “Alexa, open the Church of England.” In a YouTube video posted by the Church of England, Archbishop of York John Sentamu asks Alexa’s Church of England skill to read the Lord’s Prayer.
+
+The Church of England is planning to launch similar services for Google Home and Apple’s HomePod. “We’re planning to ensure users can find more answers to faith questions and to explore on other platforms in [the] future,” it said, in a statement.
+
+Alexa has been getting plenty attention this week after a woman claimed that her Amazon Echo Dot recorded her private conversation and sent it to a person on her contact list.
+
+In a statement to Tom’s Guide, Amazon blamed the situation on a series of bizarre misunderstandings.

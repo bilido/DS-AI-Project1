@@ -1,0 +1,16 @@
+http://www.breitbart.com/tech/2018/05/28/microsoft-promises-to-introduce-gdpr-style-privacy-rules-for-all-users-worldwide/
+['Breitbart News']
+2018-05-28 00:00:00
+Microsoft Promises to Introduce GDPR-Style Privacy Rules for All Users Worldwide
+ 
+Microsoft has announced plans to introduce GDPR-style privacy rules for all of their users worldwide.
+
+Microsoft reportedly plans to introduce new user privacy rules similar to the recent General Data Protection Regulation (GDPR) guidelines implemented by the European Union, according to ZDNet. These guidelines afford users greater control of the data that they share with tech companies, allowing them to request that a company delete their user data or obtain a copy of the data that the company has collected on them, Microsoft plans to apply similar rules to users worldwide.
+
+The new EU data laws came into effect on May 25 and applied to all EU citizens, however, Microsoft is extending these protections to their worldwide user base. Julie Brill, Microsoft’s corporate vice president and deputy general counsel, wrote in a blog post: “As an EU regulation, GDPR creates important new rights specifically for individuals in the European Union. But we believe GDPR establishes important principles that are relevant globally.”
+
+Brill further stated:
+
+We’ve been advocating for national privacy legislation in the United States since 2005. We’re encouraged that some other tech companies are starting to endorse the need to address this issue as well. While debate about how to protect data privacy continues in the U.S., we’re committed to moving forward now to take concrete steps to help strengthen people’s privacy protection. That’s why today we are announcing that we will extend the rights that are at the heart of GDPR to all of our consumer customers worldwide. Known as Data Subject Rights, they include the right to know what data we collect about you, to correct that data, to delete it and even to take it somewhere else. Our privacy dashboardgives users the tools they need to take control of their data.
+
+Microsoft’s reaction to the GDPR is at odds with some other Silicon Valley tech companies, such as Facebook who in April moved 1.5 billion non-EU users off an agreement with Facebook Ireland in an attempt to protect these users from being subject to GDPR regulations. Facebook did, however, claim that many of their users were already afforded the rights that the GDPR promises by the company.

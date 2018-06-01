@@ -1,0 +1,48 @@
+http://www.townhall.com/watchdog/tennessee/2017/03/01/google-fiber-nashville-water-n10417
+['Johnny Kampis', 'Matt Vespa', 'Erika Haas']
+2017-03-01 00:00:00
+-
+ 
+Progress, in the form of new fiber-optic networks, is proving temporarily costly to taxpayers due to water-line breaks.
+
+Watchdog.org’s Kenric Ward recently reported on the near-weekly breaks in San Antonio, where Google Fiber is building a gigabit-capable high-speed internet network. Total costs for repairs are expected to top $250,000, and the San Antonio Water System is slowly being reimbursed by the contractors responsible for the damages.
+
+RELATED: Water utility chases unpaid Google Fiber bills
+
+A similar situation has arisen in Nashville, where Google Fiber, AT&T and Comcast are building or expanding networks.
+
+Watchdog discovered that at least one business owner is now negotiating with Google Fiber contractors for reimbursement after his eatery lost most of its business during a major water-line break last October.
+
+Swett’s Restaurant has been a staple of north Nashville for six decades, but after a crew hit a water line on Oct. 30, causing flooding of Clifton Avenue, that restaurant lost thousands of dollars in business when the street became impassable for several days, estimated owner David Swett in a letter to Mayor Megan Barry and the Nashville Metro Council.
+
+“As a taxpayer, I … find this unacceptable,” he wrote. “The city would not allow me to expand my restaurant if it required neighboring businesses to close for periods of time or suffer substantial financial loss. It is not fair that Google Fiber gets special treatment. Their emphasis on quick growth at any cost should not come on the backs of small businesses.”
+
+Swett’s attorney, C.K. McLemore, told Watchdog this was the second time the water main had been broken in a month. The two haven’t pursued litigation yet, and are now trying to work out compensation outside the courtroom.
+
+“There have been a ton of disruptions due to breaks in water lines trying to install this network in Nashville,” McLemore told Watchdog.
+
+The tally of water-line breaks related to fiber construction between August 2015 and October 2016 was 71, with $261,889 in damages. Contractors had only paid Nashville’s Metro Water Services back $24,589 as of Oct. 27, 2016. Watchdog attempted to contact MWS spokeswoman Sonia Allman for more updated information, but hasn’t heard back from her via email or phone.
+
+The records show the contractors responsible for the damage, but not the company they’re working for. An AT&T spokeswoman told WRCB in Nashville that the company’s subcontractors had damaged water lines during fiber installation twice between January 2015 and August 2016.
+
+Comcast Public Relations Director Sara Jo Walker told Watchdog on Wednesday that the company had experienced no major hits to any utilities in Nashville.
+
+The company has invested more than $120 million in the Nashville area to bring multi-gigabit speeds to the region, she said.
+
+“We are consistently working in dozens of neighborhoods across the area to strengthen our customers’ internet experience and to offer faster speeds to more people,” Walker said.
+
+Google Fiber didn’t reveal how much damage its contractors had done, but said “our proactive damage prevention program includes careful planning with each entity, beginning with requesting utilities be accurately marked to construction coordination.”
+
+Water line breaks are mostly a nuisance, but Google Fiber crews have also ruptured gas lines, which can be a much more serious public threat. A gas leak along Wallace Road in south Nashville caused by a Google Fiber contractor last April resulted in the evacuations of the Women’s Imaging Center and eight homes along Hopedale Drive.
+
+Google Fiber contractors also hit a gas line on Herman Street last July. WRCB reported there have been at least four gas line leaks by Google Fiber contractors in Nashville.
+
+Google Fiber’s rivals, including AT&T and Comcast, are currently suing over “one-touch, make-ready” ordinances in Nashville and Louisville.
+
+RELATED: AT&T sues Nashville over one-touch, make-ready ordinance
+
+These laws, designed to aid Google Fiber in building its network more quickly, would allow a single contractor to move all existing network equipment on any utility poles in the city to prepare them for a new provider to install its equipment. AT&T argues in its lawsuit in Tennessee district court that there’s not sufficient recourse if its property is damaged and the new law could interfere with existing union contracts.
+
+Although much of the fiber is installed above ground along the poles, a fair amount of the work still takes place underground, leading to taxpayer headaches.
+
+Johnny Kampis is a national reporter for Watchdog.org. Contact him at jkampis@watchdog.org and on Twitter @TuscaloosaJohn

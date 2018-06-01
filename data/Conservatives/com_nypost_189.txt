@@ -1,0 +1,52 @@
+https://nypost.com/2018/05/30/only-apple-can-save-humanity-from-smartphone-enslavement/
+['Nick Whigham', 'May']
+2018-05-30 00:00:00
+Only Apple can save humanity from smartphone enslavement
+ 
+Facebook should be regulated like the cigarette industry.
+
+Too much screen time is like digital heroin to kids.
+
+Internet addiction changes your brain similarly to cocaine.
+
+These are all headlines from recent articles in The Guardian, NBC and CBS News that cite preliminary studies looking at the addictive and potentially harmful effects of too much tech in our daily lives.
+
+The issue of how constant connectivity and screen time is affecting our behavior and mental wellbeing has become increasingly pertinent in recent times. Rightly or wrongly, a growing section of the population is concerned about it.
+
+Earlier this month, Google announced a suite of tools (coming soon) to help people achieve balance in their digital lives, citing that 70 percent of users wanted help with regulating their digital wellbeing.
+
+“We’re creating tools and features that help people better understand their tech usage, focus on what matters most, disconnect when needed, and create healthy habits,” the company said.
+
+It might sound a bit ridiculous because let’s be honest, adults should be able to self-regulate such things, and the cynical among us might point out that one of Google’s “solutions” simply involves steering people toward speaking to its AI-powered home speaker.
+
+But nonetheless, a group called Digital Wellness Warriors thinks it’s a step in the right direction and is calling on Apple to follow suit and put a greater emphasis on allowing users to pursue healthy digital habits.
+
+The group, which claims to represent a community of app developers and non-profit organizations, has started a petition asking Apple to open its software development kit to let developers help users with mental wellbeing.
+
+“We can assume that the majority of iPhone owners also need support to manage their smartphone habits, but as yet there are limited tools available to them,” the petition states.
+
+“Unfortunately, as digital wellness developers, we are restricted in our ability to help the iOS user base, due to the nature of Apple’s operating systems.”
+
+There are a handful of apps in the Apple app store that you can buy to help you monitor your screen time and social media use. But one of the very few free and easy hacks to help you tackle your mindless desire to reach for your phone is something known as the “greyscale trick.” It involves turning your iPhone screen monochrome in settings and judging by the number of people who share the hack on social media, there’s plenty who find it useful.
+
+The petition to Apple is the latest in a string of calls for the world’s richest tech company to address issues around phone addiction, particularly in kids and teens.
+
+An article in the New York Times earlier this year ran the headline: “It’s Time for Apple to Build a Less Addictive iPhone.”
+
+“It’s not Apple’s fault that you feel enslaved by your phone,” the article began. “But the company that gave the world the modern smartphone has a perfect opportunity this year to create a brave and groundbreaking new take on that device: a phone that encourages you to use it more thoughtfully, more deliberately — and a lot less.”
+
+Center for Humane Technology founder Tristan Harris has been described by The Atlantic as the “closest thing Silicon Valley has to a conscience.”
+
+He spent three years as a Google design ethicist developing a framework for how technology should ethically steer the thoughts and actions of billions of people. He believes Apple is perhaps the only company that could make a genuine effort to tackle the issue.
+
+“I do think this is (Apple’s) time to step up,” Harris told the Times. “In fact, they may be our only hope.”
+
+Unlike the other big tech giants like Facebook and Google, Apple doesn’t depend on tech addiction to keep serving you ads. They mainly just want to sell you a new laptop and iPhone every few years.
+
+The Times article came after two large Apple shareholders penned open letters to the company urging a stronger stance on iPhone “addiction” among children.
+
+New York-based Jana Partners and the California State Teachers’ Retirement System (CalSTRS) said the firm must do more to help children fight addiction on its devices.
+
+“There is a developing consensus around the world including Silicon Valley that the potential long-term consequences of new technologies need to be factored in at the outset, and no company can outsource that responsibility,” the investors who control $2 billion of Apple stock wrote.
+
+“Apple can play a defining role in signaling to the industry that paying special attention to the health and development of the next generation is both good business and the right thing to do.”

@@ -1,0 +1,68 @@
+http://money.cnn.com/2018/05/30/news/companies/regulator-volcker-rule-overhaul/index.html
+['Donna Borak']
+2018-05-30 00:00:00
+Regulators soften trading rule for banks
+ 
+Big banks are poised for a long-sought win.
+
+Regulators on Wednesday unveiled their first rewrite of a post-financial crisis rule that bars banks from making risky trades with their own money, including customer deposits.
+
+The proposed changes would make it easier for banks to gain exemptions and resume some of the profitable trading they did before the crisis. Banks would also get more freedom to determine for themselves which trades are acceptable under the rules.
+
+The provision, known as the Volcker rule, was a landmark piece of Dodd-Frank, the financial reform law enacted in 2010. It bans what's known as proprietary trading, and blocks banks from taking big stakes in hedge funds or private-equity firms.
+
+The rule was named for Paul Volcker, a former Federal Reserve chair. Banks have said for years that it's too complex and difficult to comply with.
+
+Fed Chairman Jerome Powell said in a statement that the proposal would strike at "some of the uncertainty and complexity that now make it difficult for firms to know how best to comply, and for supervisors to know that they are in compliance."
+
+Supporters of the regulatory safeguard called the proposed changes a giveaway big banks.
+
+"These are not small, technical changes," said Democratic Senator Jeff Merkley of Oregon, one of the co-authors of the Volcker rule. "These are massive rewrites to make it easier for Wall Street banks to engage in the same types of risky bets that brought down our economy in 2008."
+
+Related: House clears path to roll back post-crisis banking rules
+
+Five federal agencies — the Fed, the SEC, the FDIC, the Office of the Comptroller of the Currency and the Commodity Futures Trading Commission — have been working on the rewrite.
+
+Under the proposed changes, banks would be freed from having to prove that they are making a trade for reasons other than speculative betting. Instead, that burden will shift to regulators.
+
+Banks would be asked to set internal limits on various trading positions, working with regulators, according to agency officials who briefed reporters on Wednesday. Banks with smaller trading desks would be subject to even fewer requirements.
+
+The proposal would also clarify how banks should distinguish between proprietary trading and what's known as market making.
+
+Trading desks often hold an inventory of securities that they anticipate will meet demand from customers. If those inventories are too great, it raises the question of whether the banks are holding them to make money on proprietary trading.
+
+Banks say it's too difficult now to determine what's proper trading, the buying and selling of securities that helps financial markets function smoothly, and what's not.
+
+"We want banks to be able to engage in market making and provide liquidity to financial markets with less fasting and prayer about their compliance with the Volcker rule," Randal Quarles, the Fed's vice chairman for supervision, said in a speech to bankers in March.
+
+Quarles said Wednesday's proposal was a "important milestone" but should be considered the first step at simplifying the rule. He said it is "not the completion of our work."
+
+Wall Street analysts had been expecting the rewrite to be modest.
+
+"This is not a radical change, and the results for the biggest banks may be less than the headlines would suggest," Jaret Seiberg, an analyst at Cowen Washington Research Group, wrote in a note to clients on Tuesday.
+
+Related: Changes at CFPB's student loan division worry advocates
+
+Still, for regulators, it's yet another tilt toward the industry since President Trump took office.
+
+Thousands of community and regional banks won a reprieve last week from some of the toughest post-crisis rules under Dodd-Frank. Among the changes signed into law by Trump, banks with less than $10 billion in assets will no longer have to comply with the proprietary-trading rule.
+
+"The Volcker rule is hated by big banks because it forces them to engage in less risky behavior," said Karl Frisch, executive director of the consumer advocacy organization Allied Progress. "They couldn't care less that their previous actions led to millions of Americans losing their jobs, retirement savings, and homes."
+
+The initial plan by regulators eliminates certain requirements to make it easier for banks to hedge against losses.
+
+Bankers have long lamented that steep compliance costs made it harder to reap the benefits of exemptions tucked into the rule, which came into effect in 2015. It took years for regulators to finalize a plan that would prevent banks from making speculative market bets with their own money.
+
+To simplify the rules, regulators agreed to create three buckets for financial firms based on their trading activity. Roughly 18 firms, which have "significant trading assets and liabilities" of at least $10 billion or more, would face the strictest oversight.
+
+Related: Italy crisis rocks markets. Here's why investors are worried
+
+The Fed, which unanimously approved the proposal on Wednesday, is the first of the agencies to consider it. It will be months before the changes take effect.
+
+"A final rule in 2018 is no sure thing," Ian Katz, an analyst at Capital Alpha Partners wrote in a report this week.
+
+The FDIC, which meets on Thursday, is the next agency scheduled to consider the plan. The CFTC has scheduled its meeting for June 4. Each agency must sign off on changes and vote on whether to seek public comment.
+
+Isaac Boltansky, director of policy research at Compass Point Research & Trading, said in an analyst note that changing the rule will be a "lengthy process," with five agencies in charge.
+
+House lawmakers are hoping to streamline that process by proposing the Fed be in charge of overseeing how banks adhere to the Volcker rule. But the effect could be limited, Boltansky said.

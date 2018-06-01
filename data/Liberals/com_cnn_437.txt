@@ -1,0 +1,132 @@
+https://www.cnn.com/2018/02/11/health/aetna-california-investigation/index.html
+['Story Wayne Drash', 'Cnn Video Elizabeth Cohen', 'John Bonifield']
+2018-02-11 00:00:00
+State launches Aetna probe after stunning admission
+ 
+(CNN) California's insurance commissioner has launched an investigation into Aetna after learning a former medical director for the insurer admitted under oath he never looked at patients' records when deciding whether to approve or deny care.
+
+California Insurance Commissioner Dave Jones expressed outrage after CNN showed him a transcript of the testimony and said his office is looking into how widespread the practice is within Aetna.
+
+"If the health insurer is making decisions to deny coverage without a physician actually ever reviewing medical records, that's of significant concern to me as insurance commissioner in California -- and potentially a violation of law," he said.
+
+Aetna, the nation's third-largest insurance provider with 23.1 million customers, told CNN it looked forward to "explaining our clinical review process" to the commissioner.
+
+The California probe centers on a deposition by Dr. Jay Ken Iinuma, who served as medical director for Aetna for Southern California from March 2012 to February 2015, according to the insurer.
+
+During the deposition, the doctor said he was following Aetna's training, in which nurses reviewed records and made recommendations to him.
+
+Jones said his expectation would be "that physicians would be reviewing treatment authorization requests," and that it's troubling that "during the entire course of time he was employed at Aetna, he never once looked at patients' medical records himself."
+
+"It's hard to imagine that in that entire course in time, there weren't any cases in which a decision about the denial of coverage ought to have been made by someone trained as a physician, as opposed to some other licensed professional," Jones told CNN.
+
+"That's why we've contacted Aetna and asked that they provide us information about how they are making these claims decisions and why we've opened this investigation."
+
+The insurance commissioner said Californians who believe they may have been adversely affected by Aetna's decisions should contact his office
+
+Members of the medical community expressed similar shock, saying Iinuma's deposition leads to questions about Aetna's practices across the country.
+
+"Oh my God. Are you serious? That is incredible," said Dr. Anne-Marie Irani when told of the medical director's testimony. Irani is a professor of pediatrics and internal medicine at the Children's Hospital of Richmond at VCU and a former member of the American Board of Allergy and Immunology's board of directors.
+
+"This is potentially a huge, huge story and quite frankly may reshape how insurance functions," said Dr. Andrew Murphy, who, like Irani, is a renowned fellow of the American Academy of Allergy, Asthma and Immunology. He recently served on the academy's board of directors.
+
+The Gillen Washington case
+
+Gillen Washington, 23, says he hopes to force change at Aetna.
+
+The deposition by Aetna's former medical director came as part of a lawsuit filed against Aetna by a college student who suffers from a rare immune disorder. The case is expected to go to trial later this week in California Superior Court.
+
+Gillen Washington, 23, is suing Aetna for breach of contract and bad faith, saying he was denied coverage for an infusion of intravenous immunoglobulin (IVIG) when he was 19. His suit alleges Aetna's "reckless withholding of benefits almost killed him."
+
+Aetna has rejected the allegations, saying Washington failed to comply with their requests for blood work. Washington, who was diagnosed with common variable immunodeficiency, or CVID, in high school, became a new Aetna patient in January 2014 after being insured by Kaiser.
+
+Aetna initially paid for his treatments after each infusion, which can cost up to $20,000. But when Washington's clinic asked Aetna to pre-authorize a November 2014 infusion, Aetna says it was obligated to review his medical record. That's when it saw his last blood work had been done three years earlier for Kaiser.
+
+Despite being told by his own doctor's office that he needed to come in for new blood work, Washington failed to do so for several months until he got so sick he ended up in the hospital with a collapsed lung.
+
+Once his blood was tested, Aetna resumed covering his infusions and pre-certified him for a year. Despite that, according to Aetna, Washington continued to miss infusions.
+
+Washington's suit counters that Aetna ignored his treating physician, who appealed on his behalf months before his hospitalization that the treatment was medically necessary "to prevent acute and long-term problems."
+
+"Aetna is blaming me for what happened," Washington told CNN. "I'll just be honest, it's infuriating to me. I want Aetna to be made to change."
+
+During his videotaped deposition in October 2016, Iinuma -- who signed the pre-authorization denial -- said he never read Washington's medical records and knew next to nothing about his disorder.
+
+Intravenous immunoglobulin can cost as much as $20,000 per treatment. It helps patients like Gillen Washington stave off infection.
+
+Questioned about Washington's condition, Iinuma said he wasn't sure what the drug of choice would be for people who suffer from his condition.
+
+Iinuma further says he's not sure what the symptoms are for the disorder or what might happen if treatment is suddenly stopped for a patient.
+
+"Do I know what happens?" the doctor said. "Again, I'm not sure. ... I don't treat it."
+
+Iinuma said he never looked at a patient's medical records while at Aetna. He says that was Aetna protocol and that he based his decision off "pertinent information" provided to him by a nurse.
+
+"Did you ever look at medical records?" Scott Glovsky, Washington's attorney, asked Iinuma in the deposition.
+
+"No, I did not," the doctor says, shaking his head.
+
+"So as part of your custom and practice in making decisions, you would rely on what the nurse had prepared for you?" Glovsky asks.
+
+"Correct."
+
+Iinuma said nearly all of his work was conducted online. Once in a while, he said, he might place a phone call to the nurse for more details.
+
+How many times might he call a nurse over the course of a month?
+
+"Zero to one," he said.
+
+Glovsky told CNN he had "never heard such explosive testimony in two decades of deposing insurance company review doctors."
+
+Aetna's response
+
+Aetna defended Iinuma, who is no longer with the company, saying in its legal brief that he relied on his "years of experience" as a trained physician in making his decision about Washington's treatment and that he was following Aetna's Clinical Policy Bulletin appropriately.
+
+"Dr. Iinuma's decision was correct," Aetna said in court papers. "Plaintiff has asserted throughout this litigation that Dr. Iinuma had no medical basis for his decision that 2011 lab tests were outdated and that Dr. Iinuma's decision was incorrect. Plaintiff is wrong on both counts."
+
+Gillen Washington receives an infusion of the medicine needed to boost his immune system. He calls it "the magic juice."
+
+In its trial brief, Aetna said: "Given that Aetna does not directly provide medical care to its members, Aetna needs to obtain medical records from members and their doctors to evaluate whether services are 'medically necessary.' Aetna employs nurses to gather the medical records and coordinate with the offices of treating physicians, and Aetna employs doctors to make the actual coverage-related determinations.
+
+"In addition to applying their clinical judgment, the Aetna doctors and nurses use Aetna's Clinical Policy Bulletins ('CPBs') to determine what medical records to request, and whether those records satisfy medical necessity criteria to support coverage. These CPBs reflect the current standard of care in the medical community. They are frequently updated, and are publicly available for any treating physician to review."
+
+Jones, the California insurance commissioner, said he couldn't comment specifically on Washington's case, but what drew his interest was the medical director's admission of not looking at patients' medical records.
+
+"What I'm responding to is the portion of his deposition transcript in which he said as the medical director, he wasn't actually reviewing medical records," Jones told CNN.
+
+He said his investigation will review every individual denial of coverage or pre-authorization during the medical director's tenure to determine "whether it was appropriate or not for that decision to be made by someone other than a physician."
+
+If the probe determines that violations occurred, he said, California insurance code sets monetary penalties for each individual violation.
+
+CNN has made numerous phone calls to Iinuma's office for comment but has not heard back. Heather Richardson, an attorney representing Aetna, declined to answer any questions.
+
+Asked about the California investigation, Aetna gave this written statement to CNN:
+
+"We have yet to hear from Commissioner Jones but look forward to explaining our clinical review process.
+
+"Aetna medical directors are trained to review all available medical information -- including medical records -- to make an informed decision. As part of our review process, medical directors are provided all submitted medical records, and also receive a case synopsis and review performed by a nurse.
+
+"Medical directors -- and all of our clinicians -- take their duties and responsibilities as medical professionals incredibly seriously. Similar to most other clinical environments, our medical directors work collaboratively with our nurses who are involved in these cases and factor in their input as part of the decision-making process."
+
+Gillen Washington became emaciated and gravely ill after four months without treatment.
+
+'A huge admission'
+
+Dr. Arthur Caplan, founding director of the division of medical ethics at New York University Langone Medical Center, described Iinuma's testimony as "a huge admission of fundamental immorality."
+
+"People desperate for care expect at least a fair review by the payer. This reeks of indifference to patients," Caplan said, adding the testimony shows there "needs to be more transparency and accountability" from private, for-profit insurers in making these decisions.
+
+Murphy, the former American Academy of Allergy Asthma and Immunology board member, said he was "shocked" and "flabbergasted" by the medical director's admission.
+
+"This is something that all of us have long suspected, but to actually have an Aetna medical director admit he hasn't even looked at medical records, that's not good," said Murphy, who runs an allergy and immunology practice west of Philadelphia.
+
+"If he has not looked at medical records or engaged the prescribing physician in a conversation -- and decisions were made without that input -- then yeah, you'd have to question every single case he reviewed."
+
+Murphy said when he and other doctors seek a much-needed treatment for a patient, they expect the medical director of an insurance company to have considered every possible factor when deciding on the best option for care.
+
+Follow CNN Health on Facebook and Twitter See the latest news and share your comments with CNN Health on Facebook and Twitter.
+
+"We run into the prior authorization issues when we are renewing therapy, when the patient's insurance changes or when an insurance company changes requirements," he said.
+
+"Dealing with these denials is very time consuming. A great deal of nursing time is spent filling and refilling out paperwork trying to get the patient treatment.
+
+"If that does not work, then physicians need to get involved and demand medical director involvement, which may or may not occur in a timely fashion -- or sometimes not at all," he said. "It's very frustrating."

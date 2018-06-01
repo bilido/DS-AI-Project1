@@ -1,0 +1,56 @@
+https://www.cnn.com/2018/05/23/opinions/mark-zuckerberg-european-parliament-facebook-verhofstadt-intl/index.html
+['Guy Verhofstadt']
+2018-05-23 00:00:00
+Mark Zuckerberg failed to address European concerns about Facebook
+ 
+Guy Verhofstadt, a former Belgian prime minister, is president of the Alliance of Liberals and Democrats for Europe Group (ALDE) in the European Parliament. The opinions in this article are those of the author.
+
+(CNN) On Tuesday evening, members of the European Parliament representing the broad church of the European Parliament's political families -- of which I was one, as the president of the Liberal and Democrat grouping -- gathered in Brussels to question embattled Facebook CEO Mark Zuckerberg .
+
+The session took place in light of revelations about the misuse of European citizens' data following the Cambridge Analytica scandal, amid allegations of widespread election and referenda interference and allegations of non-compliance with EU data security legislation.
+
+After numerous requests for testimony, Mr. Zuckerberg finally agreed to answer a few questions from each of the politicians in attendance, under a prearranged format that was doomed to disappoint both the public and journalists alike.
+
+The fact that the session amounted to considerably less time than was offered to US legislators in the Senate and Congress did not go unnoticed.
+
+In the end, Mr. Zuckerberg refused to answer almost all of the questions posed, instead accepting an offer to submit written answers to my questions and those of fellow parliamentarians.
+
+In just over 90 minutes, Mr. Zuckerberg rattled out a stream of apologies mixed with pleas for patience and promises to investigate the breaches and harvesting of EU citizens' data, the infiltration of dark ads and fake accounts sowing discord online.
+
+Fundamental questions remained unanswered. The Facebook CEO offered apologies for past mistakes. But in my view, saying sorry and promising to fix mistakes isn't enough when our democratic processes are being undermined.
+
+The more I heard from Mr. Zuckerberg, the more he reminded me of the fictional character Mr. Kalden from the book "The Circle," the owner of a big data company which grew out of his control and ended up facilitating the manipulation of elections and distorting democratic processes.
+
+While the buck stops with Mr. Zuckerberg as the CEO of Facebook, European institutions have also dramatically failed to implement their own data protection safeguards. Both now have to answer the following questions:
+
+The case of Facebook and Cambridge Analytica was known for months, if not years. Why didn't data protection authorities in Europe act sooner?
+
+Why haven't EU-based users of Facebook been individually informed whether their data was misused -- and will the necessary compensation be forthcoming?
+
+How many other companies have played fast and loose with our data protection regulations?
+
+Is Facebook tracking the data browsing history of people who logged off or are not even Facebook users? If so, why?
+
+Facebook enjoys an unprecedented monopoly position; will the EU anti-trust authorities investigate and will Facebook cooperate?
+
+JUST WATCHED Internet roasts Zuckerberg for 'booster seat' Replay More Videos ... MUST WATCH Internet roasts Zuckerberg for 'booster seat' 01:55
+
+In an era of big data, politicians -- who often lack the technical knowledge required to understand how big tech operates -- are playing catch up. European regulators and legislators must now embark on a thorough review of European laws covering data protection, fake news and online platforms.
+
+Mr. Zuckerberg's testimony came in the same week that the EU's General Data Protection Regulation enters into force, setting a new global standard for consumer data privacy.
+
+However, there are already fears that Facebook has taken steps to at best mitigate the protections detailed in the GDPR legislation and at worse, to evade its provisions.
+
+We need Mr. Zuckerberg to explain in detail how he uses the US-EU Privacy Shield agreement to transfer data to the US, and why he chooses to export the data of Facebook users to another jurisdiction, outside the EU, by changing the terms of their contract with users.
+
+This contrasts rather sharply with his promise to apply European GDPR standards even outside of the EU.
+
+Following this week's hearing, the prospect of tighter EU legislation on a range of issues has now increased markedly.
+
+For too long we have stood by as our online platforms, increasingly the prominent source of news for citizens in our democracies, is polluted by foreign state and non-state actors who wish to sow disinformation and leverage division in our societies for their own ends.
+
+This has to end, which is why I welcome calls by French President Emmanuel Macron to clamp down on the proliferation of online fake news.
+
+Mr. Zuckerberg has committed to take concrete measures to ban all bots and guarantee that bots cannot misuse Facebook's platform. If this action is not forthcoming, it will strengthen the case for stricter regulation.
+
+The health of European democracy should be reliant on European legislation and the safeguards that democratically elected governments have developed, not the scout's honor of an American CEO, no matter how powerful or wealthy.

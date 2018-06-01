@@ -1,0 +1,46 @@
+https://www.cnn.com/2016/02/28/opinions/trump-first-amendment-protections-opinion-randazza/index.html
+['Marc Randazza', 'Justice William Brennan']
+2016-02-28 00:00:00
+Is the First Amendment safe from Donald Trump?
+ 
+Marc J. Randazza is a Las Vegas-based First Amendment attorney and managing partner of the Randazza Legal Group. Follow him on Twitter: @marcorandazza. The opinions expressed in this commentary are his.
+
+(CNN) Donald Trump has said a lot of strange things -- some funny, some creepy, but none scarier than what he said on Friday : that if he is elected president, he will "open up our libel laws" to make it easier to sue the media and "win lots of money." No matter what you may think about his other policy ideas, if he keeps this promise, we won't be able to effectively express dissent against anything else he might want to do. We can fight any bad policy if we have a robust First Amendment.
+
+Some say that Trump is just being a blowhard, that he doesn't know what he is talking about, and that for all his bluster, there is nothing he could or would do.
+
+I am not so sure. Trump has a history of filing SLAPP suits. SLAPP stands for Strategic Lawsuit Against Public Participation. This describes a lawsuit filed against someone for exercising his or her First Amendment rights -- filed with little chance of success, but with the knowledge that the lawsuit itself is the punishment. After all, if people have to spend hundreds of thousands of dollars to defend themselves because they criticized Donald Trump, they might think better of doing so again in the future.
+
+However, some states, like California and Nevada , have strong anti-SLAPP laws, which dispense with such cases early and force the plaintiff to pay the defendant's attorneys' fees. (Full disclosure: I was instrumental in urging passage of the Nevada Anti-SLAPP law.)
+
+Trump recently got stung with an anti-SLAPP decision, which he probably had in mind when he spoke about "opening up" our libel laws. In fact, he isn't the first big shot to try to make it easier to sue for defamation after having a SLAPP suit blow up in his face.
+
+Therefore, Trump is clearly frustrated with anti-SLAPP laws (which shows that they work) and the landmark defamation case, New York Times v. Sullivan.
+
+When people say that Trump can't do anything about defamation law at the federal level, I think they miss the point that there is a lot of support for a federal anti-SLAPP law. I think we need one, and in fact, HR 2304 was one such proposal this last session. If it passes, we could expect President Trump to veto it.
+
+Beyond new federal legislation, defamation law is a matter of state law, leaving little for a president to do about it. To win a defamation case, the plaintiff must show publication of a false statement of fact that damages the plaintiff's reputation. This standard can vary a bit from state to state, but it generally fits that general set of requirements.
+
+Therefore, what could Trump do to "open up" the libel laws? He personally? Nothing legally, but if elected, he could pick Supreme Court justices willing to revisit New York Times v. Sullivan, which is in my view the most important case protecting our First Amendment rights. It is the greatest protection we have from government officials or powerful businesses choking the life out of public debate and a free press. Overturning it would change everything we know about freedom of the press.
+
+In a defamation case involving an ordinary citizen suing for defamation, the citizen only needs to show that the defendant knew the statement was false, or failed to exercise "reasonable care" before publishing it. So let's say that a blogger writes an article about a private citizen accusing that person of a crime, based on a false statement by a witness, without following up. That might be a failure to exercise reasonable care, and the blogger might lose the case.
+
+But if the same blogger wrote one about a public figure, like Trump, then Trump has to prove that the blogger did so with "actual malice."
+
+Even some judges and lawyers get this wrong, so don't feel bad if you didn't know what "actual malice" means. It has nothing to do with "malice" at all. It means that the defendant published the statement knowing it was false or with a reckless disregard for the truth.
+
+So if we return to my example, let's say someone wrote a blog post about Donald Trump, accusing him of a crime, but based it just on an anonymous email, without following up -- that might be considered to be "reckless disregard."
+
+Why the different standard depending on the plaintiff?
+
+From New York Times v. Sullivan: "(W)e consider this case against the background of a profound national commitment to the principle that debate on public issues should be uninhibited, robust, and wide-open, and that it may well include vehement, caustic, and sometimes unpleasantly sharp attacks on government and public officials."
+
+Debate on public issues should be uninhibited, robust, and wide-open... Justice William Brennan
+
+How beautiful that language is. It encapsulates what America is all about, the way only Justice William Brennan could.
+
+The court recognized that public figures have access to the media to defend themselves, and it went on to reject any notion that the speaker must prove truth; instead the plaintiff must prove falsity. This is all because the First Amendment needs "breathing space" in order for free speech to survive. And if we impose liability for merely erroneous reports on political conduct, it would reflect the "obsolete doctrine that the governed must not criticize their governors."
+
+So what if Trump appoints one or two Supreme Court judges who are willing to overturn Sullivan? Justice Elena Kagan has already voiced skepticism about the extension of Sullivan too far into other kinds of libel cases. The only member of the court I think we could count on to be strongly opposed to overturning it is Chief Justice John Roberts.
+
+No matter how flawed it is, our democracy depends upon robust free speech and free press rights. New York Times v. Sullivan matters more than anything else. If we lose the right to criticize the government in wide-open and robust debate, we lose an important part of what it means to be free.

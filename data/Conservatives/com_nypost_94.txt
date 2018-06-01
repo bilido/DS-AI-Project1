@@ -1,0 +1,32 @@
+https://nypost.com/2018/05/30/yahoo-hacker-sentenced-to-5-years-in-prison/
+['Associated Press', 'May']
+2018-05-30 00:00:00
+Yahoo hacker sentenced to 5 years in prison
+ 
+A young computer hacker who prosecutors say unwittingly worked with a Russian spy agency was sentenced to five years in prison Tuesday for using data stolen in a massive Yahoo data breach to gain access to private emails.
+
+US Judge Vince Chhabria also fined Karim Baratov $250,000 during a sentencing hearing in San Francisco.
+
+Baratov was named in a federal indictment last year that charged two Russian spies with orchestrating the 2014 Yahoo breach involving 500 million users. Baratov was charged with using that stolen data passed to him by Russia’s Federal Security Service to hack dozens of email accounts of journalists, business leaders and others.
+
+Prosecutors said Baratov, 23, was an “international hacker for hire” who did little or no research of his customers.
+
+He pleaded guilty in November to nine felony hacking charges. He acknowledged that he began hacking as a teen seven years ago and charged customers $100 a hack to access web-based emails.
+
+Baratov, who was born in Kazakhstan but lived in Toronto, Canada, where he was arrested last year, charged customers to obtain another person’s webmail passwords by tricking them to enter their credentials into a fake password reset page.
+
+Prosecutors said in court papers that Baratov’s Russian-language web site named “webhacker” advertised services for “hacking of email accounts without prepayment.”
+
+Prosecutors said Russian security service paid Baratov to target dozens of email accounts using information obtained from the Yahoo hack. Prosecutors argued that Russia’s Federal Security Service targeted Russian journalists, US and Russian government officials and employees of financial services and other private businesses.
+
+Baratov and his attorneys also said his work with the Russia spy agency was unwitting.
+
+The US Justice Department charged two Russian spies with orchestrating the 2014 security breach at Yahoo to steal data from 500 million users. Dmitry Aleksandrovich Dokuchaev and Igor Anatolyevich remain at large and prosecutors believe they are living in Russia, which doesn’t have an extradition treaty with the United States.
+
+Baratov is believed to have collected more than $1.1 million in fees, which he used to buy a house and expensive cars.
+
+“Deterrence is particularly important in a case like this,” the judge said during the hearing. He rejected prosecutors call for a prison sentence of nearly 10 years, noting Baratov’s age and clean criminal record prior to his arrest.
+
+Baratov, who has been in custody since his arrest, told the judge that his time behind bars has been “a very humbling and eye-opening experience.”
+
+He apologized and promised “to be a better man” and obey the law upon his release. The judge said it is likely Baratov will be deported once he is released from prison.

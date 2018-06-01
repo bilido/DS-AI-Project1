@@ -1,0 +1,48 @@
+http://www.dailymail.co.uk/news/article-5767103/Facebook-requires-users-buying-political-ads-provide-Social-Security-number.html
+['Snejana Farberov For Dailymail.Com']
+2018-05-24 15:07:01+01:00
+Facebook makes users buying ads to provide Social Security number
+ 
+Facebook has unveiled a set of new rules requiring buyers of political ads to provide the last four digits of their social security number as a way to verify that they live in the United States.
+
+The move comes after it was revealed that the social media platform allowed a Russian troll farm to spread fake news and propaganda in the form of sponsored ads targeting users based on their personal data, allegedly to sway public opinion in the run-un to the 2016 presidential election in favor of Donald Trump.
+
+Facebook founder and CEO Mark Zuckerberg testified before the US Congress in April about allowing the personal data of 87million users to be harvested for political purposes by the British consulting company Cambridge Analytica, which was working for the Trump campaign.
+
+Facebook has unveiled new rules requiring buyers of political ads to provide personal information verifying that they are from the US
+
+Under the new guidelines, ad buyers have to provide the last four digits of their Social Security number, along with a photo of an Id card and US mailing address
+
+Zuckerberg is currently on a tour of Europe to apologize for his company's failure to protect user data and root out fake news.
+
+Under Facebook's new guidelines, which were announced in March, anyone who wishes to run an ad related to politics, or other hot-button issues like guns, immigration, civil rights, economy and terrorism, will have to provide the last four digits of their Social Security number, along with a photo of a government-issued identification card and a US mailing address.
+
+If the information checks out, the user will be mailed a code authorizing the purchase of Facebook ads.
+
+Facebook tells CNN, which first reported the story, that users' personal information used in the verification process will be deleted within about six weeks.
+
+The new rules also apply to ads focusing on such hot-button issues as immigration, guns, abortion and civil rights
+
+The move comes after it was revealed that the social media platform allowed a Russian troll farm to spread fake news and propaganda in the form of sponsored ads like this one ahead of the 2016 election
+
+All ads advocating for or against political candidates, and even those simply mentioning a candidate’s name, will be accompanied by a 'paid for by' tag.
+
+Ads focusing on the other topics from a list of 20 polarizing issues that Facebook released last month, including abortion, immigration and 'values,' will be subjected to the same verification process.
+
+Facebook plans to hire as many as 4,000 additional employees who will be tasked with reviewing and verify political ads.
+
+Mea culpa: Facebook CEO Mark Zuckerberg (pictured on Wednesday in Paris) is currently on a tour of Europe to apologize for his company's failure to protect user data and root out fake news
+
+In addition to the more rigorous verification process, the social media giant plans to harness artificial intelligence to block malicious accounts before they can spread misinformation.
+
+Facebook is not alone in having to grapple with the aftereffects of Russian interference ahead of the midterm elections in November.
+
+On Wednesday, Twitter announced it is adding special labels to tweets from some US political candidates ahead of this year’s midterm elections.
+
+Twitter says the move is to provide users with ‘authentic information’ and prevent spoofed and fake accounts from fooling users. The labels will include what office a person is running for and where.
+
+Both the candidate’s account and the tweets from it will get labels. The labels will appear on retweets as well as tweets off of Twitter, such as when they are embedded in a news story.
+
+The labels will start to appear next week for candidates for governor and Congress. Twitter wouldn’t say whether it will extend this outside the U.S., where elections interference has also been a big issue.
+
+The San Francisco-based company is working with the nonprofit, nonpartisan Ballotpedia to help identify the relevant Twitter accounts.

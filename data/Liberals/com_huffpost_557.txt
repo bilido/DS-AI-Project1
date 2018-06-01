@@ -1,0 +1,116 @@
+http://www.huffingtonpost.in/2018/05/28/cobrapost-expose-first-demonetisation-then-data-brokering-should-you-trust-paytm-with-your-personal-data_a_23445555/
+['Aman Sethi', 'Editor-In-Chief', 'Huffpost India']
+2018-05-28 00:00:00
+CobraPost Exposé: First Demonetisation Then Data Brokering; Should You Trust Paytm With Your Personal Data?
+ 
+New Delhi — "Aaaaaaaah ..... Aaaaaaaah ..... Aaaaah..... Aaaaaaah."
+
+December 31 2016 found Paytm founder Vijay Shekhar Sharma barely coherent in square-rimmed spectacles, jeans, and a Zuckerberg-style blue hoodie, on stage at Paytm's Revolution 2017 New Year party screaming:
+
+"Aaaaaah.... Aaaaaah.... Aaaaah.... Aaaaah."
+
+A month and a half earlier, on 8 November, Prime Minister Narendra Modi had demonetised all five hundred and one thousand rupee notes in an unscheduled televised address. That night, 85% of India's cash in circulation ceased to be legal tender.
+
+The next morning, Paytm took out front page newspaper advertisements congratulating the prime minister on the "boldest decision in the financial history of Independent India!"
+
+SUBSCRIBE AND FOLLOW Get top stories and blog posts emailed to me each day. Newsletters may offer personalized content or advertisements. Learn more Newsletter Please enter a valid email address Thank you for signing up! You should receive an email to confirm your subscription shortly. There was a problem processing your signup; please try again later Facebook
+
+Twitter
+
+Youtube
+
+The cashless future Sharma had staked his company on was here, Paytm was best placed to capitalise on demonetisation. The money deposited in Paytm mobile wallets had increased a 1000% in a month and it felt like:
+
+"Aaaaaaaaaaaaaaah!
+
+"Those who aren't with us are going to cry," Sharma shouted into the microphone that heady night in 2017, a video of which soon went viral, before dissolving into a stream of obscenities.
+
+Eighteen months later, on May 25 this year, Sharma's younger brother and senior vice president at Paytm, Ajay, would get his own viral video.
+
+In the grainy footage shot on a hidden camera, Ajay appears to tell an undercover CobraPost journalist that Paytm had very close relations with Rashtriya Swayamsevak Sangh, the parent organisation of the ruling Bharatiya Janta Party.
+
+"In J&K, there was a strike – stone pelting," Ajay appears to say. "We got personally got a phone call from the PMO, saying give the data – maybe they are Paytm users."
+
+Ajay also appears to say that the "RSS is in our blood", and that Paytm bought advertisements in the Organiser, the RSS's mouthpiece, as a way to fund the parent organisation.
+
+For Sharma's detractors, these two viral videos point to Paytm's cosy relationship with the ruling party, and cement his reputation as the most recent corporate honcho — in an economy ruled by politically-connected oligarchs – to have the good fortunate of getting crucial policy decisions to swing his way.
+
+Paytm's rise and explosive growth epitomises India's rapidly evolving data eco-system where scores of tech startups, with varying degrees of funding from global funds, are offering heavily subsidised services in exchange for gathering deep tranches of personal data of citizens, with no legal oversight, and few constraints on how this data is shared.
+
+The two viral videos also reveal how Indian tech companies are following the lead of their Chinese collaborators (Paytm's largest shareholder is ANT Financial, the Chinese powerhouse behind Alibaba) in pleasing the Indian state, and ruling party, rather than safeguarding their consumers.
+
+In a statement on their website, Paytm steered clear of directly addressing Ajay's alleged statements, and did not clarify if it had shared data of Paytm users with law enforcement agencies:
+
+Our policy allows ONLY legally compliant data requests from the law of the land to get access to data for necessary investigations. To further clarify, in the past, we have neither received requests nor shared any data without a legally compliant request from a bonafide agency and through proper process and channels. You can be sure that no data is shared with anyone whom you would not have given us permission to share it with.
+
+Vijay Shekhar Sharma did not respond to a set of questions from HuffPost India.
+
+Nerds Making Money
+
+In the early 1990s Vijay Shekhar Sharma - the son of a government school biology teacher in a village outside Aligarh – found himself at the Delhi College of Engineering. He was 15, having jumped two grades in school, and didn't speak very good English.
+
+He withdrew to the college computer lab, taught himself code, and on Sundays went to the book bazaar in Dariyaganj where he bought back issues of Forbes and Fortune to teach himself English.
+
+These were the first heady days of internet culture. In December 1994, Marc Andreesen released Netscape Navigator, the first commercial web-browser that hid the early web's messy protocols like FTP, gopher and telnet behind a clean point-and-click interface.
+
+When Netscape went public in 1995, the company was valued at $3 billion dollars without making a cent in profit. In February 1996, the Time magazine cover story, titled "Golden Geeks', featured a snarling Marc Andreesen seated on a gilded throne. The dotcom bubble had begun.
+
+Today, information still wants to be free, but data – of the sort that Paytm is well positioned to harvest - is the new oil.
+
+"For me, in 1994-95, internet meant 'Nerds Making Money'," said Sharma, in an interview in Paytm's Noida office in late October 2017, well before the CobraPost allegations came to light. Sharma remembers a photograph of Andreesen standing beside wires sprouting from an outsized pipe. "He was pointing at it and saying, 'This is how money flows in'."
+
+But how to wring money out of a medium whose early evangelists had proclaimed that "Information wants to be free"?
+
+Sharma would spend the next two decades wrestling with this question. His quest would coincide with seismic shifts in the global tech landscape that would place Paytm and digital payments in India in the midst of the first major battle featuring four of the world's biggest companies: Amazon, Facebook, Google, and China's Alibaba group.
+
+Today, information still wants to be free, but data – of the sort that Paytm is well positioned to harvest - is the new oil.
+
+Missed Call Wallet
+
+At One97, the holding company that owns Paytm, its first product was premised on the early dilemma of India's telecom revolution: It was 2000, everyone wanted to own a cell-phone but few could afford to make calls on one.
+
+"People would give each other missed calls, but nobody would know who called," Sharma recalled, so he set up what was effectively Truecaller for the SMS age. "You could text the number of the person who called you and we would tell you whose number was it."
+
+The service was called One97 after BSNL's popular telephone inquiry service. Over the next decade, the company branched out into mobile services like caller tunes, astrology advice, cricket scores.
+
+"There was a clear gap that we saw in 2011, that our country will need a payment system made for the mobile age"
+
+"The inherent core tool toy that we had in our hands was we could charge the customer through the telecom company's wallet," Sharma explained, "So if you wanted ringtone – money taken – if you wanted content – money taken. We had a ubiquitous and instant payment system existent in prepaid system of the operator."
+
+But it was clear to him that his business model was on borrowed time. The first iPhone was launched in 2007 followed by the App Store a year later. Customers weren't going to buy services from their cellular providers anymore, they were going to download apps like Truecaller from online stores.
+
+Yet, customers would need to figure out a way to pay for these apps and services. Even today, less than 3% of Indians have a credit card – the default mode of online payment elsewhere in the world.
+
+"There was a clear gap that we saw in 2011, that our country will need a payment system made for the mobile age," Sharma said. "We came with the name – pay through mobile – and that's called Paytm."
+
+From China with Love
+
+On October 8 2015, a year and a month before demonetisation, Sharma had a meeting with the Paytm board. He had just returned from China where he had witnessed the digital payments revolution up close.
+
+This transformation had occurred over a relatively short time, but had grown into a multi-billion-dollar business carved out between two services – Alipay, run by Paytm's majority investor the Alibaba Group, and their competitor Tencent Holding's WeChat service.
+
+Last year, China's mobile payments crossed $5.5 trillion according to consulting firm iResearch. In India, by contrast, all digital payments are expected to hit half a trillion, or less than 10% of that number by 2020, according to a report by Google and Boston Consulting Group.
+
+While Alipay was conceptualised as an easy way for China's online shoppers to pay for things on Alibaba's ecommerce sites; Tencent took a different route by letting WeChat's 890 million users send money to each other through the same messaging service that users sent each other messages, photos and videos. The WeChat service soon caught on, largely because the service assigned each user a unique QR code that could be quickly scanned to process payments.
+
+The decision, which would trigger years of litigation, effectively killed Netscape Navigator – the trailblazing browser built by Sharma's hero Marc Andreesen. (Andreesen did ok, and he now runs Andreessen Horowitz, a VC fund that — as a 2015 New Yorker profile put it — is "afire to reorder life as we know it."
+
+In February 2018, Paytm had a glimpse of its potential Netscape moment when Whatsapp started rolling out a version of its popular messaging service that integrated a money-transfer system.
+
+Could Whatsapp, with its 200 million active users in India, ambush Paytm in the way that WeChat had undermined Alibaba in China?
+
+"With Whatsapp's committed user base, it doesn't need to spend dollars on customer acquisition or even merchant acquisition – as merchants use the service as well," said Shiv Putcha, an analyst at IDC, "This could potentially be a problem for Paytm."
+
+Paytm responded with the pre-emptive launch of a rival service called Paytm Inbox, that allows users to send and receive money through a simple chat based interface.
+
+"I logically should be paranoid about it," said Sharma of the possible launch of Whatsapp's payment service, "We've been paranoid much before and we'll be paranoid."
+
+That was back in November last year. Since then, Sharma has appeared increasingly paranoid, to the point of describing Facebook as "the most evil firm in the world."
+
+His Twitter account is teeming with links to stories about Cambridge Analytica and the privacy and security issues plaguing Facebook, Whatsapp, and Google (another payments competitor with its Tez App).
+
+Sharma has continued to tweet in the days after the CobraPost story broke; mostly the sort of decontextualized, inspirational guff that the internet is awash in: an article on Maya Angelou on Courage and Facing Evil, and some doggerel by life coach Cara Alwill Leyba.
+
+But on the allegations that his company is sharing granular user data with the Indian government, the normally voluble CeO has said nothing.
+
+Editor's note: This article has been amended to reflect the following change: the quotation marks around the phrase life coach have been removed. We regret our error.

@@ -1,0 +1,58 @@
+https://www.cnn.com/2018/05/29/health/zika-brazil-births-study/index.html
+['Susan Scutti']
+2018-05-29 00:00:00
+Fewer babies were born in Brazil amid Zika outbreak
+ 
+(CNN) An increase in birth defects associated with a 2015-2016 epidemic of Zika virus in Brazil caused widespread concern, fear and in some cases hysteria throughout the Americas. Now, research suggests that broadcasts of the epidemic coupled with dire health warnings inspired a very real response from the population.
+
+About 120,000 fewer babies than expected were born from late 2015 through 2016, after the Zika outbreak began in Brazil, according to a study published this week in the scientific journal PNAS. The findings suggest that, due to fears of potential effects of a Zika virus infection during pregnancy, Brazilians postponed pregnancy or possibly had an increased number of abortions, the authors say.
+
+'Postponement of pregnancy and abortions'
+
+Zika virus was first identified 70 years ago. It is primarily transmitted through the bite of an infected female Aedes aegypti mosquito. Though isolated, small-scale outbreaks had occurred in various parts of the world, including Africa, Southeast Asia and the Pacific islands, no major complications had been linked to the virus until it arrived in Brazil, which reported an extensive outbreak to the World Health Organization in March 2015.
+
+During the South American outbreak, doctors and scientists observed that infection with the Zika virus during pregnancy was associated with microcephaly and other negative health effects. At the time, the Brazilian government advised women to delay pregnancy.
+
+Microcephaly, a neurological disorder in which the skull and brain of a fetus do not develop properly, can cause severe developmental issues. Other possible effects of Zika infection during pregnancy include alternative birth defects, such as eye problems or hearing loss, or miscarriage.
+
+Since the Brazilian outbreak, scientists have learned more about the virus itself, yet studies of demographic effects have lagged.
+
+Researchers led by Marcia C. Castro, a professor of demography at Harvard T.H. Chan School of Public Health, used Brazilian data on births, fetal deaths and hospitalizations related to abortion complications during 2010-16 to forecast births from September 2015 to December 2016, the period of the Zika epidemic. Though there were 119,095 fewer births than expected, no changes in fetal deaths or increases in abortion-related hospitalizations were seen.
+
+"We argue that postponement of pregnancy and abortions, primarily, likely affected fertility, with implications for women's reproductive health," Castro and her co-authors wrote.
+
+Women's reproductive rights
+
+Dr. Albert Ko, professor of epidemiology at the Yale School of Public Health, said this is "a very important study that really highlights a phenomenon about how human behavior adapts or responds to an epidemic."
+
+Ko, an expert in infectious disease who was not involved in the research, recalled how concern about birth defects rose in July and August 2015, when Brazilian obstetricians began to identify malformations during routine ultrasounds.
+
+"That was not necessarily reported until the end of September 2015," said Ko, who lived in Brazil for 15 years. "The public health emergency in Brazil was announced November 15 ... and then there was this whole deluge of media."
+
+The new study, which "drills down" into demographic data, is "the first comprehensive study to really show these trends in births," he said. Yet the research "can't really get at the exact reason why."
+
+"Zika was an important epidemic, and it highlighted the importance of women's reproductive rights in Brazil," Ko said.
+
+Abortion is illegal in Brazil except in cases of rape, incest or when the mother's life is in danger. Ko said that Brazil already had a tragedy that has been "going on for decades." That tragedy, according to Ko: a high rate of clandestine abortions with high complication rates , resulting in a large number of hospitalizations. The authors of the new study use hospitalizations from abortion complications as evidence for the number of abortions during the study period.
+
+"We don't have good data on the amount of clandestine abortions," Ko said, noting that this is a weakness of the study.
+
+Ko himself has cared for hundreds of Brazilian women with life-threatening complications resulting from clandestine abortions, "so my gut feeling going through the article is probably the major effect that the authors are seeing -- a decrease in birth -- is not actually due to intentional abortions."
+
+Because hospitalizations for abortion complications didn't rise during the study period, he believes it is more likely that fears of a Zika infection led couples to avoid conceiving during the epidemic period.
+
+Ko published a study this year that focused on the Brazilian city of Sao Jose do Rio Preto, which had a later Zika outbreak period than Sao Paulo. Having had a "jump start," he said, "the women in that city were aware of the Zika epidemic," and this resulted in a 30% decrease in births, he and his co-authors estimate.
+
+The new study, then, is a comprehensive look at what Ko and other groups have seen and reported anecdotally or on a smaller scale.
+
+One of two important questions raised by the new study, Ko said, is: How much Zika is still going to happen in the Americas and in the Caribbean?
+
+Herd immunity -- when enough people have been infected by or vaccinated against a disease and so likely won't develop an infection -- protects people, including pregnant women, who have never been exposed to the virus because it decreases the probability of viral transmission from human to mosquito to human. Ko fears there may be pockets in the Americas where a background level of exposure to the Zika virus infection has not yet reached the herd immunity limit.
+
+Follow CNN Health on Facebook and Twitter See the latest news and share your comments with CNN Health on Facebook and Twitter.
+
+The second question haunting Ko is, "Of all the women who were exposed -- and this was a large epidemic, and there were millions of women across the Americas that were exposed and millions of women who were pregnant at that time -- why did only a small fraction, 6%, 7%, 8%, develop these severe manifestations, severe birth defects due to Zika?"
+
+Cross and her co-authors note that Zika infections may have declined, but "the threat is not gone."
+
+Aedes aegypti "reigns in Brazilian cities and currently transmits dengue, Zika, chikungunya, and Mayaro virus, and is competent to transmit the strains of the yellow fever virus circulating in the country," the authors wrote. "A new epidemic of Zika virus is possible, and could be exacerbated by climatic conditions."

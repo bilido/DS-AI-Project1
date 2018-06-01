@@ -1,0 +1,16 @@
+https://www.cnbc.com/2018/05/31/apple-digital-health-to-fight-iphone-addiction--report.html
+['Todd Haselton', 'Adam Jeffery', 'Getty Images']
+2018-05-31 00:00:00
+Apple will reportedly introduce new 'Digital Health' software to help fight iPhone addiction
+ 
+Next Monday during its developer conference Apple will introduce a new feature for iPhones and iPads called "Digital Health," Bloomberg said on Thursday.
+
+Digital Health — said to launch as part of Apple's new iOS 12 operating system — will reportedly help users manage how much time they spend on their iPhones and iPads with tools that show how long users spend inside apps, according to Bloomberg.
+
+Apple will add other features, including new tools for tracking the stock market, Bloomberg said.
+
+Google introduced similar features when it unveiled the new version of Android, currently named Android P, earlier this month. Android P has an app dashboard that will show users how much time they spend inside each app. It will also let Android users set time limits for apps, which means users won't be able to access them after they've used them for a predetermined time during the day. Android P will introduce a "Do Not Disturb" mode that silences all notifications and a "Wind Down" function that turns the phone grayscale at a predetermined time so that people can prepare to go to sleep at night.
+
+Apple typically announces the new version of its operating system during its developer conference and then rolls it out to consumers in the fall. Apple was not immediately available to comment.
+
+Read the full report on Bloomberg.

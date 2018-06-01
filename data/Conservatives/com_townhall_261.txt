@@ -1,0 +1,30 @@
+http://finance.townhall.com/columnists/mikeshedlock/2018/05/21/facebook-truth-police-whos-regulating-the-regulators-n2482793
+['Mike Shedlock', 'Matt Vespa', 'Erika Haas', 'Chris Reeves']
+2018-05-21 00:00:00
+Facebook Truth Police: Who's Regulating The Regulators?
+ 
+The NYT says Germany Acts to Tame Facebook, Learning From Its Own History of Hate.
+
+Security is tight at this brick building on the western edge of Berlin. Inside, a sign warns: “Everybody without a badge is a potential spy!”
+
+Spread over five floors, hundreds of men and women sit in rows of six scanning their computer screens. All have signed nondisclosure agreements. Four trauma specialists are at their disposal seven days a week.
+
+They are the agents of Facebook. And they have the power to decide what is free speech and what is hate speech.
+
+This is a deletion center, one of Facebook’s largest, with more than 1,200 content moderators.
+
+Germany, home to a tough new online hate speech law, has become a laboratory for one of the most pressing issues for governments today: how and whether to regulate the world’s biggest social network.
+
+In the country of the Holocaust, the commitment against hate speech is as fierce as the commitment to free speech. Hitler’s “Mein Kampf” is only available in an annotated version. Swastikas are illegal. Inciting hatred is punishable by up to five years in jail.
+
+Companies that systematically fail to remove “obviously illegal” content within 24 hours face fines of up to 50 million euros.
+
+Every day content moderators in Berlin, hired by a third-party firm and working exclusively on Facebook, pore over thousands of posts flagged by users as upsetting or potentially illegal and make a judgment: Ignore, delete or, in particularly tricky cases, “escalate” to a global team of Facebook lawyers with expertise in German regulation.
+
+On Dec. 31, the day before the new law took effect, a far-right lawmaker reacted to an Arabic New Year’s tweet from the Cologne police, accusing them of appeasing “barbaric, Muslim, gang-raping groups of men.”
+
+The request to block a screenshot of the lawmaker’s post wound up in the queue of Nils, a 35-year-old agent in the Berlin deletion center. His judgment was to let it stand. A colleague thought it should come down. Ultimately, the post was sent to lawyers in Dublin, London, Silicon Valley and Hamburg. By the afternoon it had been deleted, prompting a storm of criticism about the new legislation, known here as the “Facebook Law.”
+
+For 24 hours, the post kept Facebook lawyers from Silicon Valley to Hamburg busy. The Dublin team decided that the post did not violate community standards but sent it on for legal assessment by outside lawyers hired by Facebook in Germany.
+
+Within hours of news that the German police were opening a criminal investigation into Ms. von Storch over her comments, Facebook restricted access to the post. The user who reported the content was notified that it had been blocked for a violation of section 130 of the German criminal code, incitement to hatred. Ms. von Storch was also notified too.

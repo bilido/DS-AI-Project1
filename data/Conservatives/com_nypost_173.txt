@@ -1,0 +1,20 @@
+https://nypost.com/2018/05/30/uber-adds-panic-button-to-help-you-call-911/
+['Chris Smith', 'May']
+2018-05-30 00:00:00
+Uber adds ‘panic button’ to help you call 911
+ 
+If you ever get into any sort of trouble inside an Uber car and want to call 911 quickly, you’ll be able to do so right inside the app. It’s not such a huge hassle to call 911 from the phone as it is. But Uber’s 911 addition is indeed a step forward for a company that had to deal with various user security-related incidents in the past, as it’s supposed to assist a person in distress by providing crucial additional information.
+
+The panic button, first announced back in April, was tested in India before being launched in the US.
+
+In mid-April, Uber CEO Dara Khosrowshahi announced the new 911 Assistance feature and 911 integration pilot program.
+
+The new 911 Assistance can be activated with a swipe up the screen, which brings up the Safety Center. Tap on 911 Assistance and then confirm your intention to call 911 with an additional tap. Once that’s done, you’ll see information on the screen that might be relevant to the situation, including your real-time location and address, as well as details about your ride.
+
+The feature is available for Uber riders for the time being, but the Uber app that drivers use will also get it.
+
+“We realize that a lot of situations and a lot of criminal activity arises when people think they’re not being watched,” Uber’s director of product management Sachin Kansal told The Verge. “And we just want to say that we’re turning the lights on. Part of turning the lights on is providing these features to both sides and also make sure we’re making the entire community aware of the presence of these features.”
+
+The 911 integration pilot, meanwhile, will automatically send your location data to 911 dispatchers when you place the call. The feature could save precious time and help first responders reach your location even faster. The program, however, will be limited to a handful of locations, The Verge reports, including Denver, Colorado; Charleston, South Carolina; Nashville, Tennessee; Chattanooga, Tennessee, and Naples, Florida.
+
+Uber made the news in the past thanks to quite a few security-related incidents, including a case in India where a woman was raped by an Uber driver and sued the company after reports came out that top execs including Travis Kalanick tried to discredit her. The city of London, meanwhile, decided not to renew Uber’s license last year, citing safety issues. More recently, a self-driving Uber car in Arizona fatally injured a pedestrian.

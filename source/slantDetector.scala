@@ -1,5 +1,5 @@
 //----------------------------------------------------------------------------
-// slantDetector.scala
+// slantDetector.scala  Apache Spark 2.3
 // Political Slant detector
 // Features : NaiveBayes algorithm, TF-IDF Vectors
 // dataset repository: https://github.com/bilido/DS-AI-Project1/tree/master/data

@@ -11,7 +11,6 @@ libraryDependencies ++= Seq(
   "org.apache.spark" %% "spark-sql" % sparkVersion,
   "org.apache.spark" %% "spark-mllib" % sparkVersion,
   "org.apache.spark" %% "spark-streaming" % sparkVersion,
-  "com.johnsnowlabs.nlp" %% "spark-nlp" % "1.5.4"
 )
 
 

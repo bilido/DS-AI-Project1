@@ -107,7 +107,7 @@ object slantDetector {
     //println("METRICS LABELS == > " + metrics.labels.deep.mkString(",")) // 0 = > Conservatives, 1 => Liberals
     println("METRICS CONFUSION MATRIX == > \n" + metrics.confusionMatrix + "\n\n")
 
-    NB_model.save(sc, "hdfs://10.4.2.101/user/biliido/DSI/NaiveBayesModel")
+    //NB_model.save(sc, "hdfs://10.4.2.101/user/biliido/DSI/NaiveBayesModel")
     /*
     val labels = metrics.labels
     // Precision by label

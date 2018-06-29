@@ -211,8 +211,8 @@ console.log('bias-detector.js -- starting');
         var scores = Bayes.guess(article)
         var winner = Bayes.extractWinner(scores)
 
-        /*$('#result').text(winner.label)
-        $('#accuracy').text(winner.score)*/
+        $('#result').text(winner.label)
+        $('#accuracy').text(winner.score)
 
         console.log("article classified as : " + winner.label)
         console.log("prediction accuracy : " + winner.score)

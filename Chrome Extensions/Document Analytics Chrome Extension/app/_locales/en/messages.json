@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Slant Detector",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Political Bias Detector",
+    "description": "The description of the application"
+  }
+}
